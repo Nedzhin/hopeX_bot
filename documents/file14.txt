@@ -1,0 +1,479 @@
+Measuring Fatigue in Rheumatoid Arthritis:
+A Cross-Sectional Study to Evaluate the BristolRheumatoid Arthritis Fatigue Multi-DimensionalQuestionnaire, Visual Analog Scales, andNumerical Rating Scales
+JOANNA NICKLIN,1FIONA CRAMP,1JOHN KIRWAN,2ROSEMARY GREENWOOD,3MARIE URBAN,3
+AND SARAH HEWLETT1
+Objective. Current patient-reported outcome measures of fatigue in rheumatoid arthritis (RA) have limitations, provid-
+ing only a global perspective. This study constructed a questionnaire (the Bristol RA Fatigue Multi-DimensionalQuestionnaire [BRAF-MDQ]) from 45 preliminary questions derived from analysis of patient interviews and surveys and
+explored its structure for fatigue dimensions. The BRAF-MDQ and short BRAF numerical rating scales (NRS) and visual
+analog scales (VAS) for severity, effect, and ability to cope with fatigue were evaluated for validity.Methods. Two hundred twenty-nine RA patients with fatigue (VAS score >5 of 10) completed preliminary BRAF and
+comparator fatigue scales. Iterative analyses informed item removal or retention in the BRAF-MDQ and identiﬁcation ofsubscales (using Cronbach’s alpha for internal consistency and factor analysis to identify dimensions). The BRAF-MDQ
+and short scales were tested in relation to potentially associated variables for criterion and construct validity (Spear-
+man’s correlation).Results. The 20-item BRAF-MDQ had good internal consistency (Cronbach’s
+/H9251/H115490.932), criterion validity (correlation
+with other fatigue scales: r /H115490.643– 0.813), and construct validity (correlations with disability, mood, helplessness, and
+pain: r /H115490.340 – 0.627). Factor analysis showed 4 distinct dimensions (physical fatigue, living with fatigue, cognition
+fatigue, and emotional fatigue), which correlated well with the RA Multidimensional Assessment of Fatigue scale (r /H11549
+0.548 – 0.834). The BRAF VAS and NRS showed similar criterion and construct validity.Conclusion. The BRAF instruments include standardized NRS and VAS for fatigue severity, effect, and coping, are RA
+speciﬁc, and have evidence to support validity. The BRAF-MDQ uniquely measures 4 separate dimensions, which mayfacilitate development of individually-tailored fatigue management programs.
+INTRODUCTION
+People with rheumatoid arthritis (RA) consider fatigue tobe an important physical and cognitive symptom that isoverwhelming, uncontrollable, unpredictable, unearned,
+and affects every aspect of life, and it is experienced by upto 98% of patients (by 40% daily) (1–3). RA fatigue iscomplex and multicausal with components, such as pain,stress, depression, inﬂammation, and disability, that arelikely to contribute in varying degrees at different times(4). International consensus has recommended that RAfatigue should now be measured in all RA studies along-side the core set, using an instrument validated in RAfatigue (5).
+When developing scales or instruments to measure pa-
+tient-reported outcomes such as fatigue, it is essential toinclude the issues that are important to patients (6,7), andqualitative research suggests that RA fatigue is multidi-mensional (3,8,9). A systematic review identiﬁed only 6instruments with some evidence of validation in RA, noneof which were thoroughly grounded in the patient experi-
+Dr. Nicklin’s work was supported in part by an unre-
+stricted educational grant from GlaxoSmithKline and by theAbove and Beyond Charity, University Hospitals Bristol.
+1Joanna Nicklin, PhD, RGN, Fiona Cramp, PhD, Sarah
+Hewlett, PhD, RN: University of the West of England, Bristol,
+UK;2John Kirwan, MD: University of Bristol, Bristol, UK;
+3Rosemary Greenwood, MSc, Marie Urban: University Hos -
+pitals Bristol National Health Service Foundation Trust,Bristol, UK.
+Address correspondence to Joanna Nicklin, PhD, RGN,
+Academic Rheumatology, Bristol Royal Inﬁrmary, BristolBS2 8HW, UK. E-mail: Joanna.Nicklin@bristol.ac.uk.
+Submitted for publication January 23, 2010; accepted in
+revised form June 14, 2010.Arthritis Care & Research
+Vol. 62, No. 11, November 2010, pp 1559 –1568DOI 10.1002/acr.20282© 2010, American College of Rheumatology
+ORIGINAL ARTICLE
+1559ence (10). Further, many visual analog scales (VAS) dif-
+fered substantially in their wordings and timeframes, pre-venting comparisons between studies (10). Among the
+conclusions made in the review was the need for work to
+develop and validate a standardized VAS, and the need toensure that instruments capture the essence of fatigue inRA as experienced by patients, including its severity, its
+impact, and the perceived ability of the patient to cope.
+As ﬁrst steps to meeting this requirement and working in
+close collaboration with patients, we used content andinductive thematic analysis of in-depth patient interviews
+to identify appropriate language and experiences, focus
+groups to develop appropriate wording for VAS and nu-merical rating scales (NRS), and cognitive interviewingmethodology to explore understanding of candidate ques-
+tions for a new RA fatigue scale. These approaches, fully
+reported previously (11,12), are recommended by the USFood and Drug Administration (6,13). Patients’ proposalswere clariﬁed into draft versions of VAS and NRS for
+fatigue severity, effect, and coping (the Bristol RA Fatigue
+[BRAF] short scales [see Supplementary Appendix A,available in the online version of this article at http://www3.interscience.wiley.com/journal/ 77005015/home]),
+and a 45-item draft questionnaire that included 12 fatigue
+categories derived from the qualitative analyses (cogni-
+tion, coping, emotion, energy, frequency, impact, plan-ning, quality of life, relationships, severity, sleep, andsocial life). These categories are either not covered or notadequately covered in the 4 best-validated instruments
+currently used in RA (10), the Functional Assessment of
+Chronic Illness Therapy–Fatigue (FACIT-F) subscale (14),the Multidimensional Assessment of Fatigue (MAF) scale(15), the Proﬁle of Mood States (POMS) (16), and the ShortForm 36 (SF-36) vitality scale (17). Further, existing multi-
+item fatigue questionnaires all produce a single, global
+fatigue score (14 –21). However, if there are different di-mensions of fatigue, as suggested by our qualitative analy-ses (11,12), then an instrument that could identify and
+score such dimensions separately would be advantageous.
+Because of the way it was derived, we anticipated that thedraft BRAF questionnaire would be multidimensional.
+The ﬁrst aim of the present study was therefore to eval-
+uate whether the BRAF short scales correlate strongly with
+existing fatigue instruments (evidence to support criterion
+validity) and whether they correlate only moderately withrelated constructs of pain, disability, and mood (constructvalidity) (6,7,13,22). The second aim was to identify themost appropriate of the 45 items in the draft questionnaire
+to form a coherent and internally consistent ﬁnal question-
+naire; to explore it for robust, distinct, and consistentfatigue dimensions; and then to evaluate its criterion andconstruct validity.
+PATIENTS AND METHODS
+Following research ethics committee approval, consecu-tive patients from the outpatient clinic of a large teachinghospital were invited to take part if they had a conﬁrmeddiagnosis of RA (23), were ages /H1135018 years, had English as
+a ﬁrst language, and had a score /H113505 on a 10-cm fatigueVAS (ranging from no fatigue to extreme fatigue, adapted
+from Crosby) (24). After giving informed consent, partici-pants completed the BRAF short scales, the draft 45-itemquestionnaire, and 4 existing comparator fatigue instru-
+ments (for criterion validity), the FACIT-F, MAF, POMS,
+and SF-36 vitality (14 –17). In order to evaluate constructvalidity, variables potentially associated with RA fatiguewere assessed: disability (the Health Assessment Ques-
+tionnaire) (25,26), the Hospital Anxiety and Depression
+Scale (27), the Arthritis Helplessness Index (28), and pain(10-cm VAS) (29). Two versions of the questionnaire book-let, one used at random for each patient, presented these indifferent orders to reduce potential order effect (30). Pa-tients completed their booklet without assistance fromresearch staff, either in the clinic or at home. Plasmaviscosity was recorded if taken for clinical reasons. Sam-
+ple size was calculated on the basis of 5 patients per draft
+questionnaire item for factor analysis (n /H11005225).
+Data were analyzed using SPSS, versions 14 and 15
+(SPSS), and because data were not normally distributed,Spearman’s correlations were used. For the draft question-
+naire, iterative rounds of analyses allowed the removal of
+less informative items and retention of more informativeitems. Cronbach’s alpha was used as the measure of inter-nal consistency and repeated factor analyses for the iden-
+tiﬁcation of dimensions. Together with clinical judgment
+concerning face validity, at each step the item appearing tocontribute least to the structure of the questionnaire wasremoved. When removal of further questions resulted in anoticeable reduction in Cronbach’s alpha or collapse of the
+factor structure, the ﬁnal question structure was set. In
+order to check the stability and robustness of the resultantfactors (dimensions) in the ﬁnal set of questions, repeatedfactor analyses were performed on 20 random samples of50% of the patients (bootstrapping). The ﬁnal question-
+naire, the BRAF Multi-Dimensional Questionnaire (BRAF-
+MDQ), was then evaluated for criterion and construct va-lidity using Spearman’s correlation in a similar way to thatundertaken for the VAS and NRS.
+There are different opinions regarding the strength of the
+correlation coefﬁcient (31–33). For the purposes of thiswork, correlations of r /H11005/H113500.7 are referred to as strong, r /H11005
+/H110210.7 to r /H11005/H113500.5 as moderate, and r /H11005/H11021 0.5 as weak.
+RESULTS
+Four hundred twenty-eight patients with RA were invited
+to complete the screening VAS, of whom 59 declined and95 scored /H110215 of 10 for fatigue. Of the 274 eligible patients,
+249 consented to participate, 229 returned their booklets,
+and 221 had completed the draft 45-item questionnaire(Figure 1). Patients reﬂected a wide range of personal anddisease characteristics (Tables 1 and 2). The MAF couldnot be calculated for 49 patients due to nonresponse to /H110222
+questions (Tack BB: personal communication), giving a
+MAF response rate of 78.6%.
+Evaluation of the BRAF short scales. Mean VAS and
+NRS scores for fatigue severity, effect, and coping areshown in Table 2. For each variable, the NRS and VAS1560 Nicklin et alversions correlated (r /H110050.784, r /H110050.777, and r /H110050.684 for
+severity, effect, and coping, respectively), and although
+the NRS version gave a slightly higher mean score, differ-ences between the two scales were not signiﬁcant andthere was no bias on Bland-Altman plots (34) (data notshown). The BRAF severity and effect scales correlated
+with each other, but correlations between these and the
+coping scale were weak, supporting the notion that copingwith RA fatigue is a new construct (Table 3).
+The BRAF severity scale correlated strongly with the
+MAF, FACIT-F, and POMS fatigue instruments, support-
+ing criterion validity (Table 3), and correlated moderatelywith the SF-36 vitality subscale. There were only weakassociations with pain, disability, depression, and help-lessness, suggesting that the BRAF severity scale is asso-
+ciated with but does not directly measure these constructs,
+hence supporting construct validity. There was no corre-lation between the BRAF severity scale and inﬂammation.The BRAF effect scale correlated strongly with the MAFand POMS and moderately with FACIT-F and SF-36 vital-
+ity, supporting criterion validity (Table 3). There were
+only weak correlations with disability, helplessness,mood, and pain, supporting construct validity. For theBRAF coping scale there was only weak correlation withthe existing fatigue scales, further supporting the notionthat coping with RA fatigue is a construct not encom-passed within these scales. There were only weak cor-
+relations between the coping scale and disability, help-less ness, mood, and pain, supporting construct validity.Table 1. Demographic data (n /H11549229)
+Frequency (%)
+Demographics
+Men 54 (23.6)Women 175 (76.4)Age
+/H1102140 years 23 (10.0)
+40–59 years 87 (38.0)/H1135060 years 119 (52.0)
+Employment status
+Paid employment 58 (25.3)Student 3 (1.3)Homemaker 23 (10.0)Unemployed 1 (0.4)Incapacity beneﬁt 50 (21.8)Retired 93 (40.6)Missing data 1 (0.4)
+Education
+Did not complete school 6 (2.6)School education 130 (56.8)College/apprenticeship 38 (16.6)University 31 (13.5)Missing data 24 (10.5)
+Table 2. Fatigue and disease characteristics*
+Patients,
+no.Score,
+mean/H11550SD
+Fatigue characteristics
+Draft 45-item questionnaire 221Severity VAS (0–10) 228 6.7 /H110061.8
+Severity NRS (0–10) 229 6.8 /H110061.8
+Effect VAS (0–10) 228 6.4 /H110062.4
+Effect NRS (0–10) 229 6.5 /H110062.2
+Coping VAS (0–10)† 228 5.2 /H110062.5
+Coping NRS (0–10)† 229 5.7 /H110062.3
+MAF (0–50) 180 32.9 /H110068.8
+POMS (0–25) 209 18.6 /H110066.1
+FACIT-F (0–45)† 218 21.2 /H110069.9
+SF-36 vitality scale (0–100)† 224 28.6 /H110066.1
+Disease characteristics
+Pain VAS (0–10) 225 6.0 /H110062.2
+Disability HAQ (0–3) 213 1.7 /H110060.69
+Helplessness AHI (5–30) 226 18.9 /H110064.5
+Anxiety HADS (0–21) 228 7.7 /H110063.8
+Depression HADS (0–210) 228 8.7 /H110064.3
+Plasma viscosity, mPa-s 110 1.89 /H110060.17
+/H110211.72 47
+/H110221.72 63
+* VAS /H11005visual analog scale; NRS /H11005numerical rating scale; MAF /H11005
+Multidimensional Assessment of Fatigue; POMS /H11005Proﬁle of Mood
+States; FACIT-F /H11005Functional Assessment of Chronic Illness Thera-
+py–Fatigue; SF-36 /H11005Short Form 36; HAQ /H11005Health Assessment
+Questionnaire; AHI /H11005Arthritis Helplessness Index; HADS /H11005Hos-
+pital Anxiety and Depression Scale; mPa-s /H11005millipascal-second.
+† Higher scores indicate better outcome.
+Figure 1. Recruitment to study. VAS /H11005visual analog scale.Bristol RA Fatigue Multi-Dimensional Questionnaire 1561Perceived ability to cope with fatigue was not associated with
+pain or inﬂammation. Thus, overall the BRAF short scaleswere correlated with other measures of fatigue (particularly
+the MAF and POMS), but were not closely correlated with
+other measures such as disability or mood. The BRAF coping(with RA fatigue) scale appears to measure an aspect offatigue not well captured by existing measures.
+Question reduction to derive the BRAF-MDQ. Of the 45
+draft questions, 5 were marked “Does not apply to me” by/H1102210% of participants and were therefore removed. Cron-
+bach’s alpha on the remaining 40 questions was high (
+/H9251/H11005
+0.961), and initial factor analysis suggested 7 potentialdimensions. In an exploratory factor analysis, Cronbach’s
+alpha calculated for each factor suggested that some items
+contributed little, implying potential for item reduction.Therefore, calculations of Cronbach’s alpha and furtherfactor analyses were performed after the stepwise removalof 1 item at a time in a series of iterative rounds. After each
+round, the question contributing the least (the “weakest”
+question), as identiﬁed by Cronbach’s alpha and factoranalysis (tempered occasionally by clinical judgment),was removed. When removal of a question signiﬁcantlydisrupted factor structure and stability, it was reinserted
+and the next weakest question removed. After 27 rounds, a
+20-item questionnaire emerged that appeared to contain 4separate dimensions. The factor structure of the proposedﬁnal 20-item BRAF-MDQ was then tested for robustnessand stability in a further 20 rounds of factor analysis, eachusing a random subset of 50% of the patients (bootstrap-
+ping). This ﬁnal 20-item BRAF-MDQ had excellent overallinternal consistency (
+/H9251/H110050.932) and consistently showed
+4 distinct dimensions (Table 4). After discussion with the
+patient research partner (MU), the dimensions were given
+formal labels: living ( /H9251/H110050.906), cognition ( /H9251/H110050.915),
+emotion ( /H9251/H110050.889), and physical ( /H9251/H110050.713).
+Two patient research partners were consulted regarding
+the best order for the BRAF-MDQ dimensions and ques-tions. They proposed that the order should be physical (asit has a different layout) followed by living, cognition, andﬁnally emotion (as those questions may feel challenging[35]) (see Supplementary Appendix B, available in theonline version of this article at http://www3.interscience.wiley.com/journal/77005015/home). The physical dimen-sion contains an NRS and questions on frequency andduration, but the response options to all other questionsare scored 0 –3 (where 0 /H11005not at all, 1 /H11005a little, 2 /H11005quite
+a bit, and 3 /H11005very much). Simple summation yields a
+global BRAF-MDQ score of 0 –70 (with higher scores indi-cating worse fatigue), whereas the score for each dimen-sion is different due to the varied number of questions(0 –22 for physical, 0 –21 for living, 0 –15 for cognition, and0 –12 for emotion) (see Supplementary Appendix C, avail-able in the online version of this article at http://www3.interscience.wiley.com/journal/77005015/home). Ques-tions 1 and 2 are compulsory, and only 1 answer may bemissing from each dimension (maximum 3 missing an-swers in total). Missing data are replaced by calculatingTable 3. Correlations with BRAF short scales (n /H11549229)*
+Severity BRAF Effect BRAF Coping BRAF†
+VAS NRS VAS NRS VAS NRS
+Fatigue
+BRAF
+Severity VAS 0.784 (228)† 0.720 (228)† 0.615 (228)† /H110020.357 (228)† /H110020.268 (228)‡
+Severity NRS 0.684 (228)† 0.712 (229)† /H110020.332 (228)† /H110020.235 (229)‡
+Effect VAS 0.777 (228)† /H110020.434 (228)† /H110020.352 (228)†
+Effect NRS /H110020.411 (228)† /H110020.289 (229)†
+Coping VAS§ 0.684 (228)†
+MAF 0.659 (179)† 0.798 (180)† 0.700 (179)† 0.746 (180)† /H110020.474 (179)† /H110020.382 (180)†
+POMS 0.725 (208)† 0.763 (209)† 0.661 (208)† 0.706 (209)† /H110020.364 (208)† /H110020.302 (209)†
+FACIT-F§ /H110020.651 (217)† /H110020.702 (218)† /H110020.686 (217)† /H110020.682 (218)† 0.388 (217)† 0.341 (218)†
+SF-36§ /H110020.583 (223)† /H110020.652 (224)† /H110020.596 (223)† /H110020.651 (224)† 0.446 (223)† 0.373 (224)†
+Disease variables
+HAQ 0.305 (212)† 0.331 (213)† 0.413 (212)‡ 0.376 (213)‡ /H110020.272 (212)† /H110020.214 (213)¶
+AHI 0.361 (225)† 0.445 (226)† 0.487 (225)¶ 0.494 (226)‡ /H110020.350 (225)† /H110020.324 (226)†
+HADS anxiety 0.272 (227)† 0.306 (228)† 0.394 (227)‡ 0.362 (228)¶ /H110020.374 (227)† /H110020.290 (228)†
+HADS depression 0.360 (227)† 0.415 (228)† 0.433 (227)‡ 0.456 (228)‡ /H110020.472 (227)† /H110020.424 (228)†
+Pain 0.433 (225)† 0.379 (225)† 0.442 (214)‡ 0.339 (229)‡ /H110020.156 (225) /H110020.082 (225)
+Plasma viscosity
+/H110211.72 0.090 (55) 0.045 (55) /H110020.092 (55) /H110020.142 (55) 0.123 (55) /H110020.052 (55)
+/H110221.72 0.199 (62) 0.254 (63) 0.227 (62) 0.228 (63) /H110020.026 (62) /H110020.001 (63)
+* Values are the correlation (number of patients). BRAF /H11005Bristol Rheumatoid Arthritis Fatigue. See Table 2 for additional deﬁnitions.
+†P/H110210.001.
+‡P/H110210.01.
+§ Higher scores indicate better outcome.¶P/H110210.05.1562 Nicklin et althe individual’s average score for the remaining questions
+in that dimension (as performed in this evaluation pro-cess).
+Evaluation of the ﬁnal 20-item BRAF-MDQ. The global
+and dimension BRAF-MDQ scores were calculated foreach patient. The mean /H11006SD scores were 38.4 /H1100613.7 for
+global (maximum 70), 16.7 /H110064.0 for physical (maximum
+22), 9.6 /H110065.5 for living (maximum 21), 6.1 /H110063.7 for
+cognition (maximum 15), and 5.8 /H110063.4 for emotion (max-
+imum 12). The distribution patterns for the global scoreand for each dimension differed (Figure 2), reinforcing the
+notion that RA fatigue is not a single concept.
+The BRAF-MDQ global score correlated strongly with
+the MAF, POMS, and FACIT-F, supporting criterion valid-ity (Table 5), although the correlation with the SF-36 vi-tality subscale was weak. The global score correlated only
+moderately with depression, anxiety, helplessness, and
+disability, and correlated weakly with pain. These corre-lations provide supporting evidence for construct validityand are similar to those shown by existing fatigue instru-
+ments. The BRAF-MDQ correlated slightly more strongly
+with emotions (none of the existing instruments containquestions about emotions) but less strongly with pain(Table 5).Reviewing each of the BRAF-MDQ dimensions sepa-
+rately, the physical dimension was correlated most
+strongly with existing fatigue measures and other vari-
+ables, living less so, emotion less so, and cognition theleast so (Table 5). The pattern of the correlations was asfollows: the physical dimension correlated weakly with all
+variables, living correlated moderately with helplessness
+and depression and weakly with pain, cognition correlatedweakly with anxiety, and emotion correlated moderatelywith anxiety and weakly with helplessness, disability, andpain. This broadly concurs with the overall character of
+the BRAF-MDQ item content. When compared with the
+BRAF short scales, the BRAF-MDQ physical dimensioncorrelated strongly with fatigue severity and moderately orweakly with effect and coping. Living correlated moder-
+ately with both the effect and the severity short scales, but
+weakly with the cognition short scale, and the emotiondimension had a similar pattern. The cognition dimensioncorrelated weakly with all of the short scales. These dif-
+ferences reinforce the construction of the internal dimen-
+sions of the BRAF-MDQ.
+Exploratory analysis of the BRAF-MDQ. An explor-
+atory analysis compared the BRAF-MDQ global fatigue
+and individual fatigue dimensions between women andmen (using independent samples t-tests). Women showed
+higher fatigue than men for physical fatigue, where the
+mean/H11006SD scores were 17 /H110063.8 versus 15.7 /H110064.6 ( P/H11005
+0.035), and emotional fatigue, where the mean /H11006SD scores
+were 6.1 /H110063.2 versus 4.9 /H110063.6 ( P/H110050.024). In contrast,
+there was no difference between the sexes for globalBRAF-MDQ (mean /H11006SD scores 39.1 /H110063.2 versus 36.1 /H11006
+13.5; P/H110050.17), cognitive fatigue (mean /H11006SD scores
+6.2/H110063.7 versus 5.8 /H110063.6; P/H110050.5), or living with fatigue
+(9.7/H110065.3 versus 9.6 /H110065.4; P/H110050.9).
+As an example of the different ways in which fatigue
+might affect people, the varying experiences of 4 patients
+(age range 40 –59 years) are illustrated in Figure 3 using the
+BRAF short scales. Patients A and B (women) both hadsevere fatigue (score 9 of 10) with high effect scores (8 and9 of 10). However, whereas patient A perceived that she
+could cope well (8 of 10, with higher scores indicating
+better coping), patient B perceived that she could not cope(1 of 10). Patients C and D (men) both had moderatelysevere fatigue (6 of 10) with little effects on their lives (2and 3 of 10). However, whereas patient C would require no
+support for coping (10 of 10), patient D still perceived that
+his coping was not optimum (8 of 10) (Figure 3). Using theBRAF-MDQ, 2 female patients, for example, in the sameage range (40 –59 years) and with similar global scores(28,29), differed signiﬁcantly in their underlying dimen-
+sions of fatigue, particularly for cognition and emotion,
+with physical scores of 12 versus 16, living scores of 6versus 5, cognition scores of 3 versus 6, and emotionscores of 8 versus 1.
+DISCUSSION
+It is recommended that RA fatigue should now be mea-sured in all RA studies alongside the core set, using anTable 4. Factor analysis of the ﬁnal Bristol Rheumatoid
+Arthritis Fatigue Multi-Dimensional Questionnaire
+Dimension, itemsFactors
+1234
+Living
+Difﬁcult to dress 0.839* 0.112 0.092 0.058Bath or shower 0.817* 0.171 0.155 0.028Refused invitations 0.705* 0.212 0.175 0.288Affected social life 0.650* 0.261 0.256 0.299Difﬁcult to work/daily
+activities0.609* 0.164 0.372 0.325
+Cancelled plans 0.608* 0.192 0.323 0.321
+Avoided making plans 0.605* 0.187 0.385 0.350
+Cognition
+Forgotten things 0.288 0.829* 0.128 0.115Concentrate 0.168 0.816* 0.300 0.096Think clearly 0.147 0.794* 0.342 0.051Lacked mental energy 0.083 0.788* 0.176 0.271Made mistakes 0.259 0.744* 0.241 0.177
+Emotion
+Upset you 0.224 0.304 0.805* 0.188Down or depressed 0.264 0.298 0.737* 0.186Less control in areas of
+life0.256 0.273 0.708* 0.346
+Felt embarrassed 0.282 0.344 0.658* 0.124
+Physical
+How many days 0.056 0.005 0.168 0.810*Numerical scale fatigue 0.231 0.162 0.265 0.701*How long each episode 0.309 0.230 0.035 0.642*Lacked physical energy 0.308 0.340 0.272 0.583*
+* Items loaded highly ( /H110220.6). The remaining items showed low
+loading ( /H110210.35).Bristol RA Fatigue Multi-Dimensional Questionnaire 1563instrument validated in RA fatigue (5). In the initial phase
+of the development of such instruments (11,12), we re-
+ported how the wording and questions were chosen to
+capture the patient perspective using interviews, focusgroups, and cognitive interviewing as the recommendedbest practice (6,7,13). The draft versions of short scales
+that emerged (11) have been shown in the current study to
+have construct and criterion validity, and a 20-item mul-tidimensional questionnaire (the BRAF-MDQ) derivedfrom the draft questions has been shown to include 4dimensions of RA fatigue, which we have termed physical,
+living, cognition, and emotion.
+Global BRAF-MDQ scores correlated only moderately
+with anxiety, depression, helplessness, and disability, andcorrelated weakly with pain, suggesting that the BRAF-MDQ score is associated with but does not directly mea-
+sure these constructs. It correlated strongly with existing
+fatigue instruments but has the advantage of assessingfatigue in 4 dimensions. The physical dimension corre-lated strongly with the existing fatigue instruments, whichalso appear to measure the physical severity of fatigue. Ithad weak correlations with mood, disability, and pain.The living dimension, which correlated moderately with
+Figure 2. Frequency and distribution of the ( top) global Bristol Rheumatoid Arthritis
+Fatigue Multi-Dimensional Questionnaire (BRAF MDQ) and its dimensions: ( middle left )
+emotion, ( middle right ) cognition, ( bottom left ) living, and ( bottom right ) physical.
+Figure 3. Comparison of fatigue severity, effect, and coping in 4
+patients. For the cope scores, higher values indicate better coping.NRS/H11005numerical rating scale.1564 Nicklin et alTable 5. Correlations between Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional Questionnaire (BRAF-MDQ) global score, BRAF dimensions, a nd other
+variables*
+BRAF-MDQBRAF dimensions
+Depression Anxiety HAQ Helpless Pain Physical Living Cognition Emotion
+BRAF-MDQ 0.801 (221) 0.884 (221) 0.750 (221) 0.848 (221) 0.627 (220) 0.517 (220) 0.501 (207) 0.563 (218) 0.340 (217)
+BRAF dimensions
+Physical 0.608 (225) 0.465 (223) 0.586 (225) 0.400 (225) 0.259 (225) 0.369 (211) 0.451 (223) 0.321 (222)Living 0.527 (223) 0.650 (226) 0.607 (226) 0.450 (226) 0.613 (211) 0.562 (224) 0.380 (224)Cognition 0.627 (223) 0.485 (224) 0.489 (224) 0.207 (211) 0.325 (222) 0.144 (221)
+Emotion 0.544 (226) 0.566 (226) 0.347 (211) 0.451 (223) 0.251 (223)
+Depression 0.541 (227) 0.403 (213) 0.489 (225) 0.145 (224)
+Anxiety 0.211 (212) 0.327 (226) 0.088 (224)
+HAQ 0.505 (211) 0.404 (209)
+Helplessness 0.433 (222)
+BRAF
+Severity VAS 0.709 (225) 0.491 (226) 0.390 (224) 0.493 (226)Severity NRS 0.767 (226) 0.507 (227) 0.389 (225) 0.520 (227)Effect VAS 0.681 (225) 0.602 (226) 0.406 (224) 0.633 (226)Effect NRS 0.692 (226) 0.566 (227) 0.381 (225) 0.576 (227)Coping VAS† /H110020.350 (225) /H110020.406 (226) /H110020.320 (224) /H110020.415 (226)
+Coping NRS† /H110020.264 (226) /H110020.342 (227) /H110020.306 (225) /H110020.356 (227)
+MAF 0.815 (175) 0.834 (178) 0.664 (178) 0.548 (178) 0.658 (179) 0.504 (180) 0.372 (180) 0.426 (171) 0.490 (179) 0.424 (176)POMS 0.712 (201) 0.718 (206) 0.595 (207) 0.481 (205) 0.539 (207) 0.438 (209) 0.334 (209) 0.400 (198) 0.461 (207) 0.419 (205)FACIT-F† /H110020.813 (210) /H110020.741 (215) /H110020.743 (216) /H110020.521 (214) /H110020.649 (216) /H110020.551 (217) /H110020.360 (218) /H110020.555 (203) /H110020.565 (216) /H110020.442 (214)
+SF-36† /H110020.643 (216) /H110020.679 (221) /H110020.537 (222) /H110020.399 (220) /H110020.496 (222) /H110020.499 (223) /H110020.227 (223) /H110020.388 (209) /H110020.435 (221) /H110020.277 (220)
+* Values are the correlation (number of patients). See Table 2 for deﬁnitions.
+† Higher scores indicate better outcome.Bristol RA Fatigue Multi-Dimensional Questionnaire 1565the existing fatigue instruments, includes questions that
+relate to the unpredictability of RA fatigue, which makesfulﬁlling roles and planning life difﬁcult, potentially lead-
+ing to poor self-image and self-identity (36). It correlated
+moderately with measures of depression and helplessness.The emergence of a robust cognition dimension for RAfatigue reﬂects a feature that many patients report (3,8,9),
+yet which is not measured in existing fatigue instruments.
+Cognitive effects are important as they may lead to errors,lack of concentration, and suboptimal performance, im-pacting on function and work (3,9,37,38). The cognition
+dimension correlated only weakly or moderately with the
+existing fatigue instruments and weakly with other vari-ables, suggesting that it is capturing a unique concept offatigue that is also different from pain, disability, or mood.
+The emotion dimension also acknowledges an area of fa-
+tigue measurement that has been neglected. It correlatedweakly or moderately with the other fatigue instrumentsand with anxiety and helplessness. Higher correlations
+would have indicated that the BRAF-MDQ was actually
+measuring these constructs rather than acknowledgingthem, and lower correlations would have suggested noassociation between fatigue, emotion, and mood, whichwould have been illogical. There was only a weak correlation
+between the emotion dimension and the POMS (a fatigue
+mood instrument), but the POMS is not RA speciﬁc.
+This study has demonstrated that it is possible to iden-
+tify different dimensions of RA fatigue. This is supportedby a recent study by Pollard et al, in which questions from
+several existing fatigue questionnaires completed by pa-
+tients with RA were combined into a single, large-factoranalysis. Five potential dimensions emerged: severity,anxiety/depression (psychological factors), distress/cogni-tion, physical interference, and social interference (39).
+These broad categories reﬂect the 4 dimensions of the
+BRAF-MDQ.
+Fries et al recommend that outcomes should be mea-
+sured in the patient’s value system (25). The strength of the
+BRAF-MDQ lies in its development from the patient per-
+spective, with every phrase, question, and dimensiongrounded in the fatigue that is experienced by patients, ascaptured through interviews, focus groups, and cognitivetesting (11,12). The wording came from patients, ensuring
+that it is understandable. Complex wording and phrasing
+can be difﬁcult to comprehend (40,41). Questions that areeasy to understand may perform better, reducing the sam-ple sizes required for trials because there will be fewermissing data (40). For the only existing RA-speciﬁc fatigue
+instrument (the MAF), 20% of returned questionnaires
+could not be scored because of missing data, a ﬁnding alsoreported by others (42).
+Although VAS and NRS have been used to measure
+fatigue severity prior to this study, no standardized word-
+ing had been developed or evaluated to our knowledge.We concluded from our earlier studies (11,12) that mea-suring severity in isolation does not give the full picture ofthe patient fatigue experience; therefore, VAS and NRSwere also developed in this study to measure the per-ceived effects and ability to cope with fatigue. Our resultsindicate satisfactory criterion and construct validity of theBRAF short scales for severity, effect, and coping. The data
+also demonstrate a potential disconnect between the abil-ity to cope with fatigue and its severity, which offers thepossibility that patients might be able to improve theirability to cope with fatigue and thus reduce its effect, evenif fatigue severity per se cannot be changed (Figure 3).
+A lengthy questionnaire is not always necessary or de-
+sirable, and a short, 1-page scale comprising all 3 BRAF
+short scales may be all that is required at a routine con-sultation as a screening tool to gain an understanding ofthe main fatigue issues (43). A single-item VAS for fatigue
+performs equally as well as existing longer questionnaires
+that give global scores, and patients prefer brevity (44).This current study suggests that the BRAF VAS and NRSare equally valid, which supports previous research inother symptoms (45– 47). However, the NRS scoredslightly higher than the VAS, which means that they arenot interchangeable (47,48). Although the BRAF VAS andNRS short scales performed in similar ways, there are
+practical reasons for recommending the NRS versions.
+NRS are easier and quicker to score, and some patients ﬁndthe concept of VAS difﬁcult to understand, and annotatewith words or sentences (45).
+The advantage of the 20-item BRAF-MDQ is that insight
+can be gained into the different dimensions of fatigue,
+enabling the exploration of different predictors and inter-ventions for each dimension. In addition, the differentdimensions of the BRAF-MDQ, perhaps used in conjunc-tion with the BRAF coping NRS, may allow patient-spe-
+ciﬁc self-management strategies to be developed and en-
+couraged. The BRAF scales therefore have the potential tochange the way that fatigue is managed for individualpatients, leading to improved quality of life.
+Evaluation of instruments is a continuous process, and
+further evaluation of the BRAF instruments is required fortest–retest reliability, sensitivity to change, and minimumclinically important differences (49). For other fatigue se-verity VAS used in RA, a minimum clinically important
+difference of 10% has been calculated (50). The BRAF
+instruments could also be evaluated for relevance in otherrheumatologic conditions, which might allow comparisonacross conditions.
+The development and evaluation of the BRAF-MDQ,
+with its clear dimensions of physical fatigue, living, cog-
+nition, and emotion, represents an important step forwardin our understanding of RA fatigue. The BRAF-MDQ andBRAF short scales together provide the tools for under-
+standing the quality of the patient’s fatigue experience for
+comparison across studies, offer an opportunity to explorepredictors or causal pathways for different fatigue dimen-sions, and enable clinicians to individualize the teachingof self-management strategies according to patient proﬁles
+and target interventions, as well as providing tools for
+assessing the effectiveness of those interventions.
+ACKNOWLEDGMENTS
+The authors would like to thank the patients and staff ofthe Bristol Royal Inﬁrmary Rheumatology Department fortheir help in this research and Bev Davis, patient research1566 Nicklin et alpartner, for her assistance in designing the layout of the
+ﬁnal questionnaire.
+AUTHOR CONTRIBUTIONS
+All authors were involved in drafting the article or revising it
+critically for important intellectual content, and all authors ap-proved the ﬁnal version to be submitted for publication. Dr. Nick-lin had full access to all of the data in the study and takesresponsibility for the integrity of the data and the accuracy of thedata analysis.Study conception and design. Nicklin, Cramp, Kirwan, Green-
+wood, Urban, Hewlett.Acquisition of data. Nicklin.
+Analysis and interpretation of data. Nicklin, Cramp, Kirwan,
+Greenwood, Urban, Hewlett.
+REFERENCES
+1. Wolfe K, Hawley D, Wilson K. The prevalence and meaning of
+fatigue in rheumatic disease. J Rheumatol 1996;23:1407–16.
+2. Milton H, Hewlett S, Kirwan J. Fatigue in rheumatoid arthritis
+[abstract]. Rheumatology (Oxford) 2002;4 Suppl 1:73.
+3. Hewlett S, Cockshott Z, Byron M, Kitchen K, Tipler S, Pope D,
+et al. Patients’ perceptions of fatigue in rheumatoid arthritis:overwhelming, uncontrollable, ignored. Arthritis Rheum2005;53:697–702.
+4. Hewlett S. Fatigue in rheumatoid arthritis: from apathy to
+action. Future Rheumatol 2007;2:439 – 42.
+5. Kirwan JR, Hewlett S. Patient perspective: reasons and meth-
+ods for measuring fatigue in rheumatoid arthritis. J Rheumatol2007;34:1171–3.
+6. Patrick DL, Burke LB, Powers JH, Scott JA, Rock EP, Dawisha
+S, et al. Patient-reported outcomes to support medical productlabeling claims: FDA perspective. Value Health 2007;10 Supp2:S125–37.
+7. Fitzpatrick R, Davey C, Buxton MJ, Jones DR. Evaluating pa-
+tient-based outcomes measures for use in clinical trials.Health Technol Assess 1998;2:1–74.
+8. Tack BB. Fatigue in rheumatoid arthritis: conditions, strate-
+gies, and consequences. Arthritis Care Res 1990;3:65–70.
+9. Repping-Wuts H, Uitterhoeve R, van Riel P, van Achterberg T.
+Fatigue as experienced by patients with rheumatoid arthritis(RA): a qualitative study. Int J Nurs Stud 2008;45:995–1002.
+10. Hewlett S, Hehir M, Kirwan JR. Measuring fatigue in rheuma-
+toid arthritis: a systemic review of scales in use. ArthritisRheum 2007;57:429 –39.
+11. Nicklin J. The development of scales to measure fatigue in
+people with rheumatoid arthritis. Bristol (UK): University ofthe West of England; 2009.
+12. Nicklin J, Cramp F, Kirwan J, Hewlett S. Do existing scales
+capture the multi-dimensional aspects of rheumatoid arthritisfatigue [abstract]? Rheumatology (Oxford) 2008;47:545.
+13. Frost MF, Reeve BB, Liepa AM, Stauffer JW, Hays RD. What is
+sufﬁcient evidence for the reliability and validity of patient-reported outcome measures? Value Health 2007;2:S94 –105.
+14. Cella D, Young S, Sorensen M, Chartash E, Sengupta N, Grober
+J. Validation of the functional assessment of chronic illnesstherapy fatigue scale relative to other instrumentation in pa-tients with rheumatoid arthritis. J Rheumatol 2005;32:811–9.
+15. Tack BB. Dimensions and correlates of fatigue in older adults
+with rheumatoid arthritis. San Francisco: University ofCalifornia; 1991.
+16. McNair D, Lorr M, Droppleman L. Proﬁle of mood states
+manual. New York: Multihealth Systems; 1992.
+17. Ware JE Jr, Sherbourne CD. The MOS 36-item Short-Form
+health survey (SF-36). I. Conceptual framework and item se-lection. Med Care 1992;30:473– 83.
+18. Bowman SJ, Booth DA, Platts RG. Measurement of fatigue and
+discomfort in primary Sjo ¨gren’s syndrome using a new ques-
+tionnaire tool. Rheumatology (Oxford) 2004;43:758 – 64.
+19. Goodchild CE, Treharne GJ, Booth DA, Kitas GD, Bowman SJ.Measuring fatigue among women with Sjo ¨gren’s syndrome or
+rheumatoid arthritis: a comparison of the Proﬁle of Fatigue
+(ProF) and the Multidimensional Fatigue Inventory (MFI).
+Musculoskeletal Care 2008;6:31– 48.
+20. Smets EM, Garssen B, Bonke B, De Haes JC. The Multidimen-
+sional Fatigue Inventory (MFI) psychometric qualities of an in-
+strument to assess fatigue. J Psychosom Res 1995;39:315–25.
+21. Hartz A, Bentler S, Watson D. Measuring fatigue severity in
+primary care patients. J Psychosom Res 2003;54:515–21.
+22. Streiner D, Norman G, editors. Health measurement scales: a
+practical guide to their development and use. Oxford: Oxford
+University Press; 1989.
+23. Arnett FC, Edworthy SM, Bloch DA, McShane DJ, Fries JF,
+Cooper NS, et al. The American Rheumatism Association
+1987 revised criteria for the classiﬁcation of rheumatoid ar-thritis. Arthritis Rheum 1988;31:315–24.
+24. Crosby LJ. Factors which contribute to fatigue associated with
+rheumatoid arthritis. J Adv Nurs 1991;16:974 – 81.
+25. Fries J, Spitz P, Kraines G, Holman H. Measurement of patient
+outcome in arthritis. Arthritis Rheum 1980;23:137– 45.
+26. Kirwan JK, Reeback JS. Stanford Health Assessment Ques-
+tionnaire modiﬁed to assess disability in British patients with
+rheumatoid arthritis. Br J Rheumatol 1986;25:206 –9.
+27. Zigmond AS, Snaith RP. The Hospital Anxiety and Depres-
+sion Scale. Acta Psychiatr Scand 1983;67:361–70.
+28. Stein MJ, Wallston KA, Nicassio PM. Factor structure of the
+Arthritis Helplessness Index. J Rheumatol 1988;15:427–32.
+29. Wolfe F, Pincus T, O’Dell J. Evaluation and documentation of
+rheumatoid arthritis disease status in the clinic: which variables
+best predict change in therapy? J Rheumatol 2001;28:1712–7.
+30. Oppenheim AN. Questionnaire design, interviewing and at-
+titude measurement. 2nd ed. London: Pinter Publishers; 1992.
+31. Pallant J. SPSS survival manual: a step by step guide to data
+analysis using SPSS for Windows, version 12. 2nd ed. Buck-
+ingham (UK): Open University Press; 2005.
+32. Hunt N, Tyrrell S, Nicholson J. Discuss regression and corre-
+lation. 2002. URL: www.coventry.ac.uk/ec/ /H11011nhunt/regress/
+good4.html.
+33. Cohen J. Statistical power analysis for the behavioural sci-
+ences. Hillsdale (NJ): Erlbaum & Associates; 1988.
+34. Bland JM, Altman DG. Statistical methods for assessing agree-
+ment between two methods of clinical measurement. Lancet1986;1:307–9.
+35. Foddy W. Constructing questions for interviews and
+questionnaires: theory and practice in social research. Cam-bridge (UK): Cambridge University Press; 1993.
+36. Scott DL, Lempp HK. Outcomes associated with early rheu-
+matoid arthritis. Expert Rev Pharmacoeconomics OutcomeRes 2006;6:495–508.
+37. Van der Linden D, Frese M, Meijman TF. Mental fatigue and
+the control of cognitive processes: effects on perseverationand planning. Acta Psychol (Amst) 2003;113:45– 65.
+38. Lacaille D, White MA, Backman CL, Gignac MA. Problems
+faced at work due to inﬂammatory arthritis: new insightsgained from understanding patients’ perspective. Arthritis
+Rheum 2007;57:1269 –79.
+39. Pollard LC, Scott DL, Donaldson N, Choy EH. Fatigue in rheu-
+matoid arthritis: what are we measuring? A factor analysis of
+fatigue instruments [abstract]. Rheumatology (Oxford) 2009;48:
+i135.
+40. Fries JF, Bruce B, Bjorner J, Rose M. More relevant, precise,
+and efﬁcient items for assessment of physical function and
+disability: moving beyond the classic instruments. AnnRheum Dis 2006;65 Suppl 3:iii16 –21.
+41. Mota DD, Pimenta CA. Self-report instruments for fatigue
+assessment: a systematic review. Res Theory Nurs Pract 2006;
+20:49 –78.
+42. Wolfe F. Fatigue assessments in rheumatoid arthritis: compara-
+tive performance of visual analog scales and longer fatigue ques-tionnaires in 7760 patients. J Rheumatol 2004;31:1896 –902.
+43. Dittner AJ, Wessely SC, Brown RG. The assessment of fatigue:
+a practical guide for clinicians and researchers. J PsychosomRes 2004;56:157–70.Bristol RA Fatigue Multi-Dimensional Questionnaire 156744. Bengtsson M, Ohlsson B, Ulander K. Development and psycho-
+metric testing of the Visual Analogue Scale for Irritable BowelSyndrome (VAS-IBS). BMC Gastroenterology 2007;7:16.
+45. Pincus T, Bergman B, Sokka T, Roth J, Swearingen C, Yazici
+Y. Visual analog scales in formats other than a 10-centimeterhorizontal line to assess pain and other clinical data. J Rheu-matol 2008;35:1550 – 8.
+46. Kaufman BJ, Bijur PE, Latimer C, Gallagher EJ, Einstein A.
+Can a numerical rating scale be substituted for a visual ana-logue scale for pain? Acad Emerg Med 2002;9:403– 4.
+47. Hollen PJ, Gralla RJ, Kris MG, McCoy S, Donaldson GW,
+Moinpour CM. A comparison of visual analogue and numer-ical rating scale formats for the Lung Cancer Symptom Scale(LCSS): does format affect patient ratings of symptoms and
+quality of life? Qual Life Res 2005;14:834 –7.
+48. Holdgate A, Asha S, Craig J, Thompson J. Comparison of a verbal
+numeric rating scale with the visual analogue scale for the mea-surement of acute pain. Emerg Med (Fremantle) 2003;15:441– 6.
+49. Pouchot J, Kherani RB, Brant R, Lacaille D, Lehman AJ, Ens-
+worth S, et al. Determination of the minimal clinically impor-tant difference for seven fatigue measures in rheumatoid ar-thritis. J Clin Epidemiol 2008;61:705–13.
+50. Wells G, Li T, Maxwell L, MacLean R, Tugwell P. Determining
+the minimal clinically important differences in activity, fa-tigue, and sleep quality in patients with rheumatoid arthritis.J Rheumatol 2007;34:280 –9.1568 Nicklin et al
+
+ This is the end of the 14 text 
+

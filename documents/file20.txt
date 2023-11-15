@@ -1,0 +1,415 @@
+Predictors of fatigue in rheumatoid arthritis
+Katie L. Druce1and Neil Basu2
+Abstract
+People with RA commonly experience fatigue. Fatigue is a key contributor to increased clinical care costs,
+primary care consultations and employment loss. Despite this, our understanding of the prognostic of
+factors of poor fatigue outcomes is lacking and fatigue is poorly managed. Examining longitudinal pre-dictors of fatigue can identify both individuals ‘at risk’ of poor prognosis, and candidate mechanisms thatare worthy of greater inspection. This review discusses the factors most commonly investigated as beingimplicated in the prognosis of RA fatigue. The available data appears to implicate generic factors such aspain, mental health, disability and sleep as consistent predictors of fatigue outcome, while the role ofdisease activity and inflammation seems less clear. However, the existing data are not without methodo-logical limitations and there have been no specific studies primarily designed to investigate the inflam-
+matory biomarkers of fatigue. Future studies are required to more comprehensively and robustly
+determine the mechanisms of fatigue.
+Key words: fatigue, inflammation, pain, mood, disability, sleep, rheumatoid arthritis, predictors, mechanisms
+Rheumatology key messages
+.Fatigue is common in rheumatoid arthritis, yet the symptom is poorly understood and poorly managed.
+.Generic factors like pain, mood and disability seem to drive fatigue in rheumatoid arthritis.
+.These factors, and therefore optimal fatigue treatment, may be common across chronic diseases.
+Introduction
+People with RA commonly experience fatigue [1, 2].
+Fatigue is the subjective experience of intense tiredness
+or exhaustion, is often unrelated to energy exertion and
+not relieved by rest [3]. Prevalence studies consistentlyreport fatigue rates between four and eight times higher(depending on the classification criteria used) [1, 4, 5] than
+the general population prevalence of 10% [6]. Fatigue may
+be experienced as a chronic state of weariness or as arecurrent symptom with rapid fluctuations occurring within
+the same day or between days [1, 2, 7 /C1509]. Regardless, the
+longer term prognosis is burdensome, with up to 74% ofRA patients experiencing persistently high or worsening
+levels of fatigue [10].
+Fatigue has received much attention in recent years,
+largely in response to work from the OMERACT meetings
+[11/C15013], which highlighted the symptom as a core patientoutcome. Yet, fatigue remains a key contributor to
+increased clinical care costs [14], one of the most
+common reasons for consultation to primary care [15]and a key determinant of sickness absence and loss of
+employment [2, 7, 15]. Thus, despite this perceived im-
+portance and increased research activity, our understand-ing of the prognostic factors of poor fatigue outcomes is
+lacking and, subsequently, fatigue is poorly managed.
+The longitudinal prediction of fatigue aids the identifica-
+tion of individuals ‘at risk’ of poor prognosis enabling early
+targeted intervention. In parallel, such factors are often
+worthy of greater inspection as candidate mechanisms.To date, evidence regarding the prediction of fatigue islimited. There is a high degree of variation in the type of
+putative predictors investigated in studies and many fac-
+tors are investigated in single studies only, making inter-pretation difficult. For these reasons, this review has
+focused on discussing the factors most commonly inves-
+tigated as being implicated in the prognosis of RA fatigue:disease activity and inflammation, pain, sleep, mental
+health and disability.
+Disease activity and inflammation
+Historically, fatigue has been perceived to be caused by
+disease-specific processes, such as inflammation and1Centre for Epidemiology Versus Arthritis, Faculty of Biology Medicine
+and Health, The University of Manchester, Manchester and2Institution
+of Infection, Immunity and Inflammation, University of Glasgow,Glasgow, UK
+Correspondence to: Katie L. Druce, Centre for Epidemiology Versus
+Arthritis, Stopford Building, University of Manchester, Oxford Road,
+Manchester M13 9PT, UK. E-mail: Katie.druce@manchester.ac.ukSubmitted 15 April 2019; accepted 11 July 2019
+!The Author(s) 2019. Published by Oxford University Press on behalf of the British Society for Rheumatology.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.or g/licenses/by-nc/4.0/), which permits non-commercial re-use,
+distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permis sions@oup.comRHEUMATOLOGYRheumatology 2019;58:v29 /C150v34
+doi:10.1093/rheumatology/kez346
+REVIEWDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v29/5552807 by guest on 07 November 2023
+joint damage [16, 17]. Pro-inflammatory cytokines, which
+are pivotal to RA progression, have been linked to fatiguevia sickness behaviour [18] and it is possible that theseinflammatory processes initially trigger fatigue in RA [18,19]. Certainly, while the apparent response of fatigue toinflammation-focused interventions [5, 20 /C15022] would indi-
+cate that an association between inflammatory diseaseactivity and fatigue exists, it is now widely recognizedthat fatigue persists despite receiving the best availablecare for their disease [23, 24], although anti-inflammatorypharmacological interventions do confer reductions in fa-tigue in subgroups of patients [20, 25].
+Where an association has been observed between in-
+flammation and fatigue prognosis, it has tended to showboth that higher [26] and lower [24, 27] inflammation isassociated with greater fatigue, depending on the studyin question. Further, within a path analysis model [28], wefound that when DAS-28 was substituted for ESR or CRPthe direct relationship between disease activity and fa-tigue disappeared, indicating that it may be that the pa-
+tient reported/influenced (e.g. patient global and tender
+joints), which drive the associations between DAS-28and fatigue. Overall, the balance of evidence wouldseem to indicate that while fatigue prognosis may beassociated with composite measures of disease activity[5, 10, 22, 28, 29], it is not consistently predicted by trad-itional measures of inflammation, such as CRP or ESR [22,28/C15030].
+Yet, understanding the precise nature of the association
+between fatigue and inflammatory disease activity is diffi-cult and much of the available data are conflicting andlimited. A principal barrier to elucidating the predictiverole of inflammatory disease processes in fatigue progno-sis is that disease activity can be measured globally, usingscales such as the DAS for 28 joints (DAS-28), or by indi-vidual components such as measures of inflammation ortender and swollen joints. A second key barrier is thatthere has been little exploration of fatigue-specific inflam-matory biomarkers. Investigations regarding the role ofinflammation in fatigue have been limited to studying theprognostic role of the non-specific inflammatory markerstypically used in clinic (CRP and ESR). Indeed, evidencefrom RA and other disease groups that fatigue is pre-dicted by a range of pro-inflammatory cytokines not typ-ically collected in clinics including TNF- a, IL-1, IL-6 and
+IFN-g[31/C15036]. Thus, it may be that there are as yet un-
+identified specific inflammatory markers of RA-fatiguethat, if targeted, could reduce symptom burden.
+Pain
+Pain is commonly investigated as a possible predictor offatigue [5, 10, 21, 23, 24, 27, 28, 37 /C15041] and has been
+identified by patients as a principal cause of their fatigue[7, 42, 43]. Evidence across a number of studies indicatesthat increased pain is associated both with greater mag-nitude of fatigue over time [10, 37, 40, 41] and with fatiguepersistence [22]. Furthermore, change in pain was notonly associated with the magnitude of fatigue change [5,28], but was also found to mediate the effect of change indisease activity on fatigue outcomes [28]. As a result,
+some authors have argued that it is pain, not disease ac-
+tivity, that drives fatigue [5, 28], and it has been suggested
+then that improved pain management should be a keyfocus of fatigue interventions.
+However, van Dartel et al. showed that the relationship
+between pain and fatigue is significant, but synchronous[39], and others have shown that greater fatigue is asso-
+ciated with concurrently higher pain despite disease re-
+mission [23, 24]. Thus, while it is clear that the twosymptoms are associated, the link between the symptoms
+may be due to the existence of a shared aetiology, such
+as central sensitization [44, 45] rather than ‘cause andeffect’ per se . Irrespective of this, it seems likely that inter-
+ventions seeking to reduce pain may have beneficial ef-
+fects on fatigue.
+Sleep
+Proposing the existence of a relationship between sleepand fatigue would appear intuitive, because it is clear thatdisturbed sleep leads to tiredness and daytime sleepi-
+ness. However, while overlapping in description, sleepi-
+ness and tiredness are distinct from fatigue [7] and thenature of their association is unclear. Furthermore, sleep
+is a complex behaviour that is composed of both subject-
+ive and objective components and, despite the rise inavailability of sleep and activity trackers [46], few studies
+have measured both components [47]. Nevertheless, stu-
+dies have indicated that there is an association betweenthe magnitude of sleep problems reported and corres-
+ponding levels of fatigue [40, 48, 49] and that baseline
+levels of sleep problems were higher among individualswho did not go on to experience improvements in fatigue
+[10]. On the other hand, others have shown that the rela-
+tionship between sleep problems, or use of sleep medi-cations, and fatigue is not significant [22, 27, 38].
+The most convincing evidence regarding the relation-
+ship between sleep and fatigue arises from theexperimental literature, which show that experimentally
+induced sleep deprivation has been associated with
+increased fatigue [50, 51]. It is important to considerthough that there appears to be a complex interplay be-
+tween sleep, pain and fatigue [50 /C15052]. None of the avail-
+able studies were found to determine whether disturbedsleep has a direct effect on fatigue, or whether its effect
+might be indirect and mediated through the elevated pain
+levels that are observed following episodes of poor sleep[52, 53]. It is clear that further work is needed to determine
+the precise temporal nature and pathways between both
+objective and subjectively recorded sleep and resultantchanges in fatigue.
+Mental health
+The relationship between mental health and fatigue ap-pears to be particularly important, as poor mental health
+both predisposes an individual to, and perpetuates, fa-
+tigue [54 /C15056]. Mental health may typically be defined in
+many ways, such as previous diagnosis of depression
+[10, 21, 28, 54 /C15056], current levels of dysphoria [54 /C15056] or
+v30 https://academic.oup.com/rheumatologyKatie L. Druce and Neil BasuDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v29/5552807 by guest on 07 November 2023
+position on a mental health continuum (e.g. Short Form 36
+Mental Health Scale) [10, 21, 22, 28, 57], or use of anti-
+depressants [10, 21]. Irrespective of the definition, the evi-
+dence indicates that higher depression scores, or ratingsof dysphoria, in combination with previous history of de-
+pression is associated with an exacerbation of, or failure
+to improve, fatigue [10, 21, 29, 54 /C15057]. Evidence also in-
+dicates that less improvement in mental health complaints
+is associated with less concurrent improvement in fatigue
+[28, 29, 56], and that mental health remains poor amongthose who experience persistent fatigue despite disease
+management [22, 23]. However, it is important to acknow-
+ledge that fatigue is included as a symptom in diagnosticcriteria for depression [58], so delineating the predictive
+nature of the relationship can be complicated.
+Far fewer studies have investigated the link between
+fatigue and other aspects of mental health such as anxiety
+and stress, but evidence would seem to indicate that anx-
+iety, stress and negative interpersonal events are asso-ciated with poor fatigue prognosis [36 /C15038, 59].
+Disability
+Levels of disability, largely measured by the Stanford
+HAQ, have consistently linked high levels of disability toreduced likelihood of improvement, greater likelihood of
+persistence [10, 21 /C15023, 29, 60], and a greater magnitude
+of fatigue over time [38, 40]. It is clear that the swelling andprogressive joint damage that characterize RA may in-
+crease the magnitude of effort required to complete
+daily tasks and lead to increased fatigue. In the era ofbiologics and bio-similars, interpreting the role of disability
+in fatigue is complicated, as many of the patients more
+recently diagnosed will avoid the year-on-year progres-sion of joint damage and disability that once typified the
+course of RA [61, 62], but continue to report fatigue. That
+being said, fatigue has been referred to as a disablingsymptom [42, 43], and one that makes completion of
+daily tasks difficult, if not impossible. Given the non-spe-
+cific nature of disability questionnaires such as the HAQ(e.g. ‘Are you able to wash and dry your entire body?’) it is
+not clear the extent to which fatigue at the time of report-
+ing has influenced the levels of disability recorded forparticipants.
+Limitations of the available data
+It is first worth highlighting that a range of measures existto study fatigue within RA populations [9, 63]. Thesemeasures, which have been validated to a greater or
+lesser extent within the population, may measure various
+things such as the magnitude or qualities of fatigue,including severity, impact or coping (e.g. Bristol
+Rheumatoid Arthritis Fatigue Scale Multidimensional
+Questionnaire (BRAF MDQ), or Numerical Rating Scales(BRAF NRS)). Measures may also distinguish between
+mental and physical fatigue (e.g. Chalder Fatigue Scale)
+or include assessment of both the quality and type of fa-tigue, such as measuring physical fatigue, emotional fa-
+tigue and the social consequences of fatigue (e.g.
+Functional Assessment Chronic Illness Therapy(Fatigue)). Finally, measures may position people on a
+continuum from energy to fatigue (Short-Form 36 Vitality
+(SF36 VT)). It is clear that the measures used may have
+substantial impacts on the associations observed if a pre-
+dictor is differentially associated with distinct dimensions
+of fatigue [9]. It is notable that few studies have usedscales that capture the multidimensionality of fatigue, in-
+stead relying on single-item visual analogue scales, or nu-
+merical rating scales [5, 10, 24, 26, 27, 29, 30, 37, 41, 49,
+54, 56, 57]. Equally, there is no consistency in the defin-
+itions and measures used to capture exposures of interestand no single study has investigated all predictors of inter-
+est, making it likely that residual confounding exists and
+precluding the development of an evidence-based causal
+model/diagram of fatigue.
+In addition, many of the longitudinal studies available
+are methodologically compromised, being limited to infre-
+quent (i.e. yearly), or short-term (i.e. one week) fatigue
+assessments, in small samples. As a result, many studies
+have predicted fatigue over disparate time points or have
+tended to aggregate longitudinal data to investigate the‘normal’ pattern of fatigue, despite high within- and be-
+tween-person variation. Such analyses are particularly
+problematic, given growing evidence regarding the likelyexistence of fatigue sub-types [10, 64 /C15066]. Therefore,
+while the available evidence can provide some interesting
+insights into the possible predictors of fatigue, it is clear
+that additional, more methodologically robust, studies are
+needed.
+Are the causes of RA-fatigue disease specific?
+On balance, and based on the available evidence, it ap-pears likely that the predictors of fatigue are not unique toRA populations. Rather, some of the most consistent can-
+didates have been identified as predictors in other rheum-
+atic diseases, such as osteoarthritis and fibromyalgia, as
+well as in a broader range of long-term medical conditions
+such as multiple sclerosis and cancer [2, 5, 18, 19, 28, 48,50, 51, 54, 55, 67 /C15071]. Together, this points towards an as
+yet untested hypothesis that fatigue, its prognostic fac-
+tors, and therefore its optimal treatment strategy, may
+be common across many long-term illnesses, irrespective
+of whether they have an inflammatory aetiology. Futurestudies may benefit from investigating this hypothesis
+with a view to developing generic fatigue interventions
+across a range of chronic conditions.
+Conclusion
+People with RA commonly experience fatigue. Despite theperceived importance of, and increased research activity
+regarding, fatigue, the symptom’s prognosis remains
+poorly understood and poorly managed. The availabledata appears to implicate generic factors such as pain,
+mental health, disability and sleep as consistent pre-
+dictors of fatigue outcome, while the role of disease-spe-
+cific factors such as inflammatory processes seems less
+clear. However, there have been no specific studies con-ducted to investigate the inflammatory biomarkers of fa-
+tigue and available studies are limited to those with
+https://academic.oup.com/rheumatology v31Predictors of fatigue in rheumatoid arthritisDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v29/5552807 by guest on 07 November 2023
+infrequent and short follow-up, or examinations of aver-
+age prognosis over time. Thus, while insightful, the exist-ing evidence is not definitive and future studies arerequired to more comprehensively and robustly determinethe mechanisms of symptom prognosis over time.
+Funding : The work in this manuscript was supported by
+the Centre for Epidemiology Versus Arthritis (formerlyArthritis Research UK) Centre Grant: 21755. Thissupplement is supported by a grant from GileadSciences, Inc.
+Disclosure statement : The authors have declared no
+conflicts of interest.
+References
+1 Wolfe F, Hawley DJ, Wilson K. The prevalence and
+meaning of fatigue in rheumatic disease. J Rheumatol1996;23:1407 /C15017.
+2 Hewlett S, Nicklin J, Treharne GJ. Fatigue in musculo-
+skeletal conditions. Topical Reviews: Reports on theRheumatic Diseases 2008;6:111.
+3 Dittner AJ, Wessely SC, Brown RG. The assessment of
+fatigue: a practical guide for clinicians and researchers.
+J Psychosom Res 2004;56:157 /C15070.
+4 Belza BL, Henke CJ, Yelin EH, Epstein WV, Gilliss CL.
+Correlates of fatigue in older adults with rheumatoid
+arthritis. Nurs Res 1993;42:93 /C1509.
+5 Pollard LC, Choy EH, Gonzalez J, Khoshaba B, Scott DL.
+Fatigue in rheumatoid arthritis reflects pain, not disease
+activity. Rheumatology 2006;45:885 /C1509.
+6 Aggarwal A, McBeth J, Zakrzewska JM, Lunt M,
+Macfarlane GJ. The epidemiology of chronic syndromes
+that are frequently unexplained: do they have common
+associated factors? Int J Epidemiol 2006;35:468 /C15076.
+7 Hewlett S, Cockshott Z, Byron M. Patients’ perceptions of
+fatigue in rheumatoid arthritis: overwhelming, uncontrol-
+lable, ignored. Arthritis Care Res 2005;53:697 /C150702.
+8 van Hoogmoed D, Fransen J, Bleijenberg G, van Riel P.
+Physical and psychosocial correlates of severe fatigue in
+rheumatoid arthritis. Rheumatology 2010;49:1294 /C150302.
+9 Hewlett S, Dures E, Almeida C. Measures of fatigue:
+Bristol Rheumatoid Arthritis Fatigue Multi-DimensionalQuestionnaire (BRAF MDQ), Bristol Rheumatoid Arthritis
+Fatigue Numerical Rating Scales (BRAF NRS) for Severity,
+Effect, and Coping, Chalder Fatigue Questionnaire (CFQ),Checklist Individual Strength (CIS20R and CIS8R), Fatigue
+Severity Scale (FSS), Functional Assessment Chronic
+Illness Therapy (Fatigue) (FACIT-F), Multi-DimensionalAssessment of Fatigue (MAF), Multi-Dimensional FatigueInventory (MFI), Pediatric Quality Of Life (PedsQL) Multi-
+Dimensional Fatigue Scale, Profile of Fatigue (ProF), Short
+Form 36 Vitality Subscale (SF-36 VT), and Visual AnalogScales (VAS). Arthritis Care Res 2011; 63(Suppl
+11):S263 /C15086.
+10 Druce K, Jones GT, Macfarlane GJ, Verstappen SMM,
+Basu N. The longitudinal course of fatigue in rheumatoid
+arthritis—results from the Norfolk Arthritis Register.
+J Rheumatol 2015;42:2059 /C15065.11 Kirwan JR, Minnock P, Adebajo A et al. Patient perspec-
+tive: fatigue as a recommended patient centered outcome
+measure in rheumatoid arthritis. J Rheumatol
+2007;34:1174 /C1507.
+12 Kirwan JR, Hewlett S. Patient perspective: reasons and
+methods for measuring fatigue in rheumatoid arthritis.
+J Rheumatol 2007;34:1171 /C1503.
+13 Kirwan J, Heiberg T, Hewlett S et al. Outcomes from the
+Patient Perspective Workshop at OMERACT 6.
+J Rheumatol 2003;30:868 /C15072.
+14 Michaud K, Messer J, Choi HK, Wolfe F. Direct medical
+costs and their predictors in patients with rheumatoid
+arthritis. Arthritis Rheum 2003;48:2750 /C15062.
+15 Basu N, Yang X, Luben RN et al. Fatigue is associated with
+excess mortality in the general population: results from the
+EPIC-Norfolk study. BMC Med 2016;14:122.
+16 Bergman M, Shahouri S, Shaver T et al. Is fatigue an in-
+flammatory variable in rheumatoid arthritis (RA)? Analyses
+of fatigue in RA, osteoarthritis, and fibromyalgia.
+J Rheumatol 2009;36:2788 /C15094.
+17 Rasker JJ. The enigma of fatigue. J Rheumatol
+2009;36:2630 /C1502.
+18 Norheim KB, Jonsson G, Omdal R. Biological mechanisms
+of chronic fatigue. Rheumatology 2011;50:1009 /C15018.
+19 Richards SC, Westlake SL. Fatigue in RA. Rheumatology
+2012;51:1 /C1502.
+20 Almeida C, Choy EH, Hewlett S et al. Biologic interven-
+tions for fatigue in rheumatoid arthritis. Cochrane
+Database Syst Rev 2016;6:CD008334.
+21 Druce KL, Jones GT, Macfarlane GJ, Basu N. Patients
+receiving anti-TNF therapies experience clinically
+important improvements in RA-related fatigue: results
+from the British Society for Rheumatology BiologicsRegister for Rheumatoid Arthritis. Rheumatology
+2015;54:964 /C15071.
+22 Minnock P, Veale DJ, Bresnihan B, FitzGerald O, McKee
+G. Factors that influence fatigue status in patients with
+severe rheumatoid arthritis (RA) and good disease out-
+come following 6 months of TNF inhibitor therapy: acomparative analysis. Clin Rheumatol 2015;34:1857 /C15065.
+23 Druce KL, Bhattacharya Y, Jones GT, Macfarlane GJ,
+Basu N. Most patients who reach disease remission fol-
+lowing anti-TNF therapy continue to report fatigue: results
+from the British Society for Rheumatology Biologics
+Register for Rheumatoid Arthritis. Rheumatology
+2016;55:1786 /C15090.
+24 Olsen CL, Lie E, Kvien TK, Zangi HA. Predictors of fa-
+tigue in rheumatoid arthritis patients in remission or in a
+low disease activity state. Arthritis Care Res
+2016;68:1043 /C1508.
+25 Cramp F, Hewlett S, Almeida C et al. Non-pharmaco-
+logical interventions for fatigue in rheumatoid arthritis.
+Cochrane Database Syst Rev 2013;8:CD008322.
+26 van Steenbergen HW, Tsonaka R, Huizinga TWJ, Boonen
+A, van der Helm-van Mil A. Fatigue in rheumatoid arthritis;
+a persistent problem: a large longitudinal study. RMDOpen 2015;1:e000041.
+27 Treharne GJ, Lyons AC, Hale ED et al. Predictors of fa-
+tigue over 1 year among people with rheumatoid arthritis.
+Psychol Health Med 2008;13:494 /C150504.
+v32 https://academic.oup.com/rheumatologyKatie L. Druce and Neil BasuDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v29/5552807 by guest on 07 November 2023
+28 Druce KL, Jones GT, Macfarlane GJ, Basu N. Determining
+pathways to improvements in fatigue in rheumatoid arth-ritis: results from the British Society for RheumatologyBiologics Register for Rheumatoid Arthritis. Arthritis
+Rheumatol 2015;67:2303 /C15010.
+29 Rat A, Pouchot J, Fautrel B et al. Factors associated with
+fatigue in early arthritis: results from a multicenter nationalFrench cohort study. Arthritis Care Res 2012;64:1061 /C1509.
+30 Madsen OR, Egsmose EM. Fatigue, pain and patient
+global assessment responses to biological treatment areunpredictable, and poorly inter-connected in individualrheumatoid arthritis patients followed in the daily clinic.
+Rheumatol Int 2016;36:1347 /C15054.
+31 Karshikoff B, Sundelin T, Lasselin J. Role of inflammation
+in human fatigue: relevance of multidimensional assess-ments and potential neuronal mechanisms. FrontiersImmunol 2017;8:21.
+32 Montoya JG, Holmes TH, Anderson JN et al. Cytokine
+signature associated with disease severity in chronic fa-tigue syndrome patients. Procof Natl Acad Sci USA2017;114:E7150 /C150E7158.
+33 Heesen C, Nawrath L, Reich C et al. Fatigue in multiple
+sclerosis: an example of cytokine mediated sickness be-haviour? J Neurol Neurosurg Psychiatry 2006;77:34 /C1509.
+34 Lasselin J, Laye S, Dexpert S et al. Fatigue symptoms
+relate to systemic inflammation in patients with type 2
+diabetes. Brain Behav Immun 2012;26:1211 /C1509.
+35 Ormstad H, Aass HCD, Amthor K-F, Lund-Sørensen N,
+Sandvik L. Serum cytokine and glucose levels as pre-
+dictors of poststroke fatigue in acute ischemic stroke pa-
+tients. J Neurol 2011;258:670 /C1506.
+36 Evers AWM, Verhoeven EWM, van Middendorp H et al.
+Does stress affect the joints? Daily stressors, stress vul-
+nerability, immune and HPA axis activity, and short-term
+disease and symptom fluctuations in rheumatoid arthritis.Ann Rheum Dis 2014;73:1683 /C1506.
+37 Davis MC, Okun MA, Kruszewski D, Zautra AJ, Tennen H.
+Sex differences in the relations of positive and negative
+daily events and fatigue in adults with rheumatoid arthritis.The J Pain 2010;11:1338 /C15047.
+38 Mancuso CA, Rincon M, Sayles W, Paget SA.
+Psychosocial variables and fatigue: a longitudinal study
+comparing individuals with rheumatoid arthritis and
+healthy controls. J Rheumatol 2006;33:1496 /C150502.
+39 van Dartel SAA, Repping-Wuts JWJ, van Hoogmoed D
+et al. Association between fatigue and pain in rheumatoid
+arthritis: does pain precede fatigue or does fatigue pre-
+cede pain? Arthritis Care Res 2013;65:862 /C1509.
+40 van Dartel S, Repping H, van Hoogmoed D et al. Longitudinal
+measurement of fatigue in rheumatoid arthritis: which factors
+predict fatigue? Ann Rheum Dis 2013;72:A365.
+41 Feldthusen C, Grimby-Ekman A, Forsblad-d’Elia H,
+Jacobsson L, Mannerkorpi K. Explanatory factors andpredictors of fatigue in persons with rheumatoid arthritis: a
+longitudinal study. J Rehabil Med 2016;48:469 /C15076.
+42 Minnock P, Ringner A, Bresnihan B et al. Perceptions of
+the cause, impact and management of persistent fatiguein patients with rheumatoid arthritis following tumour
+necrosing factor inhibition therapy. Musculoskeletal Care
+2017;15:23 /C15035.43 Mortada M, Abdul-Sattar A, Gossec L. Fatigue in Egyptian
+patients with rheumatic diseases: a qualitative study.Health Qual Life Outcomes 2015;13:134.
+44 Druce KL, McBeth J. Central sensitization predicts greater
+fatigue independently of musculoskeletal pain.Rheumatology 2019;58:1923 /C1507.
+45 Druce KL, Jones GT, Macfarlane GJ, Basu N. Examining
+changes in central and peripheral pain as mediates of fa-tigue improvement: results from the British Society forRheumatology Biologics Register for Rheumatoid Arthritis.Arthritis Care Res 2016;68:922 /C1506.
+46 Ofcom. Communications market report. 2018. https://
+www.ofcom.org.uk/__data/assets/pdf_file/0022/117256/CMR-2018-narrative-report.pdf (11 April 2019, date lastaccessed).
+47 Druce KL, Cordingley L, Short V et al
+. Quality of life, sleep
+and rheumatoid arthritis (QUASAR): a protocol for a pro-spective UK mHealth study to investigate the relationshipbetween sleep and quality of life in adults with rheumatoid
+arthritis. BMJ Open 2018;8:e018752.
+48 Goodchild CE, Treharne GJ, Booth DA, Bowman SJ.
+Daytime patterning of fatigue and its associations with theprevious night’s discomfort and poor sleep among women
+with primary Sjo ¨gren’s syndrome or rheumatoid arthritis.
+Musculoskeletal Care 2010;8:107 /C15017.
+49 Stone AA, Broderick JE, Porter LS, Kaell AT. The experi-
+ence of rheumatoid arthritis pain and fatigue: examiningmomentary reports and correlates over one week. Arthritis
+Rheumatol 1997;10:185 /C15093.
+50 Irwin MR, Olmstead R, Carrillo C et al. Sleep loss ex-
+acerbates fatigue, depression, and pain in rheumatoidarthritis. Sleep 2012;35:537 /C15043.
+51 Lautenbacher S, Kundermann B, Krieg J. Sleep depriv-
+ation and pain perception. Sleep Med Rev2006;10:357 /C15069.
+52 Finan PH, Goodin BR, Smith MT. The association of sleep
+and pain: an update and a path forward. J Pain2013;14:1539 /C15052.
+53 Moldofsky H, Lue FA, Smythe HA. Alpha EEG sleep and
+morning symptoms in rheumatoid arthritis. J Rheumatol1983;10:373 /C1509.
+54 Fifield J, Tennen H, Reisine S, McQuillan J. Depression
+and the long-term risk of pain, fatigue, and disability inpatients with rheumatoid arthritis. Arthritis Rheum1998;41:1851 /C1507.
+55 Jump RL, Fifield J, Tennen H, Reisine S, Giuliano AJ.
+History of affective disorder and the experience of fa-tigue in rheumatoid arthritis. Arthritis Care Res2004;51:239 /C15045.
+56 Fifield J, McQuillan J, Tennen H et al. History of
+affective disorder and the temporal trajectory of fa-tigue in rheumatoid arthritis. Ann Behav Med2001;23:34 /C15041.
+57 Walter MJM, Kuijper TM, Hazes JMW, Weel AE, Luime JJ.
+Fatigue in early, intensively treated and tight-controlledrheumatoid arthritis patients is frequent and persistent: aprospective study. Rheumatol Int 2018;38:1643 /C15050.
+58 American Psychiatric Association. Diagnostic and statis-
+tical manual of mental disorders, 5th edn. Arlington, VA:American Psychiatric Association, 2013.
+https://academic.oup.com/rheumatology v33Predictors of fatigue in rheumatoid arthritisDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v29/5552807 by guest on 07 November 2023
+59 Finan PH, Okun MA, Kruszewski D et al. Interplay of
+concurrent positive and negative interpersonal events in
+the prediction of daily negative affect and fatigue forrheumatoid arthritis patients. Health Psychol2010;29:429 /C15037.
+60 Repping-Wuts H, Fransen J, van Achterberg T,
+Bleijenberg G, Van Riel P. Persistent severe fatigue in
+patients with rheumatoid arthritis. J Clin Nurs
+2007;16:377 /C15083.
+61 Scott DL, Pugner K, Kaarela K et al. The links between
+joint damage and disability in rheumatoid arthritis.Rheumatology 2000;39:122 /C15032.
+62 Krishnan E, Lingala B, Bruce B, Fries JF. Disability in
+rheumatoid arthritis in the era of biological treatments. Ann
+Rheum Dis 2012;71:213 /C1508.
+63 Hewlett S, Hehir M, Kirwan JR. Measuring fatigue in
+rheumatoid arthritis: a systematic review of scales in use.
+Arthritis Care Res 2007;57:429 /C15039.
+64 Basu N, Jones GT, Macfarlane GJ, Druce KL.
+Identification and validation of clinically relevant clusters ofsevere fatigue in rheumatoid arthritis. Psychosom Med2017;79:1051 /C1508.65 Lee YC, Frits ML, Iannaccone CK et al. Subgrouping of
+patients with rheumatoid arthritis based on pain, fatigue,inflammation, and psychosocial factors. ArthritisRheumatol 2014;66:2006 /C15014.
+66 Nikolaus S, Bode C, Taal E, van de Laar M. New insights
+into the experience of fatigue among patients with
+rheumatoid arthritis: a qualitative study. Ann Rheum Dis
+2010;69:895 /C1507.
+67 Zautra AJ, Fasman R, Parish BP, Davis MC. Daily fatigue
+in women with osteoarthritis, rheumatoid arthritis, andfibromyalgia. Pain 2007;128:128 /C15035.
+68 Nikolaus S, Bode C, Taal E, de Laar MA. Fatigue and
+factors related to fatigue in rheumatoid arthritis: a sys-
+tematic review. Arthritis Care Res 2013;65:1128 /C15046.
+69 Stebbings S, Treharne GJ. Fatigue in rheumatic disease:
+an overview. Int J Clin Rheumatol 2010;5:487 /C150502.
+70 Swain MG. Fatigue in chronic disease. Clin Sci
+2000;99:1 /C1508.
+71 Drewes AM. Pain and sleep disturbances with special
+reference to fibromyalgia and rheumatoid arthritis.Rheumatology 1999;38:1035 /C1508.
+v34 https://academic.oup.com/rheumatologyKatie L. Druce and Neil BasuDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v29/5552807 by guest on 07 November 2023
+
+
+ This is the end of the 20 text 
+

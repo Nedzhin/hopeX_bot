@@ -1,0 +1,470 @@
+The impact of fatigue in rheumatoid arthritis and the
+challenges of its assessment
+Eduardo J. F. Santos1,2,3, Catia Duarte1,4, Jose ´A. P. da Silva1,4and
+Ricardo J. O. Ferreira1,3
+Abstract
+Fatigue is one of the most important symptoms for patients with RA, and imposes a great burden on
+patients’ lives, being associated with significantly reduced health-related quality of life. Although being
+recognized by the rheumatology community as a major gap in the current management of the disease,
+fatigue has not been easy to measure and conceptualize. Part of the problem seems to reside in themultidimensional causality of this phenomenon, which may warrant dedicated measures and interventions.Although there are several instruments available to measure it, no consensus has yet been reached torecommend a ‘gold-standard’. This review aims at synthesizing the role of fatigue in the global impact ofRA; describing validated instruments and their psychometric properties as measures of fatigue amongpatients with RA; and finally proposing a clinically meaningful, valid and feasible process to measurefatigue in clinical practice.
+Key words: arthritis, rheumatoid, fatigue, psychometrics, outcome assessment (health care)
+Rheumatology key messages
+.Fatigue is a significant component of the global impact of rheumatoid arthritis (RA).
+.Clinicians and researchers should only use valid instruments to measure fatigue in patients with RA.
+.Clinicians could screen fatigue in RA with single-item instruments, complemented with multidimensional ones if
+needed.
+Introduction
+Fatigue is a common and persistent problem in musculo-
+skeletal and rheumatic diseases, including RA [1, 2]. It
+affects around 40 /C15080% of these patients [3, 4], being
+defined as severe in about half of the cases [3, 5 /C1507], and
+has negative impact upon health-related quality of life [8].Fatigue is experienced as being overwhelming, unpredict-
+able, extreme, not restored by sleep, multidimensional
+and part of a vicious circle in which fatigue feeds andfosters itself [9, 10]. Coherently, fatigue is considered as
+one of the most important disease outcomes by patients[8, 11, 12]. It has received increased attention over the
+past decade and has been recommended by theOutcome Measures in Rheumatology Clinical Trials(OMERACT) group as an important outcome domain
+that should be assessed in all RA studies, alongside the
+core set [13].
+Despite having been historically considered an extra-
+articular manifestation of RA, related to disease activity,
+recent findings support a multifactorial aetiology for fa-tigue, involving an array of co-morbid factors, such as
+disability, psychological well-being, social support and
+‘overall evaluation of health’ [14].
+The measurement of fatigue in RA entails several
+challenges due to its subjective nature and close relation-
+ship with cognitive and emotional dimensions [15].
+Characteristics of the experience and consequences offatigue are likely to be unique in RA patients, which im-
+poses the need for specific assessment instruments [13].
+Generic instruments may, as an example, contain itemsthat in RA would capture the restrictions imposed by in-
+flammation or disability, rather than by fatigue itself, lead-
+ing to unreliable or misleading results [15]. Previous1Rheumatology Department, Centro Hospitalar e Universita ´rio de
+Coimbra, Coimbra,2Abel Salazar Institute of Biomedical Sciences,
+University of Porto, Porto,3Health Sciences Research Unit: Nursing,
+Nursing School of Coimbra and4Coimbra Institute for Clinical and
+Biomedical Research (iCBR) - Faculty of Medicine, University of
+Coimbra, Coimbra, Portugal
+Correspondence to: Ricardo J. O. Ferreira, Servic ¸ o de Reumatologia,
+Consulta Externa, Piso 7, Centro Hospitalar e Universita ´rio de
+Coimbra, EPE, Avenida Dr. Bissaya Barreto, 3000-075 Coimbra,
+Portugal. E-mail: rferreira@reumahuc.orgSubmitted 6 March 2019; accepted 16 July 2019
+!The Author(s) 2019. Published by Oxford University Press on behalf of the British Society for Rheumatology.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.or g/licenses/by-nc/4.0/), which permits non-commercial re-use,
+distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permis sions@oup.comRHEUMATOLOGYRheumatology 2019;58:v3 /C150v9
+doi:10.1093/rheumatology/kez351
+REVIEWreviews confirmed that the majority of the numerous in-
+struments used to assess fatigue in RA are well validated
+psychometrically, but lack evidence of their validity in the
+specific clinical context of RA [16, 17]. This may help ex-plain why no consensus has yet been reached on how to
+measure it in this disease.
+For the purpose of this review, and to further evolve this
+area, we chose to analyse only the instruments with rea-sonable evidence of validation for measuring fatigue in RA,
+diagnosed with established criteria. The aims of this review
+are: (i) to synthesize the role of fatigue in the global impactof RA, (ii) to describe validated instruments and their psy-
+chometric properties as measures of fatigue in patients
+with RA, and (iii) to propose a clinically meaningful andvalid process to measure fatigue in clinical practice.
+Importance of fatigue in the global
+impact of RA
+Fatigue has a significant negative impact on patients’ abil-
+ity to perform daily self-care and socially relevant tasks
+[18/C15020], to the detriment of physical and mental or emo-
+tional well-being and personal satisfaction [14, 21]. As a
+consequence of fatigue, patients experience higher levels
+of interpersonal stress, including with friends and familymembers [20]. Fatigue has been found to account for36/C15044% of role limitations, 52 /C15057% of physical and
+social functioning problems, 64% of mental health symp-
+toms, and 51% of the general perception of health wor-sening in RA [21].
+Work disability is among the most important conse-
+quences of fatigue in RA. In fact, patients have identifiedthis symptom as the principal barrier to employment andreduced productivity [22, 23] and this has been exten-
+sively demonstrated by research. In a longitudinal study,
+the likelihood of absenteeism at 6 and 12 months was sig-nificantly higher in those describing more fatigue at base-
+line (odds ratio (OR) 1.23; 95% CI: 1.02, 1.49). Fatigue was
+also associated with activity impairment (OR 1.52; 95%CI: 0.79, 2.26) and work productivity loss (OR 4.16; 95%
+CI: 2.47, 5.85) [22]. Fatigue was also associated with more
+physicians’ consultations and more referrals to therapistsover time [24]. This indicates that fatigue is probably asso-ciated with considerable additional societal costs in RA
+although, to our knowledge, this has not been the object
+of specific publications.
+Altogether, these findings can justify why fatigue is con-
+sidered an important cause in ‘difficult to treat’ RA pa-
+tients [25], making the management of RA morechallenging and causing greater health care utilization.
+Fatigue significantly affects the assessment of disease
+activity: it has been identified as the main driver of patientself-assessment of global impact of the disease (patientglobal assessment). This is true even in patients in dis-
+ease remission, i.e. with good control of the inflammatory
+process [26, 27]. It has been shown that when fatiguepersists, patients will not perceive the achievement
+of favourable clinical outcomes [28]. Patient global as-
+sessment has a significant weight in current diseaseactivity indices used to guide treatment decisions [27,
+29, 30], thus conveying an indirect impact of fatigue in
+heightened medication cost and risk of overtreatment.
+Instruments and their psychometric
+properties
+The information above underlines the need to accurately
+assess fatigue both in research and in clinical settings.Clearly, the choice of the instrument to measure fatigue
+is an essential step and the challenge this represents
+should not be underestimated. Although several instru-ments are available for this purpose, two main problemsarise. The first is their limited validation. Frequently, pub-lications using these instruments do not include refer-
+ences of validation studies, or do not fully describe the
+instrument. Therefore, it cannot be ruled out that signifi-cant variations in wording of the questions, in time refer-ence (e.g. last week, last month) and even in the number
+of items may have occurred in different instances of use of
+the same instrument. This is quite clear with the single-item visual analogue scales, for which several versionswere identified [16]. The second problem relates to the
+use in RA of instruments developed and validated for ap-
+plication in patients with other rheumatic diseases, otherdiseases, such as cancer [16, 31], or in the general popu-lation. The use of such non-specific instruments mayentail important issues, namely ‘contamination bias’,
+whereby some items may distort the assessment of fa-
+tigue by influence of other distinct outcomes in RA: phys-ical function impairment or joints’ inflammatory activity.The purpose of fatigue assessment should drive the se-
+lection of the instrument and sometimes both RA-specific
+and non-specific instruments should be used. Whateverthe case, clinicians and researchers should consider usingonly instruments with adequate validation [16, 17], i.e. in-
+struments that have been proven to measure exactly what
+is purposed (validity) and that provide consistent results atdifferent time points (reliability) or are able to detect rele-vant changes over time (sensitivity to change) [32].
+To select instruments for this narrative literature review
+we used two criteria: (i) being the most used by cliniciansand researchers in patients with RA, according to pub-lished reports; and (ii) having reasonable evidence of val-
+idation regarding acceptability, validity, reliability and
+sensitivity to change in RA. Searches were limited toPUBMED and CINAHL, in the English language and with-out restriction of dates. The search strategy included the
+following descriptors: fatigue, tiredness, scale, question-
+naire, checklist, inventory and psychometrics. One re-searcher (E.S.) reviewed all abstracts, and then fullarticles were reviewed to identify the fatigue instrumentused and to extract information on their psychometric
+properties, appraised by all researchers. We have thus
+identified 12 instruments [16, 33 /C15047], which are presented
+in Tables 1 and 2. Then, a score was attributed to thepsychometric properties of each instrument according to
+the strength of the available evidence based on its valid-
+ation studies (strong/good evidence, moderate evidence,
+v4 https://academic.oup.com/rheumatologyEduardo J. F. Santos et al .low/limited evidence, not applicable) (Table 2). For more
+details on the psychometric properties and full description
+of the instruments, readers are advised to appraise their
+validation studies (last column of Table 2) and/or previousreviews [16, 17].
+Based on their characteristics and psychometric prop-
+erties, all the selected instruments may be considered ad-
+equate to measure RA fatigue, depending on the clinical
+setting and the objectives. However, further studies andcooperative work are required to address specific needssuch as the elimination of ‘contamination bias’, theconsensual adoption of a ‘gold standard’, the definition
+of clinically relevant and validated cut-offs to assist in pa-
+tient care management, and the development and valid-
+ation of a standardized single-item assessment tool.
+The constitution of a task-force with the different stake-
+holders may be the solution to achieving much-neededprogress. A complete systematic review of outcome
+measurement instruments based on the current guidelines
+is dearly needed and the use of the COSMIN methodology(https://www.cosmin.nl/) is imperative. Furthermore, anupdate of previous reviews is needed as they consideredTABLE 1Summary of the characteristics of the selected fatigue assessment instruments
+Instrument Information/strengthsSpecifically
+designed
+for RA Free to useNumber
+of
+itemsTime to
+self-reportHigher score
+means
+BRAF MDQ Developed with RA pa-
+tients. Measures multipledimensions of fatigueYes Yes 20 4 /C1505 min Higher fatigue
+BRAF NRS Developed with RA pa-
+tients. Measures sever-ity, impact and copingYes Yes 3 1 min High severity and
+effect = higherfatigue; high
+coping = better
+CFQ Measures severity and
+uses different subscalesNo Yes 11 2 /C1503 min Higher fatigue
+CIS20R
+andCIS8RUsed in several long-term
+conditionsNo Yes 20 or 8 4 /C1505 min Higher fatigue
+FSS Recommended scale for
+systemic lupus erythe-matosus but also used in
+other rheumatic
+conditionsNo Yes 9 2 /C1503 min Higher fatigue
+FACIT-F Used in several rheumatic
+conditions and in otherchronic illnessesNo Yes, except for
+commercialstudies13 3 /C1504 min Better
+MAF Specific for RA but used in
+other chronic illnessesYes Yes, except for
+commercial
+studies15 5 /C1508 min Higher fatigue
+MFI Used in several rheumatic
+conditions and in otherchronic illnessesNo Yes, except for
+commercialstudies20 4 /C1505 min Higher fatigue
+SF-36 VT Measures energy and fa-
+tigue in general and
+clinical populations.
+Widely usedNo No 4 1 min Better
+VAS Feasible to measure a
+variety of fatigue con-structs. Widely usedNo Yes Variable 1 min Higher fatigue
+RAID-F VAS developed with RA
+patientsYes Yes 1 1 min Higher fatigue
+POMS Although designed to
+measure mood, the fa-tigue/inertia scale hasbeen used to assess fa-tigue experienced by RApatientsNo Yes, except for
+commercialstudies72 /C1503 min Higher fatigue
+BRAF MDQ: Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional Questionnaire; BRAF NRS: Bristol Rheumatoid Arthritis
+Fatigue Numerical Rating Scales for severity, effect and coping; CFQ: Chalder Fatigue Questionnaire; CIS20R and CIS8R:
+Checklist Individual Strength; FACIT-F: Functional Assessment Chronic Illness Therapy (Fatigue); FSS: Fatigue Severity Scale;
+MAF: Multi-Dimensional Assessment of Fatigue; MFI: Multi-Dimensional Fatigue Inventory; POMS: Profile of Mood States;RAID-F: Rheumatoid Arthritis Impact of Disease Fatigue Subscale; SF-36 VT: Short Form 36 Vitality Subscale; VAS: VisualAnalogue Scales.
+https://academic.oup.com/rheumatology v5Impact and assessment of fatigue in RApublications until 2004 [16] or not stated ( 42011 at best)
+[17], and further psychometric studies have been pub-lished (e.g. on BRAF and RAID) or new instruments de-veloped since these reviews were published.
+Putting the evidence together: a
+preliminary proposal to measure fatigue
+in practice
+Although fatigue was defined as a core outcome for clinical
+trials by the ACR/EULAR [48] and was the topic of a studyinterest group of OMERACT, these leading organizationsdid not specify/recommend a gold-standard instrument toassess fatigue. The diversity of instruments and their rela-tive advantages and limitations have been the subject of
+discussion by clinicians and researchers [49].
+The arguments for using disease-specific vsgeneric in-
+struments, or multi-item/multidimensional vssingle-item
+instruments are still open [50]. One large study suggestedthat scoring different components of fatigue does not
+appear to add relevant information to that provided by a
+single-item instrument [51]. However, this may depend onthe intended use of the information (e.g. a self-manage-
+ment intervention or a medication change). Also, a set of
+qualitative studies have suggested that the RA-specific,multi-dimensional instruments are needed to fully and pre-cisely identify fatigue specific to RA [33, 52, 53].
+From the patient’s perspective there are three essential
+aspects of impact of disease that require assessment (the
+so-called ‘Impact Triad’): the severity of an outcome (e.g.
+fatigue), its importance to the patient (i.e. in comparisonwith the ‘usual’ status or with other symptoms), and pa-
+tient ability to self-manage/cope with that perceived se-
+verity. In other words, it is important to consider howsymptom severity and self-management may influence
+patient priorities or the importance of outcomes for an
+individual person [54]. The development of the BRAF-NRS considered this triad, and this was the instrumentTABLE 2Summary of psychometric properties of the selected fatigue assessment instruments
+InstrumentPsychometric properties
+Validation
+studies AcceptabilityaReliability Validity
+Ability to
+detect
+changeInternal
+consistency Test /C150retestContent
+validityConstruct
+validityCriterion
+validity
+BRAF MDQ Strong Strong Strong Strong Strong Strong Good [33 /C15036]
+BRAF NRS Strong NA Severity and
+effect: strongStrong Strong Strong,
+moderatefor copingGood [33 /C15036]
+Coping:
+moderate
+CFQ Low Strong Strong in other
+populationsGood Moderate Moderate Good [37, 38]
+CIS20R
+and
+CIS8RLow Strong Strong Moderate Strong Strong Good [39]
+FSS Moderate Strong Strong Strong Strong Strong Good [40]
+FACIT-F Moderate Strong Strong Moderate Strong Strong Good [41]
+MAF Moderate Strong Strong Moderate Strong Strong Good [42]
+MFI Moderate Strong Strong Moderate Strong Moderate
+andvariableGood [43]
+SF-36 VT Strong Strong Very weak to
+strongModerate Strong Moderate to
+strongGood [44]
+VAS Moderate NA Strong No standard
+formatStrong Moderate to
+strongGood [16]
+RAID-F Strong NA Strong Strong Moderate
+tostrongStrong Good [45, 46]
+POMS Moderate Strong — Moderate Low Moderate
+andvariable— [47]
+aBased on the ease of reading and understanding, levels of missing data reported and presence of floor or ceiling effects.
+BRAF MDQ: Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional Questionnaire; BRAF NRS: Bristol Rheumatoid Arthritis
+Fatigue Numerical Rating Scales for severity, effect and coping; CFQ: Chalder Fatigue Questionnaire; CIS20R and CIS8R:Checklist Individual Strength; FACIT-F: Functional Assessment Chronic Illness Therapy (Fatigue); FSS: Fatigue Severity Scale;
+MAF: Multi-Dimensional Assessment of Fatigue; MFI: Multi-Dimensional Fatigue Inventory; NA: not applicable; POMS: Profile
+of Mood States; RAID-F: Rheumatoid Arthritis Impact of Disease Fatigue Subscale; SF-36 VT: Short Form 36 Vitality Subscale;VAS: Visual Analogue Scales.
+v6 https://academic.oup.com/rheumatologyEduardo J. F. Santos et al .used in a recent randomized controlled trial, which
+demonstrated that cognitive behavioural intervention hadshort and long term efficacy on the BRAF-NRS impact but
+not a similar efficacy in coping with (only in the longer
+term) or in the severity of fatigue [55].
+In the absence of formal recommendations, clinicians and
+researchers should consider whether their needs are best
+served by a single-item instrument, a multi-item instrumentthat explores broader fatigue issues to create a global score,or a multidimensional instrument that produces subscalescores for a range of different domains of fatigue (e.g. cog-
+nitive and physical fatigue) [17]. This open choice has, how-
+ever, the drawback of limiting comparison across studies.
+A strategic option for clinical practice may be to use a
+single-item instrument as a screening tool (e.g. BRAFNRS, RAID-F), which would be supplemented by add-itional multidimensional assessments, if significant levelsof fatigue are identified by screening. This will be particu-
+larly useful when the aims are to explore fatigue causality
+or the efficacy of interventions [17].
+Given the multifactorial nature of fatigue, it may be wise
+to measure other domains of significant impact for pa-
+tients. In fact, previous studies associated fatigue withspecific domains of disease impact (e.g. pain, functionaldisability and sleep disturbances [12, 56]), suggesting thatefficient interventions in these domains may contribute to
+significant reductions of fatigue levels. In our opinion, the
+most suitable instrument for this purpose is, currently, theRheumatoid Arthritis Impact of Disease Score (RAID) [45,46] which considers seven different domains of impact:
+pain, functional disability, fatigue, emotional well-being,
+physical well-being, sleep and coping. RAID was de-veloped and validated as a combined index of overallimpact, resulting from the consideration of the seven di-mensions (original formulation). The NRS used to assess
+individual domains of disease impact in RAID are valid,
+feasible, reliable and sensitive to change in patients withRA [46, 57, 58]. Using the seven scores separately(RAID.7i) offers a feasible tool to analyse impact of dis-ease and to design and monitor individually tailored inter-
+ventions, targeting the domains of concern, and thus
+indirectly improving fatigue.
+Conclusions
+Fatigue is, undisputedly, an outcome of outstanding im-portance for patients with RA and, thus, for the concep-tualization and achievement of treatment targets.
+It should be regularly measured in both research and
+clinical practice. A number of validated instruments are
+available to this purpose but there is no consensus defin-
+ition of gold standard.
+The use of a single item tool, followed by multidimen-
+sional instruments as appropriate, seems to be a suitable
+proposal for clinical practice.
+Acknowledgements
+We wish to thank to Professor Emma Dures (University ofthe West of England, Bristol) for critically revising themanuscript for its intellectual content. All authors were
+involved in drafting the article or revising it critically for
+important intellectual content, and all authors approvedthe final version to be published.
+Funding : This supplement is supported by a grant from
+Gilead Sciences, Inc.
+Disclosure statement : The authors have declared no
+conflicts of interest.
+References
+1 van Steenbergen HW, Tsonaka R, Huizinga TWJ, Boonen
+A, van der Helm-van Mil A. Fatigue in rheumatoid arthritis;a persistent problem: a large longitudinal study. RMDOpen 2015;1:e000041.
+2 Walter MJM, Kuijper TM, Hazes JMW, Weel AE, Luime JJ.
+Fatigue in early, intensively treated and tight-controlledrheumatoid arthritis patients is frequent and persistent: a
+prospective study. Rheumatol Int 2018;38:1643 /C15050.
+3 Pollard LC, Choy EH, Gonzalez J, Khoshaba B, Scott DL.
+Fatigue in rheumatoid arthritis reflects pain, not disease
+activity. Rheumatology (Oxford) 2006;45:885 /C1509.
+4 Hewlett S, Chalder T, Choy E et al. Fatigue in rheumatoid
+arthritis: time for a conceptual model. Rheumatology
+2011;50:1004.
+5 Overman CL, Kool MB, Da Silva JA, Geenen R. The
+prevalence of severe fatigue in rheumatic diseases: an
+international study. Clin Rheumatol 2016;35:409 /C15015.
+6 Repping-Wuts H, Fransen J, van Achterberg T, Bleijenberg
+G, van Riel P. Persistent severe fatigue in patients withrheumatoid arthritis. J Clin Nurs 2007;16:377 /C15083.
+7 Druce KL, Bhattacharya Y, Jones GT, Macfarlane GJ,
+Basu N. Most patients who reach disease remission fol-lowing anti-TNF therapy continue to report fatigue: resultsfrom the British Society for Rheumatology BiologicsRegister for Rheumatoid Arthritis. Rheumatology (Oxford)2016;55:1786 /C15090.
+8 Matcham F, Ali S, Hotopf M, Chalder T. Psychological
+correlates of fatigue in rheumatoid arthritis: a systematicreview. Clin Psychol Rev 2015;39:16 /C15029.
+9 Feldthusen C, Bjork M, Forsblad-d’Elia H, Mannerkorpi K.
+Perception, consequences, communication, and strate-gies for handling fatigue in persons with rheumatoid arth-
+ritis of working age—a focus group study. Clin Rheumatol
+2013;32:557 /C15066.
+10 Sharpe M. Cognitive behavior therapy for chronic fatigue
+syndrome: efficacy and implications. Am J Med
+1998;105:104S /C1509S.
+11 Hewlett S, Carr M, Ryan S et al. Outcomes generated by
+patients with rheumatoid arthritis: how important are they?Musculoskelet Care 2005;3:131 /C15042.
+12 Santos EJF, Duarte C, Ferreira RJO et al. Determinants of
+happiness and quality of life in patients with rheumatoidarthritis: a structural equation modelling approach. AnnRheum Dis 2018;77:1118 /C15024.
+13 Kirwan JR, Minnock P, Adebajo A et al. Patient perspec-
+tive: fatigue as a recommended patient centered outcomemeasure in rheumatoid arthritis. J Rheumatol2007;34:1174 /C1507.
+https://academic.oup.com/rheumatology v7Impact and assessment of fatigue in RA14 Suurmeijer TP, Waltz M, Moum T et al. Quality of life
+profiles in the first years of rheumatoid arthritis: resultsfrom the EURIDISS longitudinal study. Arthritis Rheum2001;45:111 /C15021.
+15 Hewlett S, Cockshott Z, Byron M et al. Patients’ percep-
+tions of fatigue in rheumatoid arthritis: overwhelming, un-
+controllable, ignored. Arthritis Rheum 2005;53:697 /C150702.
+16 Hewlett S, Hehir M, Kirwan JR. Measuring fatigue in
+rheumatoid arthritis: a systematic review of scales in use.Arthritis Rheum 2007;57:429 /C15039.
+17 Hewlett S, Dures E, Almeida C. Measures of fatigue:
+Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional
+Questionnaire (BRAF MDQ), Bristol Rheumatoid Arthritis
+Fatigue Numerical Rating Scales (BRAF NRS) for severity,effect, and coping, Chalder Fatigue Questionnaire (CFQ),Checklist Individual Strength (CIS20R and CIS8R), FatigueSeverity Scale (FSS), Functional Assessment ChronicIllness Therapy (Fatigue) (FACIT-F), Multi-DimensionalAssessment of Fatigue (MAF), Multi-Dimensional FatigueInventory (MFI), Pediatric Quality Of Life (PedsQL) Multi-
+Dimensional Fatigue Scale, Profile of Fatigue (ProF), Short
+Form 36 Vitality Subscale (SF-36 VT), and Visual AnalogScales (VAS). Arthritis Care Res (Hoboken) 2011;63(Suppl11):S263 /C15086.
+18 Franklin AL, Harrell TH. Impact of fatigue on psychological
+outcomes in adults living with rheumatoid arthritis. NursRes 2013;62:203 /C1509.
+19 Breedveld FC, Han C, Bala M et al. Association between
+baseline radiographic damage and improvement in phys-ical function after treatment of patients with rheumatoidarthritis. Ann Rheum Dis 2005;64:52 /C1505.
+20 Nikolaus S, Bode C, Taal E, van de Laar MA. Fatigue and
+factors related to fatigue in rheumatoid arthritis: a sys-tematic review. Arthritis Care Res (Hoboken)
+2013;65:1128 /C15046.
+21 Rupp I, Boshuizen HC, Jacobi CE, Dinant HJ, van den Bos
+GA. Impact of fatigue on health-related quality of life inrheumatoid arthritis. Arthritis Rheum 2004;51:578 /C15085.
+22 Druce KL, Aikman L, Dilleen M et al. Fatigue independently
+predicts different work disability dimensions in etaner-
+cept-treated rheumatoid arthritis and ankylosing spon-
+dylitis patients. Arthritis Res Therapy 2018;20:96.
+23 Gignac MA, Lacaille D, Beaton DE et al. Striking a balance:
+work-health-personal life conflict in women and men witharthritis and its association with work outcomes. J OccupRehabil 2014;24:573 /C15084.
+24 Waltz M. The disease process and utilization of health
+services in rheumatoid arthritis: the relative contributionsof various markers of disease severity in explaining con-sumption patterns. Arthritis Care Res 2000;13:74 /C15088.
+25 Roodenrijs NMT, de Hair MJH, van der Goes MC et al.
+Characteristics of difficult-to-treat rheumatoid arthritis:results of an international survey. Ann Rheum Dis
+2018;77:1705.
+26 van Tuyl LH, Sadlonova M, Hewlett S et al. The patient
+perspective on absence of disease activity in rheumatoidarthritis: a survey to identify key domains of patient-per-ceived remission. Ann Rheum Dis 2017;76:855 /C15061.
+27 Ferreira RJO, Dougados M, Kirwan JR et al. Drivers of
+patient global assessment in patients with rheumatoidarthritis who are close to remission: an analysis of 1588
+patients. Rheumatology (Oxford) 2017;56:1573 /C1508.
+28 Steunebrink LMM, Oude Voshaar MAH, Taal E et al.
+Determinants of perceived health nonimprovement in early
+rheumatoid arthritis patients with favorable treatment
+outcomes. Arthritis Care Res (Hoboken) 2018;70:510 /C1505.
+29 Ferreira RJO, Duarte C, Ndosi M et al. Suppressing in-
+flammation in rheumatoid arthritis: does patient global
+assessment blur the target? A practice-based call for a
+paradigm change. Arthritis Care Res (Hoboken)
+2018;70:369 /C15078.
+30 Ward MM, Guthrie LC, Dasgupta A. Direct and indirect
+determinants of the patient global assessment in
+rheumatoid arthritis: differences by level of disease activ-
+ity. Arthritis Care Res (Hoboken) 2017;69:323 /C150
+9.
+31 Stebbings S, Treharne GJ. Fatigue in rheumatic disease:
+an overview. Int J Clin Rheumatol 2010;5:487 /C150502.
+32 Souza ACd, Alexandre NMC, Guirardello EB.
+Psychometric properties in instruments evaluation of reli-
+ability and validity. Epidemiol Serv Saude 2017;26:649 /C15059.
+33 Nicklin J, Cramp F, Kirwan J, Urban M, Hewlett S.
+Collaboration with patients in the design of patient-re-
+ported outcome measures: capturing the experience of
+fatigue in rheumatoid arthritis. Arthritis Care Res(Hoboken) 2010;62:1552 /C1508.
+34 Nicklin J, Cramp F, Kirwan J et al. Measuring fatigue in
+rheumatoid arthritis: a cross-sectional study to evaluatethe Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional
+questionnaire, visual analog scales, and numerical rating
+scales. Arthritis Care Res (Hoboken) 2010;62:1559 /C15068.
+35 Hewlett S, Kirwan J, Bode C et al. The revised Bristol
+Rheumatoid Arthritis Fatigue measures and the
+Rheumatoid Arthritis Impact of Disease scale: validation insix countries. Rheumatology (Oxford) 2018;57:300 /C1508.
+36 Dures EK, Hewlett SE, Cramp FA et al. Reliability and
+sensitivity to change of the Bristol RheumatoidArthritis Fatigue scales. Rheumatology (Oxford)
+2013;52:1832 /C1509.
+37 Cella M, Chalder T. Measuring fatigue in clinical and
+community settings. J Psychosom Res 2010;69:17 /C15022.
+38 Chalder T, Berelowitz G, Pawlikowska T et al.
+Development of a fatigue scale. J Psychosom Res1993;37:147 /C15053.
+39 Vercoulen JH, Swanink CM, Fennis JF et al. Dimensional
+assessment of chronic fatigue syndrome. J PsychosomRes 1994;38:383 /C15092.
+40 Krupp LB, LaRocca NG, Muir NJ, Steinberg AD. The fa-
+tigue severity scale. Application to patients with multiple
+sclerosis and systemic lupus erythematosus. Arch Neurol
+1989;46:1121 /C1503.
+41 Yellen SB, Cella DF, Webster K, Blendowski C, Kaplan E.
+Measuring fatigue and other anemia-related symptomswith the Functional Assessment of Cancer Therapy (FACT)
+measurement system. J Pain Symptom Manage
+1997;13:63 /C15074.
+42 Tack B. Dimensions and correlates of fatigue in older
+adults with rheumatoid arthritis. Dissertation, University of
+California, San Francisco, 1991.
+43 Smets EM, Garssen B, Bonke B, De Haes JC. The
+Multidimensional Fatigue Inventory (MFI) psychometric
+v8 https://academic.oup.com/rheumatologyEduardo J. F. Santos et al .qualities of an instrument to assess fatigue. J Psychosom
+Res 1995;39:315 /C15025.
+44 Ware JE, Jr, Sherbourne CD. The MOS 36-item short-form
+health survey (SF-36). I. Conceptual framework and itemselection. Med Care 1992;30:473 /C15083.
+45 Gossec L, Dougados M, Rincheval N et al. Elaboration of
+the preliminary Rheumatoid Arthritis Impact of Disease(RAID) score: a EULAR initiative. Ann Rheum Dis
+2009;68:1680 /C1505.
+46 Gossec L, Paternotte S, Aanerud GJ et al. Finalisation and
+validation of the rheumatoid arthritis impact of disease
+score, a patient-derived composite measure of impact ofrheumatoid arthritis: a EULAR initiative. Ann Rheum Dis2011;70:935 /C15042.
+47 McNair D, Lorr M, Droppleman L. Profile of mood states
+manual. New York: Multi-Health Systems Inc., 1992.
+48 Aletaha D, Landewe R, Karonitsch T et al. Reporting dis-
+ease activity in clinical trials of patients with rheumatoid
+arthritis: EULAR/ACR collaborative recommendations.Ann Rheum Dis 2008;67:1360 /C1504.
+49 Katz P. Fatigue in Rheumatoid Arthritis. Curr Rheumatol
+Rep 2017;19:25.
+50 Oude Voshaar MA, Ten Klooster PM, Bode C et al.
+Assessment of fatigue in rheumatoid arthritis: a psycho-metric comparison of single-item, multiitem, and multidi-
+mensional measures. J Rheumatol 2015;42:413 /C15020.
+51 Wolfe F. Fatigue assessments in rheumatoid arthritis:
+comparative performance of visual analog scales and
+longer fatigue questionnaires in 7760 patients.J Rheumatol 2004;31:1896 /C150902.52 Nikolaus S, Bode C, Taal E, van de Laar M. Four different
+patterns of fatigue in rheumatoid arthritis patients: results of
+a Q-sort study. Rheumatology (Oxford) 2010;49:2191 /C1509.
+53 Nikolaus S, Bode C, Taal E, van de Laar M. Which di-
+mensions of fatigue should be measured in patients with
+rheumatoid arthritis? A Delphi study. Musculoskelet Care
+2012;10:13 /C1507.
+54 Sanderson TC, Hewlett SE, Flurey C et al. The impact triad
+(severity, importance, self-management) as a method of
+enhancing measurement of personal life impact ofrheumatic diseases. J Rheumatol 2011;38:191 /C1504.
+55 Hewlett S, Almeida C, Ambler N et al. Reducing arthritis
+fatigue impact: two-year randomised controlled trial of
+cognitive behavioural approaches by rheumatology teams
+(RAFT). Ann Rheum Dis 2019;78:465.
+56 van Hoogmoed D, Fransen J, Bleijenberg G, van Riel P.
+Physical and psychosocial correlates of severe fatigue in
+rheumatoid arthritis. Rheumatology (Oxford)
+2010;49:1294 /C150302.
+57 Ferreira RJO, Gossec L, Duarte C et al. The Portuguese
+Rheumatoid Arthritis Impact of Disease (RAID) score and
+its measurement equivalence in three countries: validation
+study using Rasch Models. Qual Life Res
+2018;27:2909 /C15021.
+58 Holten K, Sexton J, Kvien TK, Aga A-B, Haavardsholm EA.
+Comparative analyses of responsiveness between the
+Rheumatoid Arthritis Impact of Disease score, other pa-
+tient-reported outcomes and disease activity measures:
+secondary analyses from the ARCTIC study. RMD Open
+2018;4:e000754.
+https://academic.oup.com/rheumatology v9Impact and assessment of fatigue in RA
+
+ This is the end of the 15 text 
+

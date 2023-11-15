@@ -1,0 +1,439 @@
+“They Didn’t Tell Us, They Made Us Work It Out
+Ourselves”: Patient Perspectives of a Cognitive–Behavioral Program for Rheumatoid ArthritisFatigue
+E. DURES,1K. KITCHEN,2C. ALMEIDA,1N. AMBLER,3A. CLISS,1A. HAMMOND,4B. KNOPS,3
+M. MORRIS,1A. SWINKELS,1AND S. HEWLETT1
+Objective. Fatigue is an overwhelming rheumatoid arthritis (RA) symptom caused by interacting clinical and psycho-
+social factors. Cognitive– behavioral therapy (CBT) addresses links between thoughts, feelings, and behaviors and uses
+cognitive restructuring to facilitate behavior changes. In a randomized controlled trial, a group CBT program for RA
+fatigue improved fatigue impact, severity, and perceived coping, as well as mood and quality of life. The aim of this studywas to explore the patient perspective of the program and the impact of behavior changes.Methods. Ten exit focus groups were held (38 patients). Transcripts were analyzed by an independent researcher using
+a hybrid thematic approach, with a subset analyzed by a team member and patient partner.
+Results. Three overarching themes were identiﬁed. In “they made us work it out ourselves” (program factors facilitating
+changes), patients spontaneously identiﬁed elements of group CBT as pivotal, including guided discovery, the impact ofmetaphors, and working as a group. In “feeling much better about yourself and coping much better” (the nature ofchanges), patients described cognitive changes, including enhanced self-efﬁcacy and problem solving, and emotionalchanges, including being less volatile and fearful of fatigue. In “my life has changed so much it’s unbelievable” (beneﬁts
+beyond fatigue), patients reengaged in previously abandoned activities, were more active, and enjoyed greater social
+participation.Conclusion. Patients highlighted that CBT elements were key to making behavior changes and that these had far-reaching
+impacts on their lives. This suggests it could be beneﬁcial in clinical practice to incorporate cognitive– behavioral
+approaches into patient education programs that aim to enhance self-management.
+INTRODUCTION
+Rheumatoid arthritis (RA) is a long-term condition causing
+chronic synovitis, characterized by unpredictable inﬂam-
+matory ﬂares and an uncertain outcome with potential
+joint destruction and functional disability (1,2). Treat-ment comprises pharmacologic and multidisciplinaryteam interventions, including educational support forself-management (3). Research on important outcomes
+from the patient’s perspective identiﬁed fatigue as a major
+concern that is common, overwhelming, and unmanage-
+able (4 – 8). Quantitative studies consistently show that up
+to 70% of people with RA experience signiﬁcant fatigueand that it is as severe as RA pain, and both predicts
+and differentiates between levels of quality of life (9 –12).
+The acknowledgment of fatigue as an important symptom
+has resulted in international agreement that it should be
+measured in RA trials wherever possible (13). RA fatigueis likely to be caused by the complex interaction of
+clinical factors (inﬂammation, pain, disability) and psy-
+chosocial issues (coping, mood, illness beliefs) (14). Cur-rently there is limited evidence for effective nonpharma-
+cologic interventions for RA fatigue (15) apart from
+cognitive–behavioral therapy (CBT) (16,17).
+CBT addresses the links between thoughts, feelings, and
+behaviors (e.g., between working excess hours, thoughts ofduty, and feelings of guilt if taking sick leave) and usescognitive restructuring to help people make behaviorISRCTN: 32195100.
+Supported by Arthritis Research UK (grant 17340).
+1E. Dures, PhD, C. Almeida, MSc, A. Cliss, BSc, M. Morris,
+PhD, A. Swinkels, PhD, S. Hewlett, PhD: University of theWest of England, Bristol, UK;
+2K. Kitchen: University Hos-
+pitals Bristol, Bristol, UK;3N. Ambler, PsychD, B. Knops:
+Frenchay Hospital, Bristol, UK;4A. Hammond, PhD: Uni-
+versity of Salford, Manchester, UK.
+Address correspondence to E. Dures, PhD, Academic
+Rheumatology, Bristol Royal Inﬁrmary, Bristol, BS2 8HW,UK. E-mail: emma2.dures@uwe.ac.uk.
+Submitted for publication June 30, 2011; accepted in re-
+vised form December 7, 2011.Arthritis Care & Research
+Vol. 64, No. 4, April 2012, pp 494 –501DOI 10.1002/acr.21562© 2012, American College of Rheumatology
+ORIGINAL ARTICLE
+494changes (18). This is facilitated by the use of guided dis-
+covery or Socratic questioning, a collaborative process be-
+tween patients and therapists to reach a shared under-
+standing of underlying beliefs and to help patients reﬂecton how they interpret information. The method involvestherapists asking questions to which patients can work outthe answers, challenging patients’ negative thoughts or
+unhelpful beliefs, and drawing attention to relevant infor-
+mation about behavior patterns. In responding to ques-tions and becoming aware of their own thinking processes,a range of different perspectives is opened up for patients.This alternative thinking forms the blueprint for changing
+thoughts, feelings, and behaviors (19). A crucial element of
+guided discovery is that therapists remain nonjudgmentaland do not give advice. The process enhances patients’self-efﬁcacy (an individual’s belief in their ability to carry
+out activities to achieve a desired outcome) and the devel-
+opment of core self-management skills, such as problemsolving and goal setting (20). CBT delivered in the groupsetting offers a therapeutic opportunity to utilize groupprocesses to aid patients’ understanding of these cognitive
+and behavioral strategies, including learning from each
+others’ experiences and experiments with behavior change(social cognition theory [SCT]) (21–23). A recent system-atic review of rheumatology self-management interven-tions recommended the explicit use of CBT and/or SCT
+rather than didactic information provision in order to en-
+hance self-efﬁcacy (24).
+In a recent randomized controlled trial (RCT), group
+CBT for the self-management of fatigue in RA was deliv-
+ered by a clinical psychologist and a specialist occupa-
+tional therapist in six 2-hour sessions held weekly, with a1-hour consolidation session at week 14. Topics includedactivity pacing, stress management, communication, asser-tiveness, sleep, and managing setbacks, plus weekly goal
+setting and keeping an “Activity, Rest & Sleep Diary” (an
+hourly record of activity levels over a 1-week period).Quantitative ﬁndings showed reductions in the impactand severity of fatigue and improvements in disability,depression, helplessness, self-efﬁcacy, and sleep (17). Thisqualitative study exploring the patient perspective wasnested within the RCT with the aims of supporting thequantitative results through examples of individual expe-
+riences that lie behind the numbers, capturing any out-comes that were not measured in the RCT, and identifyingwhich elements of the program were more effective and
+which were less effective (i.e., the working processes)
+(25,26). As CBT focuses on changing individual cognitionsand behaviors, qualitative studies of patients’ perceptionsare particularly relevant for understanding how the theorymight translate into practice with different clinical groups
+(27,28).
+PATIENTS AND METHODS
+Inclusion criteria for the group CBT program were a con-
+ﬁrmed diagnosis of RA (29), a score of /H113506 of 10 on a fatigue
+visual analog scale during the past week, and no change in
+major medication for 16 weeks (or 6 weeks for steroids).The program was facilitated by 2 of the authors (NA andBK) with groups of 4 –9 patients recruited from 2 teaching
+hospitals in Bristol, UK. After the consolidation session at
+week 14, patients were invited to participate in a focusgroup to discuss their views and experiences of the pro-gram with researchers who had not been involved with itsdelivery (SH, CA, AC, AH, MM, or AS). Focus groups are
+practical for gathering evidence from large numbers of
+participants, and the interaction tends to be between par-ticipants with relatively little inﬂuence from the research-ers (30,31). Furthermore, the focus groups comprised theprogram groups, where participants were accustomed to
+discussing their experiences together. Ethics approval was
+granted by the North Somerset and South Bristol ResearchEthics Committee (P6/Q2006/149) and written consentwas obtained.
+The interview schedule (Table 1) was devised by the
+steering group, with input from a patient research partner(KK). The focus groups were audio taped and transcribedverbatim. All of the data sets were analyzed by an inde-pendent researcher (ED), with a subset analyzed by 2 ad-
+ditional authors (SH and KK). A hybrid (deductive and
+inductive) thematic analysis was conducted based on theapproach of Fereday and Muir-Cochrane (32). Codes thatdepicted patterns across the data sets and combined toform overarching themes with subthemes were generated,Signiﬁcance & Innovations
+●Patients identiﬁed key cognitive– behavioral tech-
+niques and materials as crucial for facilitating be-
+havior change (cognitive– behavioral therapy).
+●The group modality utilized peer support to en-
+hance the acquisition of self-management skills
+(social cognition theory).
+●The beneﬁts that patients gained from the fatigue
+program extended into wider life issues.
+●These data suggest that the incorporation of cog-
+nitive– behavioral approaches into patient educa-
+tion programs in clinical practice might enhance
+self-management.
+Table 1. Interview schedule
+1. Has this course been helpful?
+a. What do you believe to be the reasons why it was
+helpful?
+2. Were any parts of the course less useful?
+a. In what way?b. Would you change any parts of the course?
+3. How did the course make you feel about yourself?4. How do you feel about your fatigue now?5. When you think back to before the course:
+a. What were the main consequences of your fatigue?b. Are they the same now?
+6. When you think back to before the course:
+a. How did you cope with the fatigue?b. Is it the same now?Patient Perspectives of a CBT Program for RA Fatigue 495initially using a theory-driven approach followed by a
+data-driven analysis (Figure 1).
+RESULTS
+Of the 65 patients who participated in the program, 43attended at least 6 of the 7 sessions. Of the 40 who at-
+tended their seventh (consolidation) session, 38 agreed to
+stay on for the focus group. Nine focus groups comprising3–5 participants were held. Only 1 patient attended thegroup A consolidation session, and therefore had an indi-vidual interview; 2 patients attended the group B consol-
+idation session but could not stay on for the focus group
+(Table 2). Three major themes were identiﬁed during ana-lysis (Figure 2).
+Theme 1: “they made us work it out ourselves.” This
+theme captures elements of the program that patients iden-tiﬁed as factors facilitating change, underpinned by sub-themes of the process, metaphors and materials, workingas a group, and barriers.
+Process of guided discovery. Patients found the guided
+discovery process, in which they responded to questionsformulated by the therapists, an effective method for work-ing out their self-management strategies:
+“What I liked about the course, they didn’t tell us, they made us
+work it out ourselves” (F06).The exploration of fatigue in the context of their own lives
+was deemed more helpful than simply accessing informa-tion about the symptom:
+“Well you can read all the things on the um internet, whatever,
+or read pamphlets about what the illness entails, but you don’tknow where you ﬁt into it, you don’t know how it’s going toaffect you” (E11).
+“. . .it sticks very much in your mind instead of just reading
+the buzz words and not you know, not going through thethinking process as well” (H03).
+The guided discovery process encouraged patients to con-
+sider new ways of thinking about their fatigue and its
+management using suggestions generated in the sessions,
+rather than direct advice by therapists:
+“. . .You didn’t sit at a lecture and be told how you should run
+your life, we discussed it between ourselves” (D09).
+“They gave you like, you got ideas, you got ideas from it
+without being pushed into anything or feeling uneasy about it”(C10).
+Therapists questioned patients’ negative beliefs as part of
+getting them to reﬂect on their current situation and toidentify what was happening and why. Gaining these in-sights was perceived as empowering, which was importantfor increasing patients’ sense of control:Figure 1. The analytical process. CBT /H11005cognitive– behavioral therapy.496 Dures et al“We were challenged in a very gentle, professional way, we
+were challenged. But actually it did make me think about whatI was doing and take responsibility actually” (D15).
+Patients set their own behavior change goals centered on
+areas they identiﬁed as important and potentially achiev-
+able. Deciding on goals required some element of self-
+analysis, insight, and an understanding of the “problem”and how it might be helped:
+“We’re all totally different people with different lifestyles and
+so you try to reach those goals within your own lifestyle and Iknew where mine um differed and I knew where mine neededto go” (M09).
+“For me, it was taking time to see a friend. I just don’t get out,
+when I’m in the house, I don’t stop. I just keep going. I have totake time for myself” (L12).
+As patients engaged with the process of guided discovery
+they were able to unpack their own thoughts and feelings,identify how they were driving their behaviors, and re-
+spond in a constructive way:
+“The one that um helped me most was the one about pacing
+yourself throughout the day because I personally was on myown little personal guilt trip about feeling tired all the time, notﬁnishing things properly and it wasn’t until I came here andthey started talking about pacing and really going in to it, thatI realized that that’s just what I wasn’t doing” (H08).
+Metaphors and visual materials. Therapists used sev-
+eral metaphors during the program and focus groups dis-
+cussed how these were effective for capturing patients’
+experiences and giving them a way of thinking about pro-active responses to their fatigue.
+Communication metaphor (picture of aggressive, conﬁ-
+dent, and passive people):
+“The picture sort of stuck in my mind of this little submissive
+guy in the middle which was me and I thought a lot about thatand I’m not like that at all now” (C11).
+Pit metaphor (picture of a deep pit with a ladder leading
+out of it):
+“We were told once you’re in the bottom of that pit you have to
+build a ladder and then step by step you form a plan and climbout of it. . .” (F13).
+“. . .that’s how they described it to us. . .” (F05).“. . .it works and I think as well it is something we are never
+going to forget” (F13).
+Other materials mentioned included the Activity, Rest &
+Sleep Diary, where patients used a color code to record
+high and low activity, rest, sleep, and fatigue wipeout for
+every hour of every day each week. Although initiallydifﬁcult to understand for some, by the end of the programthe diaries had become a valuable tool. The visual record,broken down into hourly blocks, helped patients identify
+patterns in their behavior and see how these changed over
+time:
+“When I ﬁrst saw the chart I thought ‘I can’t see the concept
+here.’ But wow! Within 3 days I was shocked, absolutelyshocked and just carried on and it has made a massive differ-ence” (JG01).
+“We were given these ﬂow charts to ﬁll out and the blocks of
+red were high energy and they have all been reduced haven’tthey? Now we pace ourselves and take time out. . .” (F07).
+Participants indicated that these materials might continue
+to be helpful:
+“. . .and you could build on it at home. . .and some of them are
+so simple like the spades and the ladders and actually gettingmyself to think about what would, what did I recognize as aspade that was digging me deeper and what and who are myladders?” (D15).
+Working as a group. Patients valued the opportunity to
+harness their collective experience and offer each otherthoughts and ideas on strategies for coping with RA fa-Table 2. Patient demographics
+Group Patient ID SexAge,
+yearsDisease
+duration,
+years
+A A03 F 59 9
+C C10 F 64 6
+C11 F 77 27C13 F 70 27
+D D04 M 73 38
+D15 F 45 6D09 F 68 –D13 F 69 7
+E E07 F 53 21
+EC03 M 65 7E11 M 52 13E06 M 55 31E05 M 57 22
+F F06 F 60 12
+F07 F 69 10F05 F 71 25F13 F 65 7
+H H03 F 54 2
+H07 F 43 15H08 F 62 10HG08 F 72 3
+J JG01 F 45 30
+J15 F 67 21J01 M 54 10J03 M 57 4
+K K16 F 56 9
+K01 F 65 9K08 F 63 6KJ02 F 59 11K12 M 60 2
+L L06 F 61 49
+L12 F 64 18L15 F 74 1L11 F 64 4
+M M02 F 53 –
+M12 F – 3M09 F 72 –M01 F 35 –Patient Perspectives of a CBT Program for RA Fatigue 497tigue. Group members also provided emotional support
+related to the challenges of managing a long-term condi-tion:
+“You know it’s just extremely useful being able to bounce
+things off other people and just see how they’re managing it”(M02).
+“The opportunity to meet as a group is important. . .” (E05).“Yeah. . .” (E07).“. . .because you don’t feel that it’s only you and you are in
+isolation” (E05).
+However, patients explained that the beneﬁts derived from
+attending as a group were not due solely to the peer sup-port. The therapist’s role in getting them to engage withfatigue-related issues was recognized as vital for making
+sessions constructive:
+“They had to throw the ball into the court for us to pick it and
+what they have also had to do is stop us going off at a tangent”(KJ02).
+“We couldn’t have got through it on our own just talking
+about it on our own. . .” (F05).
+“. . .we needed those guidelines. . .” (F13).“. . .we may have pulled one another down in some cases”
+(F05).
+Barriers to engagement and progress. Patients who de-
+rived less beneﬁt from the program were able to identifybarriers to their engagement and progress. It was physi-cally and mentally demanding to attend every week and
+participate, especially when symptoms were bad. Thechallenges could be exacerbated by the timing and lengthof the sessions:
+“Yeah one thing I would say is because it maybe takes a lot out
+of people, for many, so I think it depends on how unwell theyare with their rheumatoid arthritis, how aggressive it is andhow they feel, to then to convince them to make. . .to comeevery week” (H03).
+“Mornings are difﬁcult, you have pain and you’re stiff”
+(M09).
+“It’s quite a long time for people with arthritis to sit in one
+position on one chair too in some of these sessions. . .” (EC03).
+Some materials were not as useful as they might have
+been, in particular the relaxation CD:
+“There are better relaxation tapes; there are better guided visu-
+alization tapes” (M02).
+Some participants indicated that engaging with CBT and
+learning new skills could be difﬁcult:
+“. . .he would be asking us questions. . .and my brain was to-
+tally blank because then I kept thinking, ‘Try and understandwhat he’s talking about’ you know? But it does fall into place”(C11).
+Figure 2. The patient experience of taking part in a cognitive– behavioral therapy– based self-management program for fatigue. RA /H11005
+rheumatoid arthritis.498 Dures et alTheme 2: “feeling much better about yourself and cop-
+ing much better.” This theme describes the nature of
+changes that patients made as they started to manage their
+fatigue, underpinned by subthemes of being analytical,gaining emotional control, coping skills, and acceptance ofRA fatigue.
+Learning to be more analytical. Taking part in the pro-
+gram enabled patients to think more clearly and dispas-sionately about their RA fatigue:
+“Learning from my own experiences and just analyzing that in
+a very different way. . .so it sort of gave me a bit of a distanceactually, and a bit of a capacity to be um slightly, well slightlymore analytical about it” (M02).
+By the end of the program patients described a clearer
+understanding of the symptom, enhanced problem-solvingskills, and a new way of responding to inevitable chal-lenges:
+“Until you understand it you don’t know how to stop it do you,
+you don’t know how to handle it like properly” (F13).
+“You analyze these things and then you can turn them
+around and make them work differently” (C10).
+“I do things in a much more calculated way, that doesn’t
+mean to say I have a sterile life, you know without any sur-prises. But things are done in a much more measured fashioninstead of like a bull in a china shop” (K08).
+Gaining emotional control. Validating RA fatigue in the
+group led to a reduction in unhelpful feelings of guilt and
+a fear of becoming fatigued:
+“I don’t feel guilty because I don’t call myself lazy anymore”
+(M09).
+“I think I was very scared of the fatigue bit before because I
+don’t think I really understood it, I’m not so scared of it [fatigue]now” (D15).
+Patients experienced a range of emotional changes, includ-
+ing becoming less volatile. They were able to make links
+between negative emotions and the impact on daily life:
+“I was quite ﬁery but I’ve calmed down” (C13).
+“That’s another thing the anger has gone as well hasn’t it?”
+(F13).
+“Yes the frustration and the anger” (F05).“You’ve got it [RA fatigue], you have got to live with it and be
+positive about it and get on with it, otherwise you go back intothe bottom of the pit again” (F13).
+Coping skills. Cognitive and emotional changes en-
+hanced self-efﬁcacy, which improved coping skills:
+“Feeling much better about yourself and coping much better
+with your condition” (H08).
+“You might not be able to control the fatigue, you know that’s
+going to be there, it’s the feature of this condition but you cancontrol how you manage it” (M02).
+“There are strategies that you can use and it does then have
+a spin-off on the rest of your life” (E05).Greater acceptance of RA and fatigue. There was an
+acceptance that RA fatigue is not a “curable” symptom and
+the patients’ task was to manage its negative impact:
+“You’re never going to get back to optimum health because
+optimum health is actually a myth” (D15).
+“. . .fatigue is very much part and parcel of this condition and
+what the course has done is put perspective on that and also anacceptance” (H08).
+Theme 3: “my life has changed so much it’s unbeliev-
+able.” This theme describes beneﬁts beyond fatigue, un-
+derpinned by subthemes of better communication leadingto improved personal relationships and reengagement invalued activities.
+Better communication. A positive beneﬁt for several pa-
+tients was improved communication skills. Whereas be-fore they had not talked about how their fatigue affectedthem, they now felt able to assert their own needs:
+“I think my friends and family, I would try and keep going and
+keep up with them instead of telling them about my illness andhow I might feel, but now I do. . . . And that’s how I am with myfamily a lot, that has brought us quite a lot closer together”(A03).
+Reengagement in previously abandoned activities. Pa-
+tients could see the changes in each other, and mutualencouragement became a useful part of the group process
+as members reengaged in valued activities they had previ-
+ously abandoned because of fatigue:
+“I feel we are all much more outgoing aren’t we?” (F13).
+“Mmm more positive. . .” (F05).“And I have gone back to sewing, I do a lot of machine
+embroidery, patchwork, and so on” (F07).
+Many patients discussed the beneﬁts of increased social
+participation and leading more active lives. This renewedenjoyment was often attributed to greater self-conﬁdence:
+“I do more, going and meeting new people as well and that’s
+really good” (H03).
+“My conﬁdence has gained and I have started doing things
+that I now enjoy like the jewelry business” (H07).
+Wide-ranging changes were experienced not only by pa-
+tients but also by those close to them:
+“My life has changed so much it’s unbelievable, I feel so much
+better” (A03).
+“. . .it’s made a massive difference to me, to my whole family,
+the whole family so it’s positive” (JG01).
+DISCUSSION
+This study explored the patient’s perspective of taking part
+in a program for the self-management of RA fatigue. Pa-tients spontaneously described fundamental elements ofCBT as facilitating their behavior changes (theme 1). Pa-tients were aware of their proactive role in the process andPatient Perspectives of a CBT Program for RA Fatigue 499how it differed from receiving information in a didactic
+manner. They valued an approach that was highly indi-
+vidualized and allowed them to apply what they learned
+to their own lives, enhancing their sense of control. A clearmessage in relation to the program materials was thepower of visual metaphors, an established practice in CBT
+to enhance information processing by transforming thera-
+peutic information into a form that is easy to remember(33). This information could potentially be recalled andapplied in everyday contexts when it is relevant and help-
+ful. Patients were also motivated by the feeling of group
+support. This sense of group encouragement and sharingin each others’ experiences over the 6 weeks was vividlycaptured in the data and supports the SCT about why the
+group modality can be effective. The group setting can be
+a safe place in which to pursue change, with fellow mem-bers providing a credible source of persuasion, validation,and legitimization of each others’ experiences (21,22).
+While patients beneﬁted from the group interaction, they
+acknowledged that steering by the therapists to focus onfatigue-related topics and self-learning elements was cen-tral to the program’s effectiveness. Qualitative studies withother clinical populations have also found that although
+patients valued peer support, the process of guided dis-
+covery and a structured content generated additional ben-eﬁts (34,35). These data illustrate the “active ingredients”of the program from the patient perspective.
+Theme 2 demonstrates an enhanced sense of self-
+efﬁcacy brought about by the processes of becoming moreanalytical, gaining emotional control, learning helpful
+strategies (such as activity pacing), and feeling more ableto problem solve. These changes are examples of cognitive
+restructuring, a central tenet of CBT. For several patients,
+a greater acceptance of RA and fatigue lay at the heart oftheir new approach to self-management. Moving fromwaiting for an external “cure” (e.g., a magic tablet) to aposition of acceptance and understanding of the possibil-
+ity of self-help has also been shown in other studies of
+group CBT for people with long-term conditions (36,37).This ﬁts with the CBT aim of shifting patients’ responses tosymptoms from passive to active, as they are acknowledg-ing that fatigue will not be cured but can be managed.
+These ﬁndings further support the recommendation that
+approaches such as CBT are more effective than straight-forward self-management “education” (24). Patients’ per-ceptions about “active ingredients” for behavior changemay be pertinent to busy clinicians aiming to help RA
+patients make behavior changes regarding medication, ex-
+ercise, smoking, or pacing activities.
+In theme 3, participants highlighted changes that went
+beyond the self-management of fatigue. Reengagement
+with valued activities, improved communication, and con-
+ﬁdence in social settings and greater enjoyment of lifewere important outcomes of the program from the patient’sperspective. This reﬂects a central assumption of the pro-gram; speciﬁcally, when a patient is overwhelmed by fa-
+tigue and unable to cope, the effects will ripple out and
+impact all areas of daily life. What is unclear is the extentto which these far-reaching beneﬁts came about becausepatients were better able to manage a pervasive symptomthat affected many aspects of their lives or because theCBT skills acquired in the program were then applied to
+the self-management of other symptoms (e.g., pain).
+This study was limited to a single CBT intervention for
+RA fatigue, and as such does not permit claims in relationto the other educational interventions. The recruitmentprocess meant that of the 65 patients who had taken part,
+only the 43 who completed the program and attended the
+ﬁnal consolidation session were invited to the focusgroups. This raises the potential for sampling bias, as thosewho did not complete might have had different experi-
+ences and views (e.g., found aspects of CBT ineffective or
+difﬁcult); therefore, future research might explore suchbarriers. Finally, the focus groups took place immediatelyafter the consolidation session, and had they been held at
+a different time, other issues might have been recalled.
+Patients highlighted that CBT elements were key to mak-
+ing behavior changes. This supports recommendationsbased on quantitative studies that self-management pro-
+grams be underpinned by CBT/SCT approaches, not infor-
+mation alone. Most clinical teams lack a clinical psychol-ogist; therefore, training clinical teams in cognitive–behavioral approaches to deliver fatigue self-managementprograms is currently being developed and should be sub-
+ject to an RCT.
+AUTHOR CONTRIBUTIONS
+All authors were involved in drafting the article or revising it
+critically for important intellectual content, and all authors ap-proved the ﬁnal version to be published. Dr. Dures had full accessto all of the data in the study and takes responsibility for theintegrity of the data and the accuracy of the data analysis.Study conception and design. Dures, Kitchen, Almeida, Ambler,
+Cliss, Hammond, Knops, Morris, Swinkels, Hewlett.Acquisition of data. Almeida, Ambler, Cliss, Hammond, Hewlett.
+Analysis and interpretation of data. Dures, Kitchen, Ambler,
+Morris, Swinkels, Hewlett.
+REFERENCES
+1. Conaghan PG, Green MJ, Emery P. Established rheumatoid
+arthritis. Baillieres Best Pract Res Clin Rheumatol 1999;13:561–75.
+2. Young A, Dixey J, Cox N, Davies P, Devlin J, Emery P, et al.
+How does functional disability in early rheumatoid arthritis(RA) affect patients and their lives? Rheumatology (Oxford)2000;39:603–11.
+3. Luqmani R, Hennell S, Estrach C, Birrell F, Bosworth A,
+Davenport G, et al. British Society of Rheumatology and Brit-ish Health Professionals in Rheumatology guidelines for themanagement of rheumatoid arthritis (the ﬁrst two years).Rheumatology (Oxford) 2006;45:1167–9.
+4. Carr A, Hewlett S, Hughes R, Mitchell H, Ryan S, Carr M, et al.
+Rheumatology outcomes: the patient’s perspective. J Rheuma-tol 2003;30:880 –3.
+5. Hewlett S, Carr M, Ryan S, Kirwan J, Richards P, Carr A, et al.
+Outcomes generated by patients with rheumatoid arthritis:how important are they? Musculoskeletal Care 2005;3:131–42.
+6. Minnock P, Bresnihan B. Pain outcome and fatigue levels
+reported by women with established rheumatoid arthritis [ab-stract]. Arthritis Rheum 2004;50 Suppl:S471.
+7. Ahlmen M, Nordenskiold U, Archenholtz B, Thyberg I, Ron-
+nqvist R, Linden L, et al. Rheumatology outcomes: the pa-tient’s perspective. A multicentre focus group interview studyof Swedish rheumatoid arthritis patients. Rheumatology (Ox-ford) 2005;44:105–10.500 Dures et al8. Hewlett S, Cockshott Z, Byron M, Kitchen K, Tipler S, Pope D,
+et al. Patients’ perceptions of fatigue in rheumatoid arthritis:overwhelming, uncontrollable, ignored. Arthritis Rheum2005;53:697–702.
+9. Wolfe F, Hawley DJ, Wilson K. The prevalence and meaning
+of fatigue in rheumatic disease. J Rheumatol 1996;23:1407–17.
+10. Department of Health. The musculoskeletal services frame-
+work. London: Department of Health; 2006.
+11. Suurmeijer TP, Waltz M, Moum T, Guillemin F, van Sonderen
+FL, Briancon S, et al. Quality of life proﬁles in the ﬁrst yearsof rheumatoid arthritis: results from the EURIDISS longitudi-nal study. Arthritis Rheum 2001;45:111–21.
+12. Rupp I, Boshuize HC, Jacobi CE, Dinant HJ, van den Bos GA.
+Impact of fatigue on health-related quality of life in rheuma-toid arthritis. Arthritis Rheum 2004;51:578 – 85.
+13. Kirwan J, Newman S, Tugwell P, Wells G. Patient perspec-
+tives on outcomes in rheumatology. J Rheumatol 2009;36:2067–70.
+14. Hewlett S, Nicklin J, Treharne G. Fatigue in musculoskeletal
+conditions: topical reviews series 6. No 1. Chesterﬁeld (UK):Arthritis Research Campaign; 2008.
+15. Cramp F, Hewlett S, Almeida C, Kirwan J, Choy E, Chalder T,
+et al. Systematic review and meta-analyses of non-pharmaco-logical interventions for fatigue in rheumatoid arthritis [ab-stract]. Rheumatology (Oxford) 2011;50 Suppl:iii99.
+16. Evers A, Kraaimaat F, van Riel P, de Jong A. Tailored cogni-
+tive-behavioral therapy in early rheumatoid arthritis for pa-tients at risk: an RCT. Pain 2002;100:141–53.
+17. Hewlett S, Ambler N, Almeida C, Cliss A, Hammond A,
+Kitchen K, et al. Self-management of fatigue in rheumatoidarthritis: a randomised controlled trial of group cognitive-behavioural therapy. Ann Rheum Dis 2011;70:1060 –7.
+18. White C. Cognitive behaviour therapy for chronic medical
+problems: a guide to assessment and treatment in practice.Chichester: Wiley; 2001.
+19. Sage N, Sowden M, Chorlton L, Edeleanu A. CBT for chronic
+illness and palliative care: a workbook and toolkit. Chichester(UK): John Wiley & Sons; 2008.
+20. Bandura A. Social cognitive theory: an agentic perspective.
+Annu Rev Psychol 2001;52:1–26.
+21. Brion W. Experiences in groups and other papers. London:
+Tavistock Publications; 1961.
+22. Bieling P, McCabe R, Anthony M. Cognitive-behavioural ther-
+apy in groups. New York: Guildford Press; 2006.
+23. Tucker M, Oei T. Is group more cost effective than individualcognitive behaviour therapy? The evidence is not solid yet.
+Behav Cogn Psychother 2007;35:77–91.
+24. Iverson D, Hammond A, Betteridge N. Self-management of
+rheumatic diseases: state of the art and future perspectives.Ann Rheum Dis 2010;69:955– 63.
+25. Medical Research Council. Developing and evaluating com-
+plex interventions. 2008. URL: http://www.mrc.ac.uk/complex
+interventionsguidance.
+26. Paskins Z, Hassell A. Qualitative research in RA. Rheumatol-
+ogy (Oxford) 2012;51:3– 4.
+27. Laberg S, Tornkvist A, Andersson G. Experiences of patients
+in cognitive behavioural group therapy. Cogn Behav Ther2001;30:161–78.
+28. Hind D, O’Cathain A, Cooper C, Parry G, Isaac C, Rose A, et al.
+The acceptability of computerised cognitive behavioural ther-apy for the treatment of depression in people with chronicphysical disease: a qualitative study of people with multiplesclerosis. Psychol Health 2010;25:699 –712.
+29. Arnett FC, Edworthy SM, Bloch DA, McShane DJ, Fries JF,
+Cooper NS, et al. The American Rheumatism Association1987 revised criteria for the classiﬁcation of rheumatoid ar-
+thritis. Arthritis Rheum 1988;31:315–24.
+30. Ruff C, Alexander I, McKie C. The use of focus group meth-
+odology in health disparities research. Nurs Outlook 2005;53:134 – 40.
+31. Wilkinson S. Focus group methodology: a review. Int J Soc
+Res Methodol 1998;1:181–203.
+32. Fereday J, Muir-Cochrane E. Demonstrating rigor using the-
+matic analysis: a hybrid approach of inductive and deductivecoding and theme development. Int J Qual Meth 2006;5:1–11.
+33. Otto M. Stories and metaphors in cognitive-behavioural ther-
+apy. Cogn Behav Pract 2000;7:166 –72.
+34. Mason O, Hargreaves I. A qualitative study of mindfulness-
+based cognitive-behavioural therapy for depression. Br J Med
+Psychol 2001;74:197–212.
+35. Edelman S, Lemon J, Kidman A. Group cognitive-behavioural
+therapy for breast cancer patients: a qualitative evaluation.Psychol Health Med 2005;2:139 – 44.
+36. Van Huet H, Innes E, Whiteford G. Living and doing with
+chronic pain: narratives of pain program participants. Disabil
+Rehabil 2009;31:2031– 40.
+37. Goodliffe L, Hayward M, Brown D, Turton W, Dannahy L.
+Group person-based cognitive therapy for distressing voices:views from the hearers. Psychother Res 2010;20:447– 61.Patient Perspectives of a CBT Program for RA Fatigue 501
+
+ This is the end of the 7 text 
+

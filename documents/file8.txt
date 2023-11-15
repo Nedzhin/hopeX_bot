@@ -1,0 +1,734 @@
+REVIEW
+Management of Fatigue in Rheumatoid
+Arthritis
+Janet E Pope
+ABSTRACT
+Fatigue in rheumatoid arthritis is highly prevalent. It is
+correlated only weakly with disease activity but more so withpain, mood, personality features, poor sleep, obesity andcomorbidities. Fatigue can be measured by many standardisedquestionnaires and more easily with a Visual Analogue Scale ornumeric rating scale. Most patients with RA have some fatigue,and at least one in six have severe fatigue. Chronic pain and
+depressed mood are also common in RA patients with
+significant fatigue. It affects function and quality of life and isworse on average in women. Evidence-based treatment forfatigue includes treatment of underlying disease activity (withon average modest improvement of fatigue), exerciseprogrammes and supervised self-management programmeswith cognitive-behavioural therapy, mindfulness andreinforcement (such as reminders). The specific programmesfor exercise and behavioural interventions are notstandardised. Some medications cause fatigue such asmethotrexate. More research is needed to understand fatigueand how to treat this common complex symptom in RA thatcan be the worst symptom for some patients.
+SCOPE OF THE PROBLEM
+Rheumatoid arthritis (RA) is an autoimmune
+inflammatory condition with joint damage,pain, functional impairment and fatigue.
+1
+Even though there are many treatmentsapproved for RA, fatigue affects at least three-quarters of patients.
+2Using a fatigue Visual
+Analogue Scale (VAS), 50% of RA patientshave fatigue, that is at least five out of 10.
+23
+Fatigue can be from disease activity, chronic
+pain, sleep disturbance, poor mood and otherreasons including comorbidities. It is often cor-related with disease activity but more with
+strongly with pain.
+24When there are high
+inflammatory markers, cytokines that are ele-
+vated may cause a person to feel tired or evenexhausted. This can be similar to the prodrome
+of an infection.
+5
+A previous review of fatigue in RA did not
+consistently show the same factors associatedwith fatigue.
+4Depressed mood, sleep distur-
+bance and functional impairment (disability)
+appear to frequently explain fatigue in
+patients with RA. Of course, if it can beexhausting to do usual activities when RA isactive, and damage and/or pain will worsenfatigue. Many activities of daily living areaffected in RA patients such as dressing, walk-
+ing, meal preparation, eating and personal
+care such as bathing.
+6
+When fatigue is rated very high repeatedly, it
+is likely not related solely to active RA. Thereare differences in the findings of associationswith physical function and significant fatigue
+in RA. For instance, severe fatigue in people
+with RA is associated with self-rated health,pain and anxiety/depression rather than with
+physical capacity.
+7Whereas, in multivariate
+models, severe fatigue has been associated
+with females more than males, disease activity,
+impaired function, current treatment with
+NSAIDs and biologics, multimorbidity, obesityand anxiety/depression. Severe fatigue has
+been correlated with the number of morbid
+conditions, including obesity, hypertension,COPD and anxiety/depression.
+8Fatigue cer-
+tainly is related to pain and mental healthissues (depressed mood) and with othercomorbidities whereby more health problems
+increase the likelihood of fatigue in RA.
+More than three-quarters of patients with
+RA experience chronic pain within 5 yearsof their diagnosis.
+9Personality traits and
+stress will affect fatigue in RA. RA patients
+have higher stress compared with osteoar-
+thritis and population controls.10–12It was
+observed that worrying, catastrophising andTo cite: Pope JE. Management
+of Fatigue in Rheumatoid
+Arthritis. RMD Open 2020; 6:
+e001084. doi:10.1136/rmdopen-2019-001084
+Received 5 November 2019
+Revised 4 April 2020Accepted 9 April 2020
+© Author(s) (or their
+employer(s)) 2020. Re-use
+permitted under CC BY-NC. No
+commercial re-use. See rights
+and permissions. Published
+by BMJ.
+Medicine, Division
+Rheumatology, Western
+University, Ontario, Canada
+Correspondence to
+Dr Janet E Pope; Janet.
+Pope@sjhc.london.on.caKey messages
+►Fatigue is very common in RA and is weakly
+correlated with disease activity.
+►Fatigue adversely affects the quality of life in RA.
+►Fatigue is related to pain, comorbidities, mood, poorsleep and personality factors.
+►Treatment of active RA can improve fatigue modestly.
+►Evidence-based treatment of fatigue in RAwith mostly modest or weak effect sizeincludes exercise and some guided self-management/cognitive-behavioural treatments.
+►Research is needed to find a more effective
+treatment for fatigue in RA.Rheumatoid arthritis
+Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 1 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from certain personality traits decrease physical and psycho-
+logical function,13and pain catastrophising (helpless-
+ness) worsens stress even when adjusting for age,
+gender and pain, all of which likely impact fatigue
+adversely.14In contrast, the authors of a recent study
+concluded that fatigue was associated more in extro-
+verts with RA.6However, the association between fati-
+gue and personality traits likely needs verification inother studies. In general, if very few studies find anassociation between patient factors and fatigue, then
+more research may reconcile if findings are consistent
+and generalizable to fatigue in RA.
+A framework has been suggested of fatigue in RA and
+includes disease factors (inflammation, pain, disruptedsleep and disability), personal factors (comorbidities andwork) and cognitive-behavioural interface (personality,
+thoughts and feelings driving reactions and activity).
+15 16
+Figure 1 shows factors that can impact fatigue and their
+relative contribution to chronic fatigue in RA. Cliniciansshould note that disease activity only plays a minor role in
+chronic severe patient-reported fatigue. Consideration ofpain, mood and poor sleep could be explored in each
+patient in order to determine a more comprehensive treat-
+ment plan. Patient comorbidities that could contribute topoor sleep such as sleep apnea should be ruled out when
+there is a high index of suspicion. Anaemia, hypothyroid-
+ism, uncontrolled diabetes mellitus and other morbiditiescan contribute to fatigue.
+Measurement of fatigue in RA
+Numerous fatigue tools/scales have been used in RA.
+A systematic review described 23 different fatigue tools
+which were published before Patient-Reported OutcomesMeasurement Information System (PROMIS) was
+developed.
+17 18In their review, they concluded that ordi-
+nal (Likert) and VAS, the Short Form 36 vitality subscale,
+the Functional Assessment of Chronic Illness Therapy
+Fatigue Scale (FACIT), the RA-specific Multidimensional
+Assessment of Fatigue scale (MAF) and the Profile ofMood States were validated and seemed sensitive to
+change.
+17 19 20Some scales are generic, and others are
+disease specific.
+Commonly used measures of fatigue in RA include
+numeric rating scales such as VAS 0 to 100 mm or an 11-
+point scale (from 0 to 10). Other scales such as change infatigue have been used (such as 5-point scale from much
+worse, worse, no change, better and much better). Other
+questionnaires within RA trials include the FunctionalAssessment of Chronic Illness-Fatigue (FACIT-F); Bristol
+Rheumatoid Arthritis Fatigue-Multidimensional Ques-
+tionnaire (BRAF-MDQ); SF-36 vitality domain (0 to 100)and PROMIS-29 Fatigue T-score. The FACIT-F scale
+ranges from 0 to 52, where higher numbers imply less
+fatigue. Fatigue scales are correlated to each other, butthere is no universally agreed-upon fatigue question-
+naire/tool to use in RA.
+17–20The PROMIS fatigue score
+has face validity; measures fatigue across the spectrum of
+severity; is correlated with pain, sleep disturbance, anxiety
+and depression and disease activity and is also strongly
+correlated with other fatigue scales.18
+Concordance with active diseaseRA disease activity and fatigue are correlated in many
+studies, but often the associations are weak.
+42 1 –23When
+patients with RA flare, usually pain and fatigue increase.24
+For instance, fatigue was associated with flare in RApatients with the TNF inhibitor dose decreased, but
+Figure 1 Framework of fatigue in rheumatoid arthritis (RA).RMD Open
+2 Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from other variables had more impact in the analyses such as
+baseline DAS28 and mental health.25
+The mean fatigue in RA patients studied cross-sectionally
+was 4/10, with 40% having severe fatigue.9Associations
+with fatigue are not necessarily consistent between studies.
+High fatigue in one study was associated with females,disease activity, function, treatment and multimorbidity
+(especially obesity and anxiety/depression). However, sig-
+nificant fatigue in RA in another study was associated withself-rated poor health, pain and anxiety/depression but
+not physical capacity/function.
+7
+In the Canadian early RA (ERA) cohort (CATCH
+cohort), correlations between fatigue and disease activitywere studied. It was found that fatigue was related to pain
+and the patient global rating moderately at baseline butonly weakly correlated with disease activity as measured by
+swollen and tender joint counts, physician global assess-
+ment of disease activity and inflammatory markers.
+26Fati-
+gue at baseline and at 3 months predicted fatigue, pain,
+joint counts, global assessments and disease activity at
+12 months.26In general, fatigue is weakly correlated
+with disease activity.27In general, medications that
+improve disease activity partially improve fatigue.28
+Another study suggested that the variation in fatigue wasexplained by problems other than RA including obesity,
+physical inactivity, poor sleep and depression.
+16Worse
+Health Assessment Questionnaire (HAQ) was related to
+higher fatigue, especially in women with RA, even when
+treating to a target.29Poor function and fatigue could be
+the results of other factors such as depression and pain as
+many of these variables are inter-related. The biggest
+predictor of fatigue at 1 year in ERA was baseline fatigue
+and fatigue at 3 months.30In summary, disease activity
+and other patient-reported outcomes in RA are often
+concordant with fatigue, but RA disease activity does not
+account for most of the fatigue in RA.
+Discordance with disease activity
+Fatigue in RA is usually present even if disease activity is
+low. This can be due to chronic pain which is common in
+RA. Pain can lead to poor sleep, depressed mood andfatigue, all of which are connected.
+61 82 83 13 2Also, more
+than 10% of patients with RA have fibromyalgia33and
+10% report depression in ERA.26Behavioural and psy-
+chological factors are more likely explanations of fatigue
+in RA and not disease activity.16
+When patients with ERA were treated using a treat-to-
+target strategy, it was observed that there was only a smallmean change in fatigue. In fact, three-quarters with base-
+line fatigue who had improved with respect to diseaseactivity had residual fatigue at 1 year
+30; in another study
+one in four ERA patients had worsening fatigue over time,one in three was stable and 40% improved fatigue by
+1 year.
+34
+Remission does not necessarily equate to low fatigue
+When in remission in ERA, many patients have low levelsof fatigue; but some still have significant fatigue. RApatients with a sustained state of low disease activity
+(LDA) had a mean FACIT-F score in the 40s so residual
+fatigue persisted for many patients.
+35The SF-36 vitality
+domain (scale, 0 –100) demonstrated all but approxi-
+mately 15% were not in fatigue remission when in DASremission (DAS of <2.6).
+36
+Within the Outcome Measures in Rheumatology
+(OMERACT) flare working group, a Delphi exercise wasperformed, and fatigue did not meet consensus for inclu-sion within the development of the flare questionnaire in
+RA.
+24Fatigue in RA is multifactorial and only partially
+related to disease activity which may have accounted for
+poor agreement with respect to a fatigue domain within a
+flare questionnaire in RA.
+Reasons for fatigue in RA
+There are several causes of fatigue in RA.2–51 01 6For
+instance, active RA with inflammation22and pain cause
+fatigue directly by altered cytokines but also disruption ofsleep due to pain.
+451 0Chronic pain alters sleep through
+changes in mood affecting sleep patterns.25691 6
+Decreases in physical activity and stress due to a chronicdisease that is life altering will impact energy in a negativeway.
+7Medications such as methotrexate and even sulfasa-
+lazine can cause fatigue.73 7Different routes of adminis-
+tration or dosing of methotrexate may be helpful toreduce fatigue as a side effect.
+37Treatments should be
+multidimensional in order to improve fatigue in peopleliving with RA.
+Chronic pain and fibromyalgia in RA influence fatigue
+In ERA, fibromyalgia is increased 10-fold in the first yearand fivefold in the second year after the onset of RA.
+Fibromyalgia was related to pain and poor mental health
+and not inflammation.
+33
+Timing of maximal improvement in fatigue when in sustainedremission in ERA
+An ERA cohort which included 1864 patients studied how
+fatigue varied over time.
+26A quarter had low fatigue,
+nearly 20% moderate and approximately 60% high fati-
+gue at baseline. The baseline fatigue and pain scores were
+similar, around 5 out of 10. DAS28 seemed to be moder-ately related to fatigue at baseline where the DAS28 score
+was highest in the highest fatigue level, next highest in the
+middle level and smallest in the lowest fatigue group.
+The baseline SF-36 mental component summary scores
+(MCS of SF-36) also were different differed significantlybetween the fatigue groups. The mean baseline fatiguescore measured by a VAS was highest at baseline than
+follow-up visits. Fatigue decreased by the 3-months visit
+where the largest between visit change occurred (frombaseline to 3 months compared to other time points
+within the first year).
+If a patient achieved remission or a low disease state by
+3 months, this was predictive of lower fatigue over timethan if they did not. The question was asked when the
+lowest fatigue level occurred after a patient with ERA wasRheumatoid arthritis
+Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 3 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from in sustained remission. The lowest mean level of fatigue
+seemed to lag behind remission by many months. This
+could imply that once disease activity has markedlyimproved, it takes time to optimise fatigue. One could
+speculate that it takes time after chronic inflammation is
+controlled to have better quality and quantity of sleep.Sustained remission within 1 year of ERA onset was asso-
+ciated with improved fatigue compared with not achiev-
+ing remission with parallel decrements, except optimallowest fatigue level lagged behind remission by approxi-
+mately half a year.
+26
+Established RA: is there a lag in fatigue improvement?
+Patients with RA in the Ontario Best Practices ResearchInitiative (OBRI) registry that were not in a low disease
+state at baseline were followed to determine if patient-
+reported outcomes (PROs) improved differently compar-ing ERA with established RA. In nearly 1000 RA patients
+of whom one-third had early disease, time to remission
+was faster in ERA as was time to achieving a physician andpatient global assessment of 0 or 1 out of 10. However, the
+time to improving fatigue was the same in both those with
+early and established RA.
+38
+TREATMENTThere is no uniform treatment for fatigue in RA, and
+many proven interventions have small effect sizes from
+small trials. This is probably due to the fact that fatigue isfrom multiple different causes within and between indi-
+viduals and that when it becomes chronic, it is less likely to
+dramatically improve. This seems similar to chronic painin RA. Treatment can be divided into pharmacologic and
+non-pharmacologic. Table 1 illustrates the evidence of
+treatment of fatigue in RA. Future research should be
+focused on designing well-powered randomised trials of
+interventions thought to have at least a moderate effect
+size. Possibly several interventions could be studied in onetrial in order to determine if there is incremental benefit
+combining multiple modalities and thereby increasing
+the likelihood of a larger treatment effect. For instance,a trial could be designed comparing exercise, cognitive-
+behavioural therapy (CBT) and pharmacological treat-
+ment together versus each individual treatment. Betterinterventions for fatigue in RA are an unmet need.
+Pharmacologic treatment of fatigue
+Pharmacological treatment of fatigue in RA has beenprimarily studied by treating disease activity and/orpain. Treating to a target and achieving rapid remissionor very low disease state in ERA predicts lower fatigue
+early and later (even at 5 years).
+26Effective treatment in
+RA will only partially reduce fatigue if it is related to the
+disease activity in RA.
+Virtually all treatments in RA will reduce fatigue,
+including conventional synthetic disease-modifying anti-
+rheumatic drugs (csDMARDs), targeted synthetic
+DMARDs, biologic DMARDs and corticosteroids.37 39 –54The average effect of treatment on fatigue in active RAwith various advanced therapies is meaningful but not
+large.
+39Treatment of disease activity in RA has a small
+impact on fatigue, whereas physical inactivity, poor sleep
+and depressed mood explain most of the fatigue.28Often
+fatigue is an exploratory outcome in trials. Medications
+can cause or exacerbate fatigue. A strong predictor of
+nonadherence to methotrexate was fatigue (but baseline
+fatigue was not related to methotrexate; whereas increas-
+ing fatigue later could be due to methotrexate).37
+More than 2000 patients with RA who were followed in
+a registry and started either methotrexate monotherapy
+or a TNFi were studied to determine associations with
+fatigue.40At 6 months, nearly one-third were in remission
+with a median fatigue of 2/10 and 25th percentile was 0.6
+and 75th percentile was 4.3/10. However, 28% had fati-
+gue >4/10. Higher pain levels at baseline and 6 months
+were associated with fatigue. So, other methods of treat-ing fatigue in RA are needed beyond treatment of active
+disease. In a different study, 48 RA patients demonstrated
+significant improvements in fatigue measured by the Fati-gue Severity Scale after initiation of biologic DMARDs.
+41
+PROs such as fatigue, pain and patient global assessmenthave only weak correlations in active RA when biologicsare used.
+42
+Improvement in fatigue has been related to the line of
+therapy in a review of abatacept trials. Abataceptimproved fatigue more than placebo, and improvements
+in fatigue were higher in ERA compared with biologic
+exposed patients.
+43More than 1500 patients from the
+three trials were analysed, and the authors concluded
+that improvement in fatigue and other outcomes such
+as pain, sleep and remission had poor agreement andearlier lines of therapy had more responsiveness with
+respect to fatigue in patients treatd with abatacept.
+Half the patients in the Corrona Database reated with
+rituximab (N=667) after one or more TNF inhibitors hadimprovement in fatigue.
+44
+Interleukin-6 may be important in the perception of
+fatigue, as it is an inflammatory cytokine. There are two
+anti-IL-6 biological treatments approved for RA. Tocili-
+zumab improves signs and symptoms of active RA in
+RCTs including fatigue.45In an observational study, at
+2 years of follow-up, tocilizum ab significantly decreased
+fatigue.46The variance in fatigue in a tocilizumab treat-
+ment study was explained mostly by sleepiness, depres-sive symptoms and disease activity (DAS28).
+47In RCTs,
+sarilumab has shown improvement in PROs, with aneffect size that was clinically relevant for fatigue but notas large as for pain.
+48
+The Janus kinase (JAK) inhibitors have also demon-
+strated clinically relevant improvements in fatigue inpatients with active RA across lines of therapy such as
+in ERA (methotrexate naive), methotrexate inade-
+quate responders and biologic inadequateresponders.
+49–54Tofacitinib and baricitinib are
+approved in many countries and upadacitinib hasbeen approved in the USA and elsewhere. It isRMD Open
+4 Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from anticipated that filgotinib will also be approved in RA.
+Treatment with baricitinib in active RA patients whowere inadequate responders to methotrexate improved
+pain, fatigue, function and work productivity more
+than placebo.
+52Possibly, JAK inhibitors are more effec-
+tive in treating pain in active RA than TNF inhibitors
+(or at least adalimumab), and this may also corre-
+spond to improved fatigue.49 51Not all RA treatment
+trials show superiority with respect to fatigue as an
+outcome and some individuals will respond better to
+one treatment than another, so there are no strongpredictors with respect to who will have a marked
+improvement in fatigue when treating active RA.
+Non-pharmacologic treatment of fatigue in RA
+The age of the patient with RA does not seem to affect thechoice of non-pharmacologic treatment for improving
+fatigue in RA, so similar strategies for treating fatigue
+may be applicable to all adults with RA.
+55Physical activity and psychological interventions are
+effective in reducing fatigue in RA.56A Cochrane meta-
+analysis of RCT of nonpharmacological interventions in
+RA patients with fatigue analysed six trials, with 388
+patients showing physical activity improved fatigue bya difference of 14 points on a 0 to 100 fatigue scale
+compared with controls.
+56The number needed to treat
+to have a beneficial effect was 7.56Another systematic
+review compared trials using the minimal important dif-ference and it also showed that aerobic exercise was effec-
+tive in reducing fatigue, but most participants would notachieve a clinically relevant improvement in fatigue.
+57It
+was shown that providing pedometers with or withoutproviding step targets was helpful in increasing physicalactivity in RA with a small reduction in fatigue.
+58The
+effect size of most physical activity interventions for fati-gue improvement in RA is small.
+Older patients with RA (>65 years) were compared with
+respect to changes in fatigue between a 20-weekTable 1 Summary of treatment of fatigue in RA
+Pharmacologic treatment Non-pharmacologic treatment
+Targeting disease
+activityDMARDs (csDMARDs, bDMARDs,tsDMARDs) Corticosteroids
+Reducing medicationside effectsAdjusting DMARDs (such asmethotrexate, sulfasalazine),Corticosteroids
+Improving fatigue inother waysPhysical activity/exerciseWhether it needs to be supervised by a therapist or not isuncertainThe intensity of exercise is uncertain
+Behavioural modification
+Motivational interviewing, self-management programme withremindersCognitive-behavioural therapy(CBT)
+Possible benefits Treating depression/pain
+Improving sleepImproving sleep hygeineMaintaining workTreating depression/poor mood using non-pharmacologictreatments (eg, counselling, journaling, CBT)Treating pain using non-pharmacologic modalities (eg, heat,splinting, range of motion, resting, TENS)
+Uncertain benefits Health tracking
+Counting steps (wearable devices)Dietary modification (Mediterranean diet)Omega-3 supplementsReflexology
+Awareness andtreatment ofcomorbidities*Identification and treatment ofcomorbiditiesTreatment of-uncontrolled diabetes mellitus-hypothyroidism-anemia-hypoxia from ILD, COPDTreatment of sleep apnea with CPAP
+*Examples provided, not an exhaustive list of causes of fatigue in patients with RA. bDMARDs, biologic DMARDs; COPD, chronic obstructive
+pulmonary disease; CPAP, continuous positive airway pressure; csDMARDs, conventional synthetic DMARDs; DMARDs, disease-modifying
+antirheumatic drugs; ILD, interstitial lung disease; RA, rheumatoid arthritis; TENS, transcutaneous electrical nerve stimulation; tsDMARDs,
+targeted synthetic DMARD.Rheumatoid arthritis
+Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 5 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from moderate-intensity to high-intensity exercise at a gym
+with supervision, or exercise of light intensity at home.
+Exercise did not improve fatigue rated by a VAS. How-ever, using the Multidimensional Fatigue Inventory (MFI-
+20), both physical and mental fatigue improved more in
+the moderate-intensity to high-intensity group at thegym.
+59We do not know if the improvements would be
+sustained after the programme ended nor if it was thesocialisation/attention that improved fatigue versus theactual exercise.
+In RA, it is uncertain what exercise to recommend to
+patients with high fatigue and whether supervision has‘added-value ’. Patients with RA who were in an exercise
+trial felt that physical activity was important for copingwith fatigue.
+60Time with a physiotherapist guiding
+a personalised exercise programme was also important.
+Of course, patients who agreed to be interviewed had
+already participated in a trial, so the sample could bebiased in favour of exercise.
+In one study, a comprehensive exercise programme to
+improve fatigue in RA consisted of seven sessions witha physiotherapist who provided handouts, discussed the
+benefits of exercise (in general and disease specific),
+demonstrated exercises and equipment and allowedpatients to choose exercises with supervision. Patients
+completed an activity diary, set goals and had graded
+exercises. They re-evaluated their goals over the pro-gramme and learnt pacing, stress reduction and relaxa-
+tion techniques and weight reduction.
+61Interestingly,
+motivational counselling followed by text message remin-
+ders to improve physical activity improved pain. There
+was sustained increased exercising 18 months after the
+intervention.62Fatigue reduced by 12 mm on a 100 mm
+VAS which was a small difference but clinically relevant.
+RCTs of weight loss in RA are sparse. Obesity is com-
+mon and is a risk factor for RA. In ERA, one-third ofpatients are at ideal weight, one-third are overweight
+and one-third are obese.
+63Studies in psoriatic arthritis
+have demonstrated that weight reduction improves dis-
+ease activity.64Dietary manipulation to provide improve-
+ment in pain in RA and weight reduction has beenstudied, but studies are small with a high risk of bias anddo not provide definitive data on improving disease activ-
+ity or fatigue.
+65
+Thirteen trials of psychosocial interventions in RA stu-
+died a total of 1579 patients. The mean difference infatigue between the treatment and control groups was
+10 (on a 0 to 100 scale) with an NNT of 10. The overallquality of the trials was low; and the effect size was modest
+at best.
+56A very large RCT was published using
+a cognitive-behavioural approach to decrease fatigue in
+RA over 2 years (Reducing Arthritis Fatigue Trial).66Fati-
+gue had to be at least six out of 10 to be enrolled in thetrial. For the group randomised to cognitive-behaviouralapproach, seven sessions were given by trained rheuma-
+tology occupational therapists and nurses. Whereas the
+control group received a usual care booklet. There were333 randomised, of whom 93% completed outcomes at26 weeks. A small improvement in the active (cognitive-
+behavioural) treatment group that persisted to 2 years was
+observed, including the impact of fatigue and self-efficacy. Satisfaction with the intervention was higher in
+active treatment (89%) vs controls (54%). The minimal
+clinically important difference in RA for change withina fatigue scale is likely to be at least 10%. The control
+group changed by 12% and the cognitive-behavioural
+group by 19%, so the between-group difference was verysmall. The rating of fatigue, unfortunately, was not differ-
+ent between the groups, but coping with fatigue was
+better in the intervention group.
+Other studies in the Cochrane review were either nega-
+tive or not analyzable for fatigue, including one trial eachof herbal treatment, omega-3 fatty acid supplementation,a Mediterranean diet, reflexology and the use of Health
+Tracker information (one large trial with 714
+participants).
+56
+Theoretically, improving sleep quality can help fatigue.
+Patients with RA who have a lower quality of sleep havemore fatigue.
+67
+Maintaining ability to workPatients with RA who maintained their ability to workhad less fatigue compared to those who were work dis-
+abled, and these differences seemed related to better
+mental health, not physical health.
+68However, other
+factors are likely related to an ability to work, which
+may not have been measured, where both fatigue and
+work disability are a consequence of joint damage, age,type of job, less flexibility at work and so on.
+A prospective study is needed to determine if
+a programme that keeps people in the workplace willimprove fatigue.
+Behavioural interventions
+A 12-month-long self-management programme delivered
+via the internet did not improve pain or fatigue comparedwith standard of care treatment in an RCT of 157 patients
+with RA.
+69
+Vitamins and supplementsIn RA patients who are vitamin D deficient, there does not
+appear to be clinically relevant improvements in RA withvitamin D supplementation, even though function and
+inflammatory markers slightly improved.
+70A systematic
+review showed that vitamin D had no improvement in
+fatigue.56This is contrary to systemic lupus erythematosus
+(SLE), where data suggest that vitamin D supplementationmay improve fatigue.
+71
+Omega 3 supplementation or fish oil has some positive
+RCTs in active RA improving disease activity when addedto standard of care.
+72 73However, the effects on fatigue
+are uncertain.
+It seems that social support, hope, optimism and resi-
+lience improve fatigue.74Perhaps ways at improving resi-
+lience and social support can also help people with RA
+who have significant fatigue. There are no RCTs.RMD Open
+6 Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from Ineffective strategies for improving fatigue in RA
+Tight control alone does not fully improve fatigue. At
+12 months, 43% of RA patients experienced ongoingfatigue in a treat to target strategy study. Nearly one in
+four who were fatigued at the onset of the study showed
+lower levels of fatigue by 1 year, but one in six of thepatients who were not initially fatigued recorded
+increased fatigue.
+30
+Treatment of anaemia should theoretically improve
+fatigue. RA can cause anaemia of chronic disease.A Cochrane review of erythropoietin for anaemia in RA
+did improve patient global assessment, but the results forfatigue were not provided or inconsistent.
+75
+An RCT of morphine and naloxone studied pain in
+various conditions including RA. Active treatment wascomparable with placebo.
+76An RCT of tetrahydrocanna-
+binol (THC) for treating chronic pain in RA and ankylos-ing spondylitis is ongoing, and outcomes will include painand fatigue.
+77The design is innovative as cannabidiol
+(CBD) nonresponders will have THC added to theirtreatment after 12 weeks.
+SUMMARY
+In conclusion, fatigue in RA is due to multiple factors and
+only partially from disease activity. The treatment ofactive RA can improve fatigue somewhat. Many predictors
+such as high pain, multimorbidity, obesity, personality
+factors and depressed mood increase the likelihood offatigue. Other reviews have provided insights into the
+effects of pain and psychological factors on fatigue in
+RA.
+78 79
+Treatment of fatigue is difficult with some positive data
+for exercise, CBT and some self-management pro-grammes with reminders. In general, treatment effectsin RCTs of fatigue in RA are small. It is unknown if weight
+loss can improve fatigue, but dietary changes have not
+resulted in positive results. There are multiple naturalherbals and other vitamins and minerals that claim to
+help fatigue in chronic disease (and have multimillion
+dollars of sales), but lack RCT ‘proof ’. More research is
+needed to find an effective treatment of fatigue after
+disease activity is controlled. Until then, fatigue will have
+a negative impact on many people living with RA.
+80
+Contributors JEP performed the literature search, writing of the paper and formed
+the opinions presented.
+Competing interests AbbVie, Actelion, Amgen, Bayer, BMS, Emerald, Genzyme,
+Janssen, Lilly, Merck, Novartis, Pfizer, Roche, Sandoz, Sanofi, UCB; RCTs : Bayer,
+BMS, Merck, Roche, Seattle Genetics, UCB.Patient consent for publication Not required.
+Ethical approval There was no ethics approval as this is a review article.
+Provenance and peer review Commissioned; externally peer reviewed.
+Open access This is an open access article distributed in accordance with the
+Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which
+permits others to distribute, remix, adapt, build upon this work non-commercially,
+and license their derivative works on different terms, provided the original work isproperly cited, appropriate credit is given, any changes made indicated, and the useis non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.ORCID iDs
+Janet E Pope http://orcid.org/0000-0003-1479-5302
+REFERENCES
+1 Taylor PC, Moore A, Vasilescu R, et al. A structured literature review of
+the burden of illness and unmet needs in patients with rheumatoid
+arthritis: a current perspective. Rheumatol Int 2016;36:685 –95.
+2 Pollard LC, Choy HE, Gonzalez J, et al. Fatigue in rheumatoid arthritis
+reflects pain, not disease activity. Rheumatology. 2006;45:885 –9.
+3 H e w l e t tS . ,C o c k s h o t tZ . ,B y r o nM . ,K i t c h e nK . ,T i p l e rS . ,P o p eD . ,
+Hehir M., et al. Patients ’perception of fatigue in rheumatoid arthritis:
+overwhelming, uncontrollable, ignored. Arthritis Rheum 2005;53:697– 702.
+4 Nikolaus S, Bode C, Taal E, et al. Fatigue and factors relating to fatigue
+in rheumatoid arthritis: a systematic review. Am Coll Rheumatol
+2013;65:1128 –46.
+5 Zielinski MR, Systrom DM, Rose NR, Fatigue, sleep, and autoimmune
+and related disorders. Front Immunol 2019;10:1827.
+6 Silva CFR, Duarte C, Ferreira RJO, et al. Depression, disability and
+sleep disturbance are the main explanatory factors of fatigue inrheumatoid arthritis: a path analysis model. Clin Exp Rheumatol
+2019;38:314 –321.
+7 Demmelmaier I, Pettersson S, Nordgren B, et al. Associations between
+fatigue and physical capacity in people moderately affected by
+rheumatoid arthritis. Rheumatol Int 2018;38:2147 –55.
+8 Tournadre A, Pereira B, Gossec L, et al. Impact of comorbidities on
+fatigue in rheumatoid arthritis patients: results from a nurse-led
+program for comorbidities management (COMEDRA). Joint Bone
+Spine 2019;86:55– 60.
+9 Andersson MLE, Svensson B, Bergman S. Chronic widespread pain in
+patients with rheumatoid arthritis and the relation between pain and
+disease activity measures over the first 5 years. J Rheumatol
+2013;1977 –85.
+10 Walsh DA, McWilliams DF. Mechanisms, impact and management of
+pain in rheumatoid arthritis. Nat Rev Rheumatol 2014;10:581 –92.
+11 Harris ML, Loxton D, Sibbritt DW, et al. The influence of perceived
+stress on the onset of arthritis in women: findings from the AustralianLongitudinal Study on Women ’sH e a l t h . Ann BehavMed 2013;46:9 –18.
+12 Latman NS, Walls R. Personality and stress: an exploratory comparison
+of rheumatoid arthritis and osteoarthritis. Arch Phys Med Rehabil
+1996;77:796 –800.
+13 Evers AW, Zautra AF, Thieme K. Stress and resilience in rheumatic
+diseases: a review and glimpse into the future. Nat Rev Rheumatol
+2011;21:409 –15.
+14 Rice DB, Mehta S, Serrato J, et al. Stress in patients diagnosed with
+rheumatoid arthritis compared to chronic pain. Rehabil Psychol
+2017;62;571 –9.
+15 Hewlett S, Chalder T, Choy E, et al. Fatigue in rheumatoid arthritis: time
+for a conceptual model. Rheumatology 2011;50:1004 –6.
+16 Katz P, Causes and consequences of fatigue in rheumatoid arthritis.
+Curr Opin Rheumatol 2017;29:269 –76.
+17 Hewlett S, Hehir M, Kirwan JR, Measuring fatigue in rheumatoid
+arthritis: a systematic review of scales in use. Arthritis Rheum
+2007;57:429 –39.
+18 Bingham Iii CO, Gutierrez AK, Butanis A, et al. PROMIS Fatigue short
+forms are reliable and valid in adults with rheumatoid arthritis. J Patient
+Rep Outcomes 2019;3:14.
+19 Orbai AM, Bingham CO 3rd, Patient reported outcomes in rheumatoid
+arthritis clinical trials. Curr Rheumatol Rep 2015;17:28.
+20 Hewlett S, Dures E, Almeida C, Measures of fatigue: Bristol
+Rheumatoid Arthritis Fatigue Multi-Dimensional Questionnaire (BRAFMDQ), Bristol Rheumatoid Arthritis Fatigue Numerical Rating Scales(BRAF NRS) for severity, effect, and coping, Chalder FatigueQuestionnaire (CFQ), Checklist Individual Strength (CIS20R andCIS8R), Fatigue Severity Scale (FSS), Functional Assessment ChronicIllness Therapy (Fatigue) (FACIT-F), Multi-Dimensional Assessment ofFatigue (MAF), Multi-Dimensional FatigueInventory (MFI), PediatricQuality Of Life (PedsQL) Multi-Dimensional Fatigue Scale, Profile ofFatigue (ProF), Short Form 36 Vitality Subscale (SF-36 VT), and VisualAnalog Scales (VAS). Arthritis Care Res (Hoboken) 2011;63:S263 –86.
+21 Van Hoogmoed D, Fransen J, Bleijenberg G, et al. Physical and
+psychosocial correlates of severe fatigue in rheumatoid arthritis.
+Rheumatology (Oxford) 2010;49:1294 –302.
+22 Madsen SG, Danneskiold-Samsoe B, Stockmarr A, et al. Correlations
+between fatigue and disease duration, disease activity, and pain inpatients with rheumatoid arthritis: a systematic review. Scand
+J Rheumatol 2016;45:255 –61.
+23 Bergman MJ, Shahouri SH, Shaver TS, et al. Is fatigue an inflammatory
+variable in rheumatoid arthritis (RA)? Analyses of fatigue in RA,osteoarthritis, and fibromyalgia. J Rheumatol 2009;36:2788 –94.Rheumatoid arthritis
+Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 7 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from 24 Bartlett SJ, Hewlett S, Bingham CO 3rd, et al. Identifying core domains
+to assess flare in rheumatoid arthritis: an OMERACT international
+patient and provider combined Delphi consensus. Ann Rheum Dis
+2012;71:1855 –60.
+25 Bechman K, Sin FE, Ibrahim F, et al. Mental health, fatigue and function
+are associated with increased risk of disease flare following TNFinhibitor tapering in patients with rheumatoid arthritis: an exploratoryanalysis of data from the optimizing TNF tapering in RA (OPTTIRA) trial.
+RMD Open 2018;4:e000676.
+26 Holdren M, Schieir O, Bartlett SJ, et al. Achieving a low disease state
+within first 3 months in early rheumatoid arthritis results in lower fatigueover 5 years. Ann Rheum Dis 2019;78:A240.
+27 Colak S, Sandikci SC, Gokmen D, et al. The relationship between
+Bristol rheumatoid arthritis fatigue scales and disease activity ofpatients with rheumatoid arthritis. Clin Rheumatol 2018;37:2927 –32.
+28 Katz P, Fatigue in rheumatoid arthritis. Curr Rheumatol Rep
+2017;19:25.
+29 Twigg S, Hensor EMA, Freeston J, et al. Effect of fatigue, older age,
+higher body mass index, and female sex on disability in earlyrheumatoid arthritis in the Treatment-to-TargetEra. Arthritis Care Res
+(Hoboken) 2018;70:361 –8.
+30 Walter MJM, Kuijper TM, Hazes JMW, et al. Fatigue in early, intensively
+treated and tight-controlled rheumatoid arthritis patients is frequentand persistent: a prospective study. Rheumatol Int 2018;38:1643 –50.
+31 Primdahl J, Hegelund A, Lorenzen AG, et al. The experience of people
+with rheumatoid arthritis living with fatigue: a qualitative metasynthesis. BMJ Open 2019;9:e024338.
+32 Junghaenel DU, Schneider S, Stone AA, Do people with arthritis differ
+from healthy controls in their internal comparison standards forself-reports of health, fatigue, and pain? Identification and validation ofclinically relevant clusters of severe fatigue in rheumatoid arthritis.
+J Patient Rep Outcomes 2019;3:21.
+33 Lee YC, Lu B, Boire G, et al. Incidence and predictors of secondary
+fibromyalgia in an early arthritis cohort. Ann Rheum Dis 2013;72:949 –
+54.
+34 Rat AC, Pouchot J, Fautrel B, et al. Factors associated with fatigue in
+early arthritis: results from a multicenter national French cohort study.Arthritis Care Res 2012;64:1061 –9.
+35 Strand V, Jones TV, Li W, et al. The impact of rheumatoid arthritis on
+work and predictors of overall work impairment from three therapeuticscenarios. Int J Clin Rheumatol 2015;10:317 –28.
+36 Druce KL, Bhattacharya Y, Jones GT, et al. Most patients who reach
+disease remission following anti-TNF therapy continue to reportfatigue: results from the British Society for Rheumatology BiologicsRegister for Rheumatoid Arthritis. Rheumatology (United Kingdom)
+2016;55:1786 –90.
+37 Hope HF, Hyrich KL, Anderson J, et al. The predictors of and reasons
+for non-adherence in an observational cohort of patients withrheumatoid arthritis commencing methotrexate. Rheumatology
+(Oxford) 2019;pii: kez274.
+38 Pope J, Rampakakis E, Movahedi M, et al. Does improvement in patient
+pain and fatigue lag behind clinical remission in rheumatoid arthritispatients? data from a rheumatoid arthritis registry [abstract]. Arthritis
+Rheumatol 2019;71. Available https://acrabstracts.org/abstract/does-
+improvement-in-patient-pain-and-fatigue-lag-behind-clinical-remission-in-rheumatoid-arthritis-patients-data-from-a-rheumatoid-arthritis-registry/
+39 Almeida C, Choy EHS, Hewlett S, et al. Biologic interventions for fatigue
+in rheumatoid arthritis(systematic review). Cochrane Syst Rev 2016.
+40 Olsen CL, Lie E, Kvien TK, et al. Predictors of fatigue in rheumatoid
+arthritis patients in remission or in a low disease activity state. Arthritis
+Care Res (Hoboken) 2016;68:1043 –8.
+41 Rinke HS, Gjesdal CBG, Markussen H, et al. Patient-reported fatigue in
+patients with rheumatoid arthritis who commence biologic therapy:a longitudinal study. PeerJ 2019;7:e6771.
+42 Madsen OR, Egsmose EM, Fatigue, pain and patient global
+assessment responses to biological treatment are unpredictable, and
+poorly inter-connected in individual rheumatoid arthritis patients
+followed in the daily clinic. Rheumatol Int 2016;36:1347 –54.
+43 Gossec L, Ahdjoudj S, Alemao E, et al. Improvements in fatigue in 1536
+patients with rheumatoid arthritis and correlation with other treatmentoutcomes: a post hoc analysis of three randomized controlled trials ofabatacept. Rheumatol Ther 2017;4:99 –109.
+44 Harrold LR, John A, Best J, et al. Impact of rituximab on
+patient-reported outcomes in patients with rheumatoid arthritis fromthe US Corrona Registry. Clin Rheumatol 2017;36:2135 –40.
+45 Strand V, Michalska M, Birchwood C, et al. Impact of tocilizumab
+administered intravenously or subcutaneously on patient-reportedquality-of-life outcomes in patients with rheumatoid arthritis. RMD
+Open 2018;4:e000602.46 Abu-Shakra M, Zisman D, Balbir-Gurman A, et al. Effect of tocilizumab
+on fatigue and bone mineral density in patients with rheumatoidarthritis. Isr Med Assoc J 2018;20:239 –44.
+47 Corominas H, Alegre C, Narváez J, et al. Correlation of fatigue with
+other disease related and psychosocial factors in patients withrheumatoid arthritis treated with tocilizumab: ACT-AXIS study.
+Medicine (Baltimore) 2019;98:e15947.
+48 Gossec L, Strand V, Proudfoot C, et al. Effects of sarilumab on
+rheumatoid arthritis as reported by patients using the rheumatoidarthritis impact of disease scale. J Rheumatol 2019;46:1259 –67.
+49 Jegatheeswaran J, Turk M, Pope JE, Comparison of Janus kinase
+inhibitors in the treatment of rheumatoid arthritis: a systemic literaturereview. Immunotherapy 2019;11:737 –54.
+50 Strand V, Mysler E, Moots RJ, et al. Patient-reported outcomes for
+tofacitinib with and without methotrexate, or adalimumab withmethotrexate, in rheumatoid arthritis: a phase IIIB/IV trial. RMD Open
+2019;5:e001040.
+51 Fautrel B, Kirkham B, Pope JE, et al. Effect of baricitinib and
+adalimumab in reducing pain and improving function in patients withrheumatoid arthritis in low disease activity: exploratory analyses fromRA-BEAM. J Clin Med 2019;8:E1394.
+52 Michaud K, Pope JE, Emery P, et al. Relative impact of pain and fatigue
+on work productivity in patients with rheumatoid arthritis from theRA-BEAM baricitinib trial. Rheumatol Ther 2019;6:409– 19.
+53 Burmester GR, Kremer JM, Van den Bosch F, et al. Safety and efficacy
+of upadacitinib in patients with rheumatoid arthritis and inadequateresponse to conventional synthetic disease-modifying anti-rheumaticdrugs (SELECT-NEXT): a randomised, double-blind,placebo-controlled phase 3 trial. Lancet 2018;391:2503 –12.
+54 Genovese M, Westhovens R, Meuleners L, et al. Effect of filgotinib,
+a selective JAK 1 inhibitor, with and without methotrexate in patientswith rheumatoid arthritis: patient-reported outcomes. Arthritis Res Ther
+2018;20:57.
+55 Uhlig T, Provan SA, Treating fatigue in rheumatoid arthritis: does
+patient age matter?. Drugs Aging 2018;35:871 –6.
+56 Cramp F, Hewlett S, Almeida C, et al. Non-pharmacological
+interventions for fatigue in rheumatoid arthritis. Cochrane Database
+Syst Rev 2013;CD008322.
+57 Kelley GA, Kelley KS, Callahan LF, Aerobic exercise and fatigue in
+rheumatoid arthritis participants: a meta-analysis using the minimalimportant difference approach. Arthritis Care Res (Hoboken)
+2018;70:1735 –9.
+58 Katz P, Margaretten M, Gregorich S, et al. Physical activity to reduce
+fatigue in rheumatoid arthritis: a randomized controlled trial. Arthritis
+Care Res (Hoboken) 2018;70:1 –10.
+59 Kucharski D, Lange E, Ross AB, et al. Moderate-to-high intensity
+exercise with person-centered guidance influences fatigue in olderadults with rheumatoid arthritis. Rheumatol Int 2019;39:1585 –94.
+60 Feldthusen C, Mannerkorpi K, Factors of importance for reducing
+fatigue in persons with rheumatoid arthritis: a qualitative interviewstudy. BMJ Open 2019;9:e028719.
+61 Salmon VE, Hewlett S, Walsh NE, et al. Developing a group intervention
+to manage fatigue in rheumatoid arthritis through modifying physical
+activity. BMC Musculoskelet Disord 2019;20:194.
+62 Thomsen T, Aadahl M, Beyer N, et al. Sustained long-term efficacy
+of motivational counselling and text message reminders on daily
+sitting time in patients with rheumatoid arthritis? Long-termfollow-up of a randomized, parallel-group trial. Arthritis Care Res
+(Hoboken) 2019.
+63 Schulman E, Bartlett SJ, Schieir O, et al. Overweight, obesity, and the
+likelihood of achieving sustained remission in early rheumatoid arthritis:results from a multicenter prospective cohort study. Arthritis Care Res
+(Hoboken) 2018;70:1185 –91.
+64 Roubille C, Richer V, Starnino T, et al. Evidence-based
+recommendations for the management of comorbidities in rheumatoidarthritis, psoriasis, and psoriatic arthritis: expert opinion of thecanadian dermatology-rheumatology comorbidity initiative.
+J Rheumatol 2015;42;1767 –80.
+65 Smedslund G, Byfuglien MG, Olsen SU, et al. Effectiveness and safety
+of dietary interventions for rheumatoid arthritis: a systematic review ofrandomized controlled trials. J Am Diet Assoc 2010;110:727 –35.
+66 Hewlett S, Almeida C, Ambler N, et al. Reducing arthritis fatigue impact:
+two-year randomised controlled trial of cognitive behaviouralapproaches by rheumatology teams (RAFT). Ann Rheum Dis
+2019;78:465 –72.
+67 Szady P, B ączyk G, Koz łowska K. Fatigue and sleep quality in
+rheumatoid arthritis patients during hospital admission. Reumatologia
+2017;55:65– 72.
+68Żołnierczyk-Zreda D, J ędryka-Góral A, Bugajska J, et al. The
+relationship between work, mental health, physical health, and fatigueRMD Open
+8 Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from in patients with rheumatoid arthritis: a cross-sectional study. J Health
+Psychol 2017;1:1359105317727842.
+69 Zuidema R, van Dulmen S, Nijhuis-van der Sanden M, et al. Efficacy of a
+web-based self-management enhancing program for patients with
+rheumatoid arthritis: explorative randomized controlled trial. J Med
+Internet Res 2019;21:e12463.
+70 Soubrier M, Lambert C, Combe B, et al. A randomised, double-blind,
+placebo-controlled study assessing the efficacy of high doses ofvitamin D on functional disability in patients with rheumatoid arthritis.Clin Exp Rheumatol 2018;36:1056 –60.
+71 Zheng R, Gonzalez A, Yue J, et al. Efficacy and safety of vitamin
+D supplementation in patients with systemic lupus erythematosus: ameta-analysis of randomized controlled trials. Am J Med Sci
+2019;358:104 –14.
+72 Rajaei E, Mowla K, Ghorbani A, et al. The effect of omega-3 fatty acids in
+patients with active rheumatoid ar thritis receiving DMARDs therapy:
+double-blind randomized controlled trial. Glob J Health Sci 2015;8:18– 25.
+73 Proudman SM, James MJ, Spargo LD, et al. Fish oil in recent onset
+rheumatoid arthritis: a randomised, double-blind controlled trial withinalgorithm-based drug use. Ann Rheum Dis 2015;74:89– 95.
+74 Xu N, Zhao S, Xue H, et al. Associations of perceived social support and
+positive psychological resources with fatigue symptom in patients withrheumatoid arthritis. PLoS One 2017;12:e0173293.75 Martí-Carvajal AJ1, Agreda-Pérez LH, Solà I, et al. Erythropoiesis-
+stimulating agents for anemia in rheumatoid arthritis. Cochrane
+Database Syst Rev 2013;CD000332.
+76 Hermans L, Nijs J, Calders P, et al. Influence of morphine and naloxone
+on pain modulation in rheumatoid arthritis, chronic fatigue syndrome/fibromyalgia,and controls: a double-blind, randomized,placebo-controlled, cross-over study. Pain Pract 2018;18:418 –30.
+77 Hendricks O, Andersen TE, Christiansen AA, et al. Efficacy and safety
+of cannabidiol followed by an open label add-on oftetrahydrocannabinol for the treatment of chronic pain in patients with
+rheumatoid arthritis or ankylosing spondylitis: protocol for
+a multicentre, randomised, placebo-controlled study. BMJ Open
+2019;9:e028197.
+78 Scott IC, Machin A, Mallen CD, et al. The extra-articular impacts of
+rheumatoid arthritis: moving towards holistic care. BMC Rheumatol
+2018;2:32.
+79 Matcham F, Ali S, Hotopf M, et al. Psychological correlates of fatigue in
+rheumatoid arthritis: a systematic review. Clin Psychol Rev
+2015;39:16– 29.
+80 Santos EJF, Duarte C, da Silva JAP, et al. The impact of fatigue in
+rheumatoid arthritis and the challenges of its assessment.
+Rheumatology (Oxford) 2019;pii: kez351.Rheumatoid arthritis
+Pope JE. RMD Open 2020; 6:e001084. doi:10.1136/rmdopen-2019-001084 9 on November 6, 2023 by guest. Protected by copyright. http://rmdopen.bmj.com/ RMD Open: first published as 10.1136/rmdopen-2019-001084 on 7 May 2020. Downloaded from 
+
+ This is the end of the 8 text 
+

@@ -1,0 +1,458 @@
+Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1060Accepted 31 March 2011                                  ABSTRACT 
+   Objectives   To investigate the effect of group cognitive 
+behavioural therapy (CBT) for fatigue self-management, 
+compared with groups receiving fatigue information alone, on fatigue impact among people with rheumatoid arthritis (RA).    Methods   Two-arm, parallel randomised controlled 
+trial in adults with RA, fatigue ≥6/10 (Visual Analogue Scale (VAS) 0–10, high bad) and no recent change in RA medication. Group CBT for fatigue self-management comprised six (weekly) 2 h sessions, and consolidation session (week 14). Control participants received fatigue self-management information in a 1 h didactic group session. Primary outcome at 18 weeks was the impact of fatigue measured using two methods (Multi-dimensional Assessment of Fatigue (MAF) 0–50; VAS 0–10), analysed using intention-to-treat analysis of covariance with multivariable regression models.    Results   Of 168 participants randomised, 41 withdrew 
+before entry and 127 participated. There were no major baseline differences between the 65 CBT and 62 control participants. At 18 weeks CBT participants reported better scores than control participants for fatigue impact: MAF 28.99 versus 23.99 (adjusted difference −5.48, 95% CI −9.50 to −1.46, p=0.008); VAS 5.99 versus 4.26 (adjusted difference −1.95, 95% CI −2.99 to −0.90, p<0.001). Standardised effect sizes for fatigue impact were MAF 0.59 (95% CI 0.15 to 1.03) and VAS 0.77 (95% CI 0.33 to 1.21), both in favour of CBT. Secondary outcomes of perceived fatigue severity, coping, disability, depression, helplessness, self-efﬁ  cacy and sleep were also better in CBT participants.    Conclusions   Group CBT for fatigue self-management 
+in RA improves fatigue impact, coping and perceived severity, and well-being.  Trial registration: ISRCTN 32195100      
+  INTRODUCTION 
+ Rheumatoid arthritis (RA) is a systemic, inﬂ  amma-
+tory condition causing synovitis in multiple joints, 
+pain, joint destruction and disability. 1  Treatment 
+comprises medication to control inﬂ  ammation, 
+and multidisciplinary team interventions to reduce 
+symptoms and maximise self-management. 2   3  
+Patients highlight fatigue as a major concern, 4  
+as important as pain, 5  –  8  overwhelming, unman-
+ageable and ignored by clinicians. 9  –  11  Signiﬁ  cant 
+fatigue occurs in up to 70% of patients with RA, 
+can be as severe as chronic fatigue syndrome, pre-dicts quality of life and is as hard to cope with as pain. 
+12  –  16  The highlighting of fatigue as an unmet 
+concern by patients with RA led to international 
+consensus that fatigue must now be evaluated in all RA clinical trials. 
+17  
+ RA pharmacological treatments reduce but do 
+not resolve fatigue, and associations between RA 
+fatigue and measures of inﬂ  ammation, clinical 
+or psychological health are only moderate. 18   19  
+Fatigue is likely to have complex, multicausal path-
+ways comprising varying combinations of clinical (inﬂ ammation, pain, disability) and psychosocial 
+factors (mood, beliefs, coping, behaviours), 
+13   19  –  23  
+implying that effective fatigue self-management 
+strategies are critical. Enabling self-management for people with long-term conditions is a government target 
+24  and RA guidelines recommend support 
+for fatigue. 2   3  Many rheumatology teams provide 
+general self-management education, 25  but with 
+no systematic review of RA fatigue interventions, 
+ clinicians are uncertain how to help. 26  
+ Multiple sclerosis fatigue was improved by a 
+fatigue self-management programme of individual 
+cognitive behavioural therapy (CBT). 27  CBT deals 
+with links between thoughts and feelings that may 
+drive behaviours, and uses cognitive restructuring to help patients make behavioural changes. 
+28  For 
+example, thoughts that tasks must be done per-
+fectly, with feelings of failure if they are not, may drive excessive work patterns, leading to fatigue. In CBT, core self-management skills of problem-solv-ing and goal-setting, and peer role models (social cognition theory, SCT) enhance self-efﬁ  cacy, or 
+conﬁ dence that you can do something to make a 
+difference. 
+29  A systematic review of general self-
+management programmes in rheumatic diseases 
+recommends that they incorporate SCT or CBT. 25  
+A randomised controlled trial (RCT) of 16 h group (SCT) education for patients and partners, covered comprehensive topics, but not fatigue speciﬁ  cally. 
+30  
+Perceived fatigue improved in patients attending alone, but increased in those accompanied by part-ners. There were no other clinical or psychological beneﬁ  ts and the study was restricted to patients 
+with partners. An RCT of 22 h group (SCT) CBT covered comprehensive topics, fatigue and prac-tice (eg, exercises, tai chi). 
+31  Fatigue severity, pain, 
+function and mood improved, but the study was 
+restricted to patients with mild/moderate disabil-ity. In an RCT of 11 h individual CBT, participants selected two of four modules, with fatigue as one option. Fatigue and depression improved but no  Additional data are  ▶
+published online only. To view these ﬁ  les please visit the journal online (http://ard.bmj.com).   
+  
+1 Department of Nursing and 
+Midwifery, University of the 
+West of England, Bristol, UK   
+2 Academic Rheumatology, 
+University Hospitals Bristol, Bristol, UK   
+3 Pain Management Centre, 
+Frenchay Hospital, Bristol, UK   
+4 Centre for Health, Sport 
+and Rehabilitation Research, University of Salford, Salford, UK   
+5 School of Social and 
+Community Medicine, University of Bristol, Bristol, UK   
+6 Department of Allied Health 
+Professions, University of the West of England, Bristol, UK   
+7 Department of Health and 
+Applied Social Studies, University of the West of England, Bristol, UK 
+   Correspondence to
+ Sarah Hewlett, Academic Rheumatology Unit, Bristol Royal Inﬁ  rmary, Bristol BS2 8HW, UK; Sarah.Hewlett@uwe.ac.uk            Self-management of fatigue in rheumatoid 
+arthritis: a randomised controlled trial of group cognitive-behavioural therapy  
+    Sarah   Hewlett,   1,2      Nick   Ambler,   3      Celia   Almeida,   1      Alena   Cliss,   1      Alison   Hammond,   4   
+   Karen   Kitchen,   2      Bev   Knops,   3      Denise   Pope,   2      Melissa   Spears,   5      Annette   Swinkels,   6   
+   Jon   Pollock   7   
+29_annrheumdis144691.indd   106029_annrheumdis144691.indd   1060 4/26/2011   5:13:20 PM4/26/2011   5:13:20 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1061other clinical or psychological outcomes, and the study was 
+restricted to people with early RA in psychological distress. 32  
+ Given that RA fatigue is not strongly associated with dis-
+ability, disease duration or distress 19  and occurs in at least 70% 
+of patients, self-management interventions should target the 
+broad RA population. Furthermore, as RA fatigue affects qual-ity of life, 
+9  –  11   14   15  an intervention that changes fatigue impact 
+might be expected to change wider well-being. The aim of 
+this study, therefore, was to test, in an inclusive cohort, the null hypothesis that there would be no difference in change in fatigue impact between people with RA participating in a group CBT fatigue self-management programme and groups receiving fatigue information alone. Secondary outcomes were perceived fatigue severity, coping and clinical and psychological well-being. People can be at different stages of readiness to change  behaviour 
+33  therefore stage-of-change data were collected for 
+exploratory analysis.  
+  METHODS 
+  Trial design 
+ This was a two-centre controlled trial of group CBT for fatigue 
+self-management versus group information (usual care), with balanced randomisation (1:1), conducted in the UK.  
+  Participants 
+ Inclusion criteria were adults with conﬁ  rmed RA 34  scoring ≥6 
+for fatigue during the past week (Visual Analogue Scale (VAS), 
+no fatigue–extreme fatigue, 0–10). Exclusion criteria were change in disease-modifying drugs or biological agents within the preceding 24 weeks (glucocorticoids 6 weeks). Participants were recruited from rheumatology departments in two teaching hospitals in Bristol, UK, approached in person (consecutive patients attending clinic) or by letter (via departmental RA data-bases, randomly mailed in batches of 40). Ethics approval was obtained (North Somerset and South Bristol research ethics committee, P6/Q2006/149), and the study registered (ISRCTN 32195100). Information sheets provided neutral information on the trial arms, and patients gave written informed consent.  
+  Interventions 
+ The study team developed the CBT intervention from their clini-
+cal chronic pain and chronic fatigue syndrome self-management programmes (NA, BK), incorporating experiences of RA fatigue from clinics (SH), self-management programmes (AH, DP) and patients (patient research partner KK). 
+35  The programme 
+was piloted, reﬁ  ned, then co-delivered by clinical psycholo-
+gist NA and specialist occupational therapist BK, in 6 × 2 h ses-sions (weeks 1–6), with a 1 h consolidation session (week 14). Topics likely to improve fatigue self-management were included ( table 1 ). Thoughts, feelings and behaviours related to fatigue 
+were addressed using Socratic (reﬂ  ective) questioning and guided discovery to enable patients to work out links themselves. 
+36  
+Problem-solving, goal-setting, self-monitoring of activity/rest and energy management, aimed to help patients turn cognitive and behavioural changes into improved well-being. Goal-setting occupied the second hour of sessions, each clinician taking half the group to help patients set and review personal cognitive or behavioural goals. Programme homogeneity across groups was maintained through standardised topics, tools, metaphors and handouts, delivered by the same clinicians.  
+ The information-only control arm comprised a 1 h didactic 
+group session delivered by a rheumatology specialist nurse (DP), 
+ Table 1    Cognitive behavioural therapy intervention topics for each session plus supporting materials  
+ Week  1st Hour  Support materials  2nd Hour 
+1 a) Course purpose and expectations—Why are we here?
+b) Establish ground rules
+  Commitment, conﬁ  dentiality, homeworkc) Validate your fatigue—share and discuss Fatigue experiences (differentiate from ﬂ  are)  Self-management strategies and struggles to changeH: Arthritis Research UK bookletsH: Setting our course (groups’ ideas)Energy management Boom and bust behaviour  Rewards/pitfalls of boom and bust Prioritise, balance, pace, plan Barriers to pacing, choicesH: Achieving a balanceH: Activity cyclingT: Energy management diaries
+2 a) What are your priorities for change in your life?
+ What are your drainers and energisers?b) Self-sabotage in the course—How might you do that?T: Wheel of life (priority areas)H: Best ways of self-sabotageGoal setting (in groups of 3–4) Individual short-/long-term goals Use peer group for ideas Contracting
+3 Sleep and rest
+ How much do we need? Quality vs quantity Sleep hygiene strategies for individual patientsH: Getting a better night’s sleepT: Sleep diary (if needed)Goal-setting review, new goals
+4 Stress and relaxation
+ Personal stressors, physiological reactions to stress Relaxation rationale and techniquesH: Effects of stressH: Relaxation practice guideT: Relaxation CDGoal-setting review, new goals
+5 Assertiveness
+ Passive, manipulative, assertive? Which are you? Other people’s reactions to these? Communicating your needsM: Cartoon examplesH: Saying ‘No’Goal-setting review, new goals
+6 Reviewing our self-help toolkit, course consolidation
+  What have you learnt? Review each topicDealing with setbacks—what might you do? Negative self-talk, automatic thoughts and ruminationM: Islands: Desert island now=passive Mainland=unrealistic 100% health  Adaptive coping island=realistic (good life despite 
+rheumatoid arthritis)
+M: Fatigue pit: falling in, digging outH: The pit and tools to dig yourself outH: Coping with setbacksGoal-setting review, new goals
+7 Review past 8 weeks and all topics How did you get on? How did you/will you deal with setbacks? Goal follow-up  
+   H, handouts; M, metaphor; T, tools.   
+29_annrheumdis144691.indd   106129_annrheumdis144691.indd   1061 4/26/2011   5:13:20 PM4/26/2011   5:13:20 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1062based on the Arthritis Research UK leaﬂ  ets ‘Fatigue and RA’ and 
+fatigue excerpts from ‘Looking after your joints,’ freely avail-able in rheumatology clinics. The session covered fatigue symp-toms, consequences, causes and self-management suggestions (pacing, planning, stress, sleep). Both arms received the Arthritis Research UK leaﬂ  ets.  
+  Outcomes 
+ Fatigue impact at 18 weeks was the primary outcome, assessed 
+by the Multi-Dimensional Assessment of Fatigue scale (MAF, 0–50) 
+37  and a VAS (no impact–very great impact, 0–10). 
+Secondary outcomes were perceived fatigue severity (no fatigue–
+extreme fatigue), coping (very poorly–very well), pain (no pain–pain as bad as it could be) and perceived disease activity (doing very well–very badly) measured using VAS (0–10). Disability was measured by the Health Assessment Questionnaire (HAQ, 0–3) 
+38  and Personal Impact HAQ (0–9). 39  Wider outcomes were 
+measured by the RA Quality-of-Life scale (0–30), 40  Hospital 
+Anxiety and Depression Scale (0–21), 41  Arthritis Helplessness 
+Index (5–30), 42  RA Self-Efﬁ  cacy scale (RASE, 28–140) 43  and a 
+sleep quality question (very good, fairly good, fairly bad, very 
+bad), 44  recoded as a binary variable as numbers were insufﬁ  cient 
+for analysis. Baseline readiness to make cognitive or behavioural 
+changes was measured using the Arthritis Stages of Change (ASOC) subscales (8–40). 
+33  Higher scores always reﬂ  ect worse 
+health status, except fatigue coping VAS, RASE and ASOC 
+where they reﬂ  ect stronger beliefs. Outcomes were measured at 0, 6, 10 and 18 weeks.  
+  Sample size 
+ Forty-four patients in each arm were needed to show a differ-
+ence of 7 MAF points in fatigue impact between trial arms, with 90% power and estimated SD 10 points (two-tailed signiﬁ  cance 
+0.05) (based on unpublished data). No minimal clinically impor-tant difference has been published for MAF in RA, but is 5 in lupus. 
+45   
+  Randomisation 
+ The intervention and control sessions were delivered to groups, 
+therefore whenever 12–16 participants had been recruited, project managers (AC, CA) emailed participant codes to epi-demiologist JP who performed randomisation off-site, using computer-generated random numbers. Allocation was 1:1 but in the event of an unequal number, the CBT arm received the additional patient. To reduce hospital visits, baseline data were collected immediately before the ﬁ  rst CBT or control session (after randomisation).  
+  Blinding 
+ Delivery methods and the need to encourage participants to 
+make cognitive and behavioural changes, rendered blinding of participants and clinicians impossible. However, all assessments were self-reports using validated measures and analysed blind to allocation (JP).  
+  Statistical methods 
+ Baseline characteristics were described using means and SDs 
+or numbers and percentages for continuous and categorical variables, respectively. The primary intention-to-treat analysis involved between-arm comparisons for fatigue impact outcome scores (MAF, VAS Fatigue Impact) at 18 weeks, adjusted for respective baseline values. These analyses of covariance were implemented using multivariable linear regression  models. 
+Standardised effect sizes for the primary outcome were cal-culated (adjusted mean difference divided by pooled baseline SD), with >0.5 considered a large effect. Secondary sensitivity analyses of primary outcomes were conducted by (1) additional adjustment for any variables displaying imbalance at baseline; (2) ﬁ  tting multilevel mixed-effects models to investigate any clustering effect from delivery in groups and (3) multiple impu-tation (MI) techniques to investigate the impact of missing data, based on 20 imputed datasets, with baseline fatigue severity, impact, pain and perceived disease activity added to the impu-tation model as variables predictive of missingness. 
+46  Secondary 
+outcomes were then analysed in the same way. Further analy-
+ses using repeated-measures mixed-effects analysis of covari-ance models examined the effect of interventions over time by including up to three follow-up scores per participant for each primary outcome (MAF, Impact VAS), adjusting for baseline scores. Convergence/divergence between trial arms over time was investigated by including appropriate interaction terms in the model, and the clustering effect of group delivery was again investigated by including group identiﬁ  er as a third level. All analyses were conducted using Stata version 11.   
+  RESULTS 
+ Of 1342 individuals invited to participate, 19% (n=254) 
+responded and were eligible, and of these 66% (n=168) provided verbal consent to participate and were randomised ( ﬁ gure 1 ). Of 
+the 168 randomised, 24% (n=41) withdrew from the trial before providing written consent and baseline data. Therefore a total of 127 participants were allocated to either CBT (n=65) or the control group (n=62). They were contacted for follow-up data at 6, 10 and 18 weeks after their intervention started, with 74 and 76 (58%, 60%) completing all three follow-ups for MAF and VAS, respectively. The 41 who withdrew had similar char-acteristics to the 127 who participated for gender (85.4% vs 76.2% female), age (57.6 years vs 59.2 years) and disease dura-tion (14.8 years vs 14.5 years).   At baseline, participants reported 
+high levels of fatigue impact and severity, and limited ability to 
+cope with fatigue ( table 2 ).  In contrast they reported lower lev-
+els of disease activity and pain. Mean scores for contemplating changing behaviour were higher than pre-contemplation. There were similar characteristics across arms, apart from sleep qual-ity, which appeared poorer in CBT participants. Twenty CBT and 20 control subjects (35.4%) had attended a general RA self-management programme an average 4.0 years earlier.  
+ Thirteen control groups were conducted, comprising 2–8 par-
+ticipants (mean 5), with 11 CBT groups, comprising 4–9 partici-
+pants (mean 6). Of the 65 CBT participants, 66.2% (43) attended most sessions (30 attended all seven, 13 attended six); 18.5% (12) attended three to ﬁ  ve sessions, largely citing illness if a reason 
+was given for intermittent non-attendance; 15.4% (10) withdrew after less than three sessions, and where offered, reasons were largely poor health, or lack of interest (2). This was a pragmatic trial offered in addition to usual care, which included medication change. Forty-four (34.6%) participants had changes to major RA medication during the trial, which was similar between arms (24 (36.9%) CBT vs 20 (32.3%) control); 20 (15.7%) were receiv-ing or started antidepressant drugs (9 vs 11) and 33.1% physio-therapy or occupational therapy (20 vs 22).  
+  Primary outcome 
+ Primary outcome data at 18 weeks were obtained for 65% (MAF) 
+and 67% (VAS fatigue impact) of the 127 participants. There 
+29_annrheumdis144691.indd   106229_annrheumdis144691.indd   1062 4/26/2011   5:13:20 PM4/26/2011   5:13:20 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1063was strong evidence of a beneﬁ  cial effect of CBT at 18 weeks 
+with signiﬁ  cant differences between trial arms for fatigue impact 
+( table 3 ). The standardised effect size for MAF was 0.59 (95% 
+CI 0.15 to 1.03) and 0.77 for fatigue impact VAS (95% CI 0.33 to 1.21) in favour of the CBT intervention. Neither additional adjust-ment for variables possibly imbalanced at baseline (age, gender, sleep, disease duration and readiness to change), nor inclusion of ‘group’ using multilevel models made any material difference to the primary outcomes, therefore results from the simple analyses of covariance are presented. Analyses based on MI of missing data resulted in slight attenuation of effects and improvements in precision, but made no material difference to the conclusions drawn from primary analyses. Adjusted treatment differences for MI models were MAF −4.13 (95% CI −7.86 to −0.40, p=0.03) and VAS −1.47 (95% CI −2.39 to −0.55, p=0.002).   
+  Secondary outcomes 
+ There was evidence of a beneﬁ  cial effect of the intervention on 
+fatigue coping and perceived severity ( table 4 ). In addition, there were beneﬁ  cial effects on disability, depression, helplessness, 
+self-efﬁ  cacy and sleep. Again, additional adjustment for age, 
+gender, sleep, disease duration, readiness to change or group made no difference. There was no evidence of an intervention effect on perceived disease activity, pain, anxiety, quality of life or disability impact.   
+  Effects over time 
+ The median number of follow-ups for each person was four, 
+with this being true for 60% (n=76) of individuals. Repeated-measures mixed-effects analyses showed no interaction effects with time, for fatigue impact (MAF p=0.68 for interaction terms; VAS impact p=0.16) ( ﬁ gure 2 ). Main effects (average difference 
+across all time points) for CBT versus control were −4.57 for MAF (95% CI −6.57 to −2.57, p<0.001) and −1.47 (95% CI −2.01 to −0.93, p<0.001) for VAS impact.   By the end of the main 
+6 week CBT programme there appeared to be clinical differences 
+emerging between the arms for fatigue and clinical variables, maintained at 10 weeks (online supplementary table 5). These 
+ Figure 1     Flow chart of participants. CBT,  cognitive behavioural therapy; MAF , MAF , Multi-dimensional Assessment of Fatigue (scale); VAS, Visual 
+Analogue Scale.    
+29_annrheumdis144691.indd   106329_annrheumdis144691.indd   1063 4/26/2011   5:13:20 PM4/26/2011   5:13:20 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1064time points were not tested for statistical signiﬁ  cance (potential 
+multiple testing), and as the ﬁ  nal booster CBT session occurred 
+at 14 weeks, the primary end point was 18 weeks.   
+  DISCUSSION 
+ These results indicate an effect of group CBT for fatigue self-
+management on fatigue impact, coping and perceived severity and a range of clinical and psychological variables. The minimal clinically important difference for VAS fatigue severity is 1, 
+47  
+and fatigue impact probably lies within a similar range, implying this mean change (2.03) is clinically relevant. Pain and perceived disease activity were not changed, but their association with fatigue remains unclear 
+19  and although fatigued, participants did 
+not report high baseline levels of either. 
+ The study was limited by withdrawal of participants before 
+baseline, many citing unsuitable session dates or ﬂ  are/illness 
+(none reported being too tired). Baseline data were collected 
+after randomisation, which might potentially have biased responses, but the data showed that groups were well matched. Participants had low baseline scores for pre-contemplating change, suggesting others who are in pre-contemplation might have been less likely to agree to a self-management programme. However, adjusting for readiness to change did not alter the ﬁ  nd-
+ings. Readiness to change was only measured at baseline, there-fore we could not evaluate whether people progressed through stages during the intervention, although related concepts of self-efﬁ cacy and helplessness improved. Some participants did not 
+complete all follow-ups but the majority of CBT participants attended all or most sessions, suggesting commitment to the intervention. The impact of missing data, as considered using MIs, is unknown. These may not be missing at random, poten-tially giving slightly inﬂ  ated treatment effects. It was not possi-ble to blind participants and staff, but self-report measures were analysed blind to arm allocation. There was no control for the social effects of six group CBT sessions, as it was considered six control sessions giving fatigue information alone would mean  Table 3     Primary outcome scores for fatigue impact at 18 weeks  
+  Control  CBT  Adjusted difference *  
+(95% CI)  p Value  Baseline  18 weeks  n  Baseline  18 weeks  n 
+Fatigue Impact, MAF (0–50) 30.46 (9.25) 28.99 (11.31) 43 30.99 (9.33) 23.99 (10.86) 40 −5.48 (−9.50 to −1.46) 0.008
+Fatigue Impact, VAS (0–10) 5.9 (2.71) 5.99 (2.72) 44 6.29 (2.38) 4.26 (2.78) 41 −1.95 (−2.99 to −0.90) <0.001
+   Except where indicated otherwise, all values are expressed as mean (SD). Except where indicated otherwise, high scores reﬂ  ect worse health.  
+  *  Adjusted for baseline score.    CBT, cognitive behavioural therapy; MAF , Multi-dimensional Assessment of Fatigue (scale); VAS, Visual Analogue Scale.    Table 2     Baseline summary statistics split by trial arm  
+ Variable  Trial arm 
+ Total (n=126)  Control (n=62)  CBT (n=65) 
+Gender: female, n (%) 44 (71) 49 (75.4) 93 (73.2)
+Age (years) 58.25 (12.0) 61.1 (10.5) 59.2 (11.3)
+Disease duration (years) 14.6 (10.6) 14.2 (11.6) 14.0 (11.1)
+Fatigue measures
+ Impact, MAF (0−50) 30.5 (9.3) 31.0 (9.3) 30.7 (9.3)
+ Impact, VAS (0–10) 5.9 (2.7) 6.3 (2.4) 6.1 (2.5)
+ Severity, VAS (0–10) 6.1 (2.5) 6.5 (2.3) 6.3 (2.4)
+ Coping, VAS (0–10) * 6.0 (2.3) 5.3 (2.4) 5.7 (2.4)
+Pain, VAS (0–10) 4.8 (2.4) 4.6 (2.5) 4.0 (2.5)
+Disease activity, VAS (0–10) 4.1 (2.5) 3.8 (2.1) 4.0 (2.3)
+Disability, HAQ (0–10) 1.6 (0.7) 1.5 (0.6) 1.6 (0.7)
+Impact disability, PIHAQ (0–9) 3.8 (1.9) 3.8 (1.7) 3.8 (1.8)
+Quality of life, RAQoL (0–30) 17.6 (6.5) 15.6 (6.6) 16.6 (6.6)
+Anxiety, HADS (0–21) 9.1 (4.8) 8.3 (4.6) 8.7 (4.7)
+Depression, HADS (0–21) 7.3 (3.9) 6.9 (3.4) 7.1 (3.7)
+Helplessness, AHI (5–30) 18.8 (5.0) 17.0 (4.6) 17.9 (4.8)
+Self-efﬁ  cacy, RASE (28–140) * 103.5 (16.5) 106.1 (14.1) 104.8 (15.3)
+Readiness to change, ASOC (8–40) *  Pre-contemplation 18.1 (6.2) 18.1 (4.7) 18.1 (5.4)
+ Contemplation 28.9 (6.8) 29.0 (5.0) 29.0 (6.0)
+ Action 26.7 (7.1) 28.3 (4.3) 27.5 (5.8)
+ Maintenance 25.5 (6.2) 25.9 (5.1) 25.7 (5.7)
+Fatigue change past week, MAF item 16, n (%) Decreased 3 (4.9) 2 (3.1) 5 (4.0)
+ Same 25 (41.0) 24 (37.5) 49 (39.2)
+ Up and down 30 (49.2) 31 (48.4) 61 (48.8)
+ Increased 3 (4.9) 7 (10.9) 10 (8)
+Sleep quality: good, n (%) 27 (45) 23 (37.7) 50 (41.3)
+   Except where indicated otherwise, all values are expressed as mean (SD). Except where indicated otherwise, high scores reﬂ  ect 
+worse health.    *  High scores reﬂ  ect stronger beliefs.    AHI, Arthritis Helplessness Index; ASOC, Arthritis Stages of Change; MAF , Multi-dimensional Assessment of Fatigue (scale); HADS, Hospital Anxiety and Depression Scale; HAQ, Health Assessment Questionnaire; PIHAQ, Personal Impact HAQ; RAQoL, Rheumatoid Arthritis Quality of Life (instrument); RASE, Rheumatoid Arthritis Self-Efﬁ  cacy scale; VAS, Visual Analogue Scale.     
+29_annrheumdis144691.indd   106429_annrheumdis144691.indd   1064 4/26/2011   5:13:21 PM4/26/2011   5:13:21 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1065high attrition. However, studies that have controlled for social 
+effects by matching numbers of group sessions, still show CBT to be superior. 
+31  Many participants had medication changes for 
+RA inﬂ  ammation, in this pragmatic trial reﬂ  ecting usual clinical 
+practice. However, these changes were not obviously different between arms, and association between inﬂ  ammation and RA fatigue remains unclear. 
+19  Future research should evaluate the 
+longer-term effects of CBT for RA fatigue, cost-effectiveness for 
+this CBT programme versus longer durations 30   31  and individual 
+versus group CBT. 32   48  
+ Other self-management interventions based on CBT or SCT 
+have improved fatigue but were tested in restricted RA popu-
+lations, 30  –  32  while this CBT intervention improved fatigue 
+in a broad range of patients with RA experiencing fatigue. 
+Furthermore, ﬁ  ndings were not altered when adjusted for age, disease duration, gender or baseline stage of change, suggesting a widely applicable intervention. 
+ This CBT intervention focused entirely on thoughts, feel-
+ings, behaviours, personal interactions, stressors and issues 
+likely to have an impact on fatigue, yet demonstrated a wide range of additional clinical and psychological beneﬁ  ts. Such 
+wider beneﬁ  ts were also seen in a general CBT/SCT interven-tion that dealt with fatigue 
+31  but not in two other CBT/SCT 
+interventions. 30   32  All four interventions have similar theoreti-
+cal underpinnings, therefore possible reasons for differences 
+in wider outcomes may lie in the populations or outcome measures selected, or the social enhancement of group CBT versus individual CBT or with a partner. 
+30   32  This 13 h group 
+CBT intervention concentrating on fatigue, produced wide-
+ranging clinical and psychological beneﬁ  ts similar to those of a broader 22 h group CBT intervention with a range of topics (including fatigue) and practice sessions. 
+31  Concentrating on 
+improving fatigue self-management may lead to improvement 
+in well-being if those broader variables are driven by fatigue. Alternatively, the skills that patients develop to manage fatigue may also be useful in managing mood and thus improve well-being. A direct comparison of fatigue-focused versus broader self-management programmes might elucidate potential mechanisms. 
+ During the stressors and communication sessions, patients 
+reported that personal interactions with family can be both supportive and stressful in relation to fatigue. Personal 
+ interactions play a role in RA fatigue 
+49  and attending groups 
+with a partner increased fatigue. 30  CBT is more commonly 
+delivered to  individuals, exploring their unique links between 
+thoughts, feelings and behaviours, 27   32  but this study showed 
+that group CBT can pursue individual goal-setting in subgroups, 
+and still improve fatigue and well-being. In this intervention the size and composition of groups, and interactions between par-ticipants varied, yet adjusting for group made no difference to the ﬁ ndings. 
+ This study lends support to the theory that complex inter-
+actions between disease, personal context, cognitions and 
+behaviours drive fatigue (and thus its impact), 
+23  as a range of 
+health beneﬁ  ts resulted from group CBT for RA fatigue, deliv-
+ered by CB therapists. In clinical practice, interventions must be delivered pragmatically and efﬁ  ciently. Embedding such an intervention within the clinical rheumatology team is essential, given that trained CB therapists are not readily available to most teams, and improving access to psychological therapies is rec-ommended. 
+50  A developmental project is therefore exploring 
+whether, after brief training in CB approaches, the usual clini-
+cal team could lead this intervention using a detailed manual ( leading to a clinical trial).   
+     Acknowledgements The authors thank the trial participants, the rheumatolo-
+gists who supported recruitment, Arthritis Research UK who funded the study, Dr Alan Montgomery for his statistical support and the reviewers for their advice and comments.  
+   Funding   This research was funded by Arthritis Research UK (grant 17340), which 
+had no role in study design or conduct, the preparation of this paper or decision to submit for publication.  
+  Competing interests   None.    Contributors   SH and NA conceived the original idea, all authors contributed to 
+study design and formed the study team. SH led the study team, supervised the conduct of the trial, analysis and reporting, and drafted the manuscript. NA led the design and delivery of the cognitive behavioural therapy (CBT) intervention, including quality control, reviewing the analysis and reporting. CA and AC were the project managers responsible for study organisation, recruitment, data collection and data entry. AH provided rheumatoid arthritis self-management expertise, contributed to the intervention evaluation and reviewed the analyses. KK participated in and reviewed the pilot of the intervention, and commented on the analysis. BK helped to design the CBT intervention, co-delivered it and contributed to the interpretation of the ﬁ  ndings. DP provided rheumatology expertise and designed and delivered the control session. AS contributed to study monitoring, evaluation, analysis review and interpretation.  Table 4     Secondary outcomes at 18 weeks  
+ Variable  Control (18 weeks)  Intervention (18 weeks)  Adjusted difference *  (95% CI)  p Value 
+Fatigue measures
+ Severity, VAS (0–10) 6.22 (2.63) 4.82 (2.54) −1.56 (−2.59 to −0.54) 0.003 Coping, VAS (0–10) 
+† 5.98 (2.54) 7.19 (1.91) 1.33 (0.37 to 2.30) 0.007
+Pain, VAS (0–10) 4.86 (2.81) 4.06 (2.44) −0.81 (−1.84 to 0.22) 0.12
+Disease activity, VAS (0–10) 3.99 (2.34) 3.17 (2.25) −0.62 (−1.48 to 0.24) 0.16
+Disability, HAQ (0–10) 1.75 (0.68) 1.30 (0.61) −0.19 (−0.36 to −0.02) 0.031
+Impact disability, PIHAQ (0–9) 3.71 (1.63) 2.97 (1.53) −0.22 (−0.72 to 0.29) 0.4
+Quality of life, RAQoL (0–30) 14.80 (9.97) 11.15 (6.65) −0.48 (−3.40 to 2.45) 0.75
+Anxiety, HADS (0–21) 7.59 (4.74) 5.32 (4.61) −0.78 (−2.03 to 0.47) 0.22
+Depression, HADS (0–21) 7.55 (4.51) 4.88 (3.66) −1.98 (−3.20 to −0.75) 0.002
+Helplessness, AHI (5–30) 18.27 (4.99) 13.78 (4.23) −3.13 (−4.73 to −1.53) <0.001
+Self-efﬁ  cacy, RASE (28–140) † 104.16 (12.66) 112.12 (21.33) 6.74 (0.24 to 13.25) 0.042
+    Adjusted OR *  (95% CI)  
+Sleep quality: good, n (%) 25 (56.82) 31 (75.61) 0.34 (0.12 to 0.95) 0.04
+   Except where indicated otherwise, all values are expressed as mean (SD). Except where indicated otherwise, high scores reﬂ  ect 
+worse health.    *  Adjusted for baseline score.    
+†  High scores reﬂ  ect stronger beliefs.   
+AHI, Arthritis Helplessness Index; HADS, Hospital Anxiety and Depression Scale; HAQ, Health Assessment Questionnaire; PIHAQ, Personal Impact HAQ; RAQoL, Rheumatoid Arthritis Quality of Life (instrument); RASE, Rheumatoid Arthritis Self-Efﬁ  cacy scale; VAS, Visual Analogue Scale.
+29_annrheumdis144691.indd   106529_annrheumdis144691.indd   1065 4/26/2011   5:13:21 PM4/26/2011   5:13:21 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1066MS was responsible for data analysis. JP was responsible for randomisation 
+ procedures, contributed to the study design, trial analysis and interpretation. All authors contributed to, reviewed and approved the ﬁ  nal manuscript. SH, NA and JP are guarantors. Dr Paul Creamer, Dr Val Kyle and Dr Nicky Minaur led recruitment at the second centre.  
+  Ethics approval   This study was conducted with the approval of the North Somerset 
+and South Bristol Research ethics committee, Reference P6/Q2006/149.  
+  Provenance and peer review   Not commissioned; externally peer reviewed.   
+  REFERENCES 
+   1 .       Scott   DL,       Steer   S.       The course of established rheumatoid arthritis.     Best Pract Res 
+Clin Rheumatol     2007  ;  21  :  943 – 67 .     2 .       Luqmani   R,       Hennell   S,       Estrach   C,      et al.      British Society for Rheumatology and British 
+Health Professionals in Rheumatology guideline for the management of rheumatoid 
+arthritis (the ﬁ  rst two years).     Rheumatology (Oxford)     2006  ;  45  :  1167 – 9 .  
+   3 .       Luqmani   R,       Hennell   S,       Estrach   C,      et al.      British Society for Rheumatology and British 
+Health Professionals in Rheumatology guideline for the management of rheumatoid arthritis (after the ﬁ  rst 2 years).     Rheumatology (Oxford)     2009  ;  48  :  436 – 9 .  
+   4 .       Carr   A,       Hewlett   S,       Hughes   R,      et al.      Rheumatology outcomes: the patient’s 
+perspective.     J Rheumatol     2003  ;  30  :  880 – 3 .  
+   5 .       Hewlett   S,       Carr   M,       Ryan   S,      et al.      Outcomes generated by patients with rheumatoid 
+arthritis: how important are they?     Musculoskeletal Care     2005  ;  3  :  131 – 42 .  
+   6 .       Gossec   L,       Dougados   M,       Rincheval   N,      et al.      Elaboration of the preliminary 
+Rheumatoid Arthritis Impact of Disease (RAID) score: a EULAR initiative.     Ann Rheum Dis     2009  ;  68  :  1680 – 5 .  
+ Figure 2     Fatigue impact scores over time. MAF , MAF , Multi-dimensional Assessment of Fatigue (scale); VAS, Visual Analogue Scale.    
+29_annrheumdis144691.indd   106629_annrheumdis144691.indd   1066 4/26/2011   5:13:22 PM4/26/2011   5:13:22 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from Extended report
+Ann Rheum Dis 2011;70:1060–1067. doi:10.1136/ard.2010.144691 1067   7 .       Sanderson   T,       Morris   M,       Calnan   M,      et al.      Patient perspective of measuring treatment 
+efﬁ  cacy: the rheumatoid arthritis patient priorities for pharmacologic interventions 
+outcomes.     Arthritis Care Res (Hoboken)     2010  ;  62  :  647 – 56 .  
+   8 .       Minnock   P,        Bresnihan   B.       Pain outcome and fatigue levels reported by women with 
+established rheumatoid arthritis [abstract]  .   Arthritis Rheum     2004  ;  50 ( Suppl ): S471  
+( 1198 ).  
+   9 .       Hewlett   S,       Cockshott   Z,       Byron   M,      et al.      Patients’ perceptions of fatigue in rheumatoid 
+arthritis: overwhelming, uncontrollable, ignored.     Arthritis Rheum     2005  ;  53  :  697 – 702 .  
+  10.      Repping-Wuts   H,       Uitterhoeve   R,       van Riel   P ,      et al.      Fatigue as experienced by 
+patients with rheumatoid arthritis (RA): a qualitative study.     Int J Nurs Stud   
+  2008  ;  45  :  995 – 1002 .  
+  11.      Nikolaus   S,       Bode   C,       Taal   E,      et al.      New insights into the experience of fatigue 
+among patients with rheumatoid arthritis: a qualitative study.     Ann Rheum Dis   
+  2010  ;  69  :  895 – 7 .  
+  12.      Wolfe   F,        Hawley   DJ,       Wilson   K.       The prevalence and meaning of fatigue in rheumatic 
+disease.     J Rheumatol     1996  ;  23  :  1407 – 17 .  
+  13.      van Hoogmoed   D,       Fransen   J,       Bleijenberg   G,      et al.      Physical and psychosocial correlates 
+of severe fatigue in rheumatoid arthritis.     Rheumatology (Oxford)     2010  ;  49  :  1294 – 302 .  
+  14.      Suurmeijer   TP ,       Waltz   M,       Moum   T,      et al.      Quality of life proﬁ  les in the ﬁ  rst years of 
+rheumatoid arthritis: results from the EURIDISS longitudinal study.     Arthritis Rheum   
+  2001  ;  45  :  111 – 21 .  
+  15.      Rupp   I,       Boshuizen   HC,       Jacobi   CE,      et al.      Impact of fatigue on health-related quality of 
+life in rheumatoid arthritis.  
+   Arthritis Rheum     2004  ;  51  :  578 – 85 .  
+  16.      Katz   PP .       The stresses of rheumatoid arthritis: appraisals of perceived impact and 
+coping efﬁ  cacy.     Arthritis Care Res     1998  ;  11  :  9 – 22 .  
+  17.      Kirwan   JR,       Minnock   P ,       Adebajo   A,      et al.      Patient perspective: fatigue as a 
+recommended patient centered outcome measure in rheumatoid arthritis.     J Rheumatol     2007  ;  34  :  1174 – 7 .  
+  18.      Strand   V,       Singh   JA.       Improved health-related quality of life with effective 
+disease-modifying antirheumatic drugs: evidence from randomized controlled trials.     Am J Manag Care     2007  ;  13 (Suppl 9): S237 – 51 .  
+  19.      Hewlett   S,       Nicklin   J,       Treharne   GJ,    .   Fatigue in musculoskeletal conditions   .   Topical 
+Reviews Series 6:1. Arthritis Research UK, 2008  .   http://www.arthritisresearchuk.org/ﬁ  les/6641_25022010173830.pdf  ( accessed 23 September 2010 ).  
+  20.      Pollard   LC,       Choy   EH,       Gonzalez   J,      et al.      Fatigue in rheumatoid arthritis reﬂ  ects pain, 
+not disease activity.     Rheumatology (Oxford)     2006  ;  45  :  885 – 9 .  
+  21.      Goodchild   CE,       Treharne   GJ,       Booth   DA,      et al.      Daytime patterning of fatigue and its 
+associations with the previous night’s discomfort and poor sleep among women with primary Sjögren’s syndrome or rheumatoid arthritis.     Musculoskeletal Care   
+  2010  ;  8  :  107 – 17 .  
+  22.      Treharne   GJ,       Lyons   AC,       Hale   ED,      et al.      Predictors of fatigue over 1 year among 
+people with rheumatoid arthritis.     Psychol Health Med     2008  ;  13  :  494 – 504 .  
+  23.      Hewlett   S,       Chalder   T,       Choy   E,      et al.      Fatigue in rheumatoid arthritis: time for a 
+conceptual model.     Rheumatology (Oxford)    . Published Online First: 5 September 2010. doi:10.1093/rheumatology/keq282.   
+  24.    Department of Health  .   Supporting People with Long Term Conditions to Self 
+Care – A Guide to Developing Local Strategies and Good Practice. Leeds, 2006 (270415)  .   http://www.dh.gov.uk/en/Publicationsandstatistics/Publications/PublicationsPolicyAndGuidance/DH_4130725  ( accessed 23 September 2010 ).  
+  25.      Iversen   MD,       Hammond   A,       Betteridge   N.       Self-management of rheumatic diseases: 
+state of the art and future perspectives.     Ann Rheum Dis     2010  ;  69
+   :  955 – 63 .  
+  26.      Repping-Wuts   H,       Hewlett   S,       van Riel   P ,      et al.      Fatigue in patients with rheumatoid 
+arthritis: British and Dutch nurses’ knowledge, attitudes and management.     J Adv Nurs     2009  ;  65  :  901 – 11 .  
+  27.      van Kessel   K,       Moss-Morris   R,       Willoughby   E,      et al.      A randomized controlled 
+trial of cognitive behavior therapy for multiple sclerosis fatigue.     Psychosom Med   
+  2008  ;  70  :  205 – 13 .  
+  28.      Sage   N,       Sowden   M,       Chorlton   E,      et al.      What is the cognitive behavioural approach?   
+  In  :    Sage N, Sowden M, Chorlton E, Edeleanu A, eds. Cognitive Behaviour Therapy for 
+Chronic Illness and Palliative Care   .   Chichester  :   Wiley     2008  :  3 – 9  .      29.      Bandura   A.        Self-efﬁ  cacy: toward a unifying theory of behavioral change.   
+  Psychol Rev     1977  ;  84  :  191 – 215 .  
+  30.      Riemsma   RP ,       Taal   E,       Rasker   JJ.       Group education for patients with rheumatoid 
+arthritis and their partners.     Arthritis Rheum     2003  ;  49  :  556 – 66 .  
+  31.      Hammond   A,       Bryan   J,       Hardy   A.       Effects of a modular behavioural arthritis education 
+programme: a pragmatic parallel-group randomized controlled trial.     Rheumatology 
+(Oxford)     2008  ;  47  :  1712 – 18 .  
+  32.      Evers   AW,       Kraaimaat   FW,       van Riel   PL,      et al.      Tailored cognitive-behavioral therapy 
+in early rheumatoid arthritis for patients at risk: a randomized controlled trial.     Pain     2002  ;  100  :  141 – 53 .  
+  33.      Keefe   FJ,       Lefebvre   JC,       Kerns   RD,      et al.      Understanding the adoption of arthritis 
+self-management: stages of change proﬁ  les among arthritis patients.     Pain   
+  2000  ;  87  :  303 – 13 .  
+  34.      Arnett   FC,       Edworthy   SM,       Bloch   DA,      et al.      The American Rheumatism Association 
+1987 revised criteria for the classiﬁ  
+cation of rheumatoid arthritis.     Arthritis Rheum   
+  1988  ;  31  :  315 – 24 .  
+  35.      Hewlett   S,       Wit   M,       Richards   P ,      et al.      Patients and professionals as research partners: 
+challenges, practicalities, and beneﬁ  ts.     Arthritis Rheum     2006  ;  55  :  676 – 80 .  
+  36.      Sage   N,       Sowden   M,       Chorlton   E,      et al.      Guided discovery: using the Socratic method  . 
+  In  :    Sage N, Sowden M, Chorlton E, Edeleanu A, eds. Cognitive Behaviour Therapy for 
+Chronic Illness and Palliative Care   .   Chichester  :   Wiley     2008  :  66 – 77  .    
+  37.      Belza   BL.       Comparison of self-reported fatigue in rheumatoid arthritis and controls.   
+  J Rheumatol     1995  ;  22  :  639 – 43 .  
+  38.      Fries   JF ,       Spitz   P ,       Kraines   RG,      et al.      Measurement of patient outcome in arthritis.   
+  Arthritis Rheum     1980  ;  23  :  137 – 45 .  
+  39.      Hewlett   S,       Smith   AP ,       Kirwan   JR.       Measuring the meaning of disability in 
+rheumatoid arthritis: the Personal Impact Health Assessment Questionnaire (PI HAQ).     Ann Rheum Dis     2002  ;  61  :  986 – 93 .  
+  40.      de Jong   Z,       van der Heijde   D,       McKenna   SP ,      et al.      The reliability and construct validity 
+of the RAQoL: a rheumatoid arthritis-speciﬁ  c quality of life instrument.     Br J Rheumatol     1997  ;  36  :  878 – 83 .  
+  41.      Zigmond   AS,       Snaith   RP .       The hospital anxiety and depression scale.     Acta Psychiatr 
+Scand     1983  ;  67  :  361 – 70 .  
+  42.      Stein   MJ,       Wallston   KA,       Nicassio   PM.       Factor structure of the Arthritis Helplessness 
+Index.     J Rheumatol     1988  ;  15  :  427 – 32 .  
+  43.      Hewlett   S,       Cockshott   Z,       Kirwan   J,      et al.      Development and validation of a 
+self-efﬁ  cacy scale for use in British patients with rheumatoid arthritis (RASE).     Rheumatology (Oxford)     2001  ;  40
+   :  1221 – 30 .  
+  44.      Buysse   DJ,       Reynolds   CF ,    3rd,       Monk   TH,      et al.      The Pittsburgh Sleep Quality 
+Index: a new instrument for psychiatric practice and research.     Psychiatry Res   
+  1989  ;  28  :  193 – 213 .  
+  45.      Goligher   EC,       Pouchot   J,       Brant   R,      et al.      Minimal clinically important difference for 
+7 measures of fatigue in patients with systemic lupus erythematosus.     J Rheumatol   
+  2008  ;  35  :  635 – 42 .  
+  46.      Sterne   JA,       White   IR,       Carlin   JB,      et al.      Multiple imputation for missing data in 
+epidemiological and clinical research: potential and pitfalls.     BMJ     2009  ;  338  :  b2393 .  
+  47.      Wells   G,       Li   T,       Maxwell   L,      et al.      Determining the minimal clinically important 
+differences in activity, fatigue, and sleep quality in patients with rheumatoid arthritis.     J Rheumatol     2007  ;  34  :  280 – 9 .  
+  48.      Tucker   M,       Oei   TPS.       Is group more cost effective than individual Cognitive 
+Behaviour Therapy? The evidence is not solid yet  .   Behav Cogn Psychother   
+  2007  ;  35  :  77 – 91 .  
+  49.      Davis   MC,       Okun   MA,       Kruszewski   D,      et al.      Sex differences in the relations of 
+positive and negative daily events and fatigue in adults with rheumatoid arthritis.     J Pain     2010  ;  11  :  1338 – 47 .  
+  50.    Department of Health  .   Improving Access to Psychological Therapies Implementation 
+Plan: National Guidelines for Regional Delivery and Contact  .   London  :   Department of Health  ,   2008  ( 286387 ).  http://www.dh.gov.uk/prod_consum_dh/groups/dh_digitalassets/@dh/@en/documents/digitalasset/dh_083168.pdf  ( accessed 24 Sept 2010 ).    
+29_annrheumdis144691.indd   106729_annrheumdis144691.indd   1067 4/26/2011   5:13:22 PM4/26/2011   5:13:22 PM on November 6, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/ard.2010.144691 on 2 May 2011. Downloaded from 
+
+ This is the end of the 3 text 
+

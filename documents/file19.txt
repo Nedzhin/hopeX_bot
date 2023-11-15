@@ -1,0 +1,157 @@
+Editorial
+Fatigue in rheumatoid arthritis
+Fatigue is a common symptom in many rheumatic dis-
+eases, including RA. However, until recently healthcareprofessionals and researchers had not recognized its clin-
+ical significance and its impact on patients’ lives. A turning
+point came in 2002, at the Patient Perspective Workshopof the OMERACT meeting, when patients highlighted the
+importance of fatigue [1]. This led to the recommendation
+by OMERACT in 2006 that fatigue is included as a coreoutcome measure in clinical trials of RA treatments [2].
+The process by which the rheumatology community has
+come to recognize and focus on fatigue is an example ofthe value of patient involvement in setting research prio-rities. This awareness of fatigue as a patient priority has
+led many researchers over the last decade to work on
+better understanding the causes, assessment and man-agement of fatigue.
+Qualitative research has provided insight into the nature
+of RA-related fatigue. Patients have described it as a com-plex and multidimensional symptom that can be over-
+whelming, unearned and unpredictable [3]. It can include
+physical fatigue (e.g. levels of physical energy), cognitivefatigue (e.g. concentration and clarity of thought), living
+with fatigue (e.g. ability to carry out activities of daily
+living and social activities) and emotional fatigue (e.g. feel-ings of distress or upset) [4]. Quantitative research hasestablished that fatigue is highly prevalent in RA, with
+levels similar to those in chronic fatigue syndrome [5].
+In relation to impact, fatigue has been identified as the
+consequence of RA that best differentiates between levels
+of health-related quality of life [6]. Patients have reported
+the negative effects of fatigue on their well-being, physicalactivities, emotions, mood, relationships, and social and
+family roles. From a societal perspective, fatigue is a sig-
+nificant predictor of high health care costs, and is the mainreason for work disability and loss [7]. The detrimental
+effects of fatigue are exacerbated by patients’ percep-
+tions that the symptom is a challenge to manage andthat it is not routinely addressed in clinical practice. Thisreluctance to discuss fatigue may reflect the lack of infor-
+mation and available treatments. Consequently, fatigue is
+widely recognized as important to patients, but how tomanage and improve the symptom remains a major
+unmet need.
+A challenge in providing support for RA-related fatigue
+is that the causes are still unknown. Cross-sectional stu-
+dies have found that fatigue is associated with pain se-
+verity and psychosocial factors including depression, butnot disease activity [8]. Overall, the current evidence sug-gests that fatigue is likely to be caused and maintained by
+the complex interaction of clinical factors (e.g. inflamma-
+tion, pain and disability), psychosocial issues (e.g. coping,mood, beliefs and behaviours) and personal factors (e.g.working, caring responsibilities and comorbidities) that
+may vary both between and within individuals over time[9]. This is reflected in evidence from systematic reviews
+of non-pharmacological and pharmacological treatments
+for fatigue, which have identified the potential benefit ofphysical activity, psychosocial interventions and some
+biologic DMARDs [10, 11]. The beneficial effect of biologic
+DMARDs suggests that inflammation has a significantpathobiological role, although fatigue does not completely
+resolve. Experimental models have found that systemic
+inflammation leads to increase in intracerebral IFN andTNF- aactivity [12]. Furthermore, in collagen-induced arth-
+ritis, an animal-model of RA, the blood /C150brain barrier is
+porous to cytokines [13]. In patients with RA, a magnetic
+resonance spectroscopy study suggested that systemicinflammation may affect the neurochemical status of the
+CNS with high levels of choline to creatine ratio [14].
+Possibly due to the lack of clarity around causal path-
+ways, there is an increasing focus on the self-manage-
+ment of fatigue rather than the resolution or cure of the
+symptom. Recent evidence includes a multicentrerandomized control trial using cognitive behavioural
+approaches. This study found that the impact of fatigue
+was reduced, with the positive effects maintained at 2years [15]. Self-management interventions are typicallyhypothesized to work through the therapeutic mechan-
+isms of enhancing patients’ self-efficacy (the belief in
+their ability to achieve a desired outcome or goal). Thisis achieved by addressing patients’ illness beliefs, their
+coping strategies and their acceptance of fatigue as a
+symptom of their RA. In this study, the interventionincluded the use of daily activity diaries and goal-setting
+to promote a shift in beliefs and progressive adaptations
+in how patients cope with fatigue, leading to betterknowledge, confidence and reactivation in everyday
+activities.
+Measurement is key to evaluating the usefulness of fa-
+tigue interventions, whether the focus is on reducing se-verity or managing the impact of the symptom. Although
+OMERACT included fatigue as a core outcome measure in
+RA, the lack of an RA-specific validated outcome measureled to researchers adopting instruments developed for
+other conditions to assess fatigue. However, this was
+resolved in 2013 with the development, testing and pub-lication of the Bristol Rheumatoid Arthritis Fatigue Scale
+[16]. Designed in collaboration with patients, this multi-di-
+mensional measure captures physical, cognitive, emo-tional and social aspects of fatigue. In addition, threenumerical ratings scales enable researchers and health-
+care professionals to measure fatigue severity, impact
+and coping. As the factors driving and maintaining RA-related fatigue are likely to vary between patients, insight
+!The Author(s) 2019. Published by Oxford University Press on behalf of the British Society for Rheumatology.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.or g/licenses/by-nc/4.0/), which permits non-commercial re-use,
+distribution, and reproduction in any medium, provided the original work is properly cited. For commercial re-use, please contact journals.permis sions@oup.comRHEUMATOLOGYRheumatology 2019;58:v1 /C150v2
+doi:10.1093/rheumatology/kez314
+EDITORIALDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v1/5611828 by guest on 07 November 2023
+into how individuals experience and perceive their fatigue
+could be an important step in providing tailored support.
+Patients have identified fatigue as a priority and a chal-
+lenge to manage. In this supplement, authors have pro-vided updates on the pathobiology, clinical assessment
+and management of fatigue. Clarifying our current under-
+standing and identifying the gaps in our knowledge is animportant step as we continue to look at ways of support-
+ing patients with this common and difficult symptom.
+Funding : This supplement is supported by a grant from
+Gilead Sciences, Inc.
+Disclosure statement : E.D. has no conflict of interest to
+declare. E.H.C. has received research grants and/or
+served as member of advisory boards and speakerbureaus of Abbvie, Allergan, Amgen, AstraZeneca, Bio-Cancer, Biogen, Bristol Myers Squibb, Boehringer
+Ingelheim, Celgene, Chugai Pharma, Daiichi Sankyo, Eli
+Lilly, Ferring Pharmaceutical, GSK, Hospira, ISIS Pharma,Jazz Pharmaceuticals, Janssen, MedImmune, Merrimack
+Pharmaceutical, Merck & Co, Napp, Novimmune,
+Novartis, ObsEva, Pfizer, Regeneron, Roche, R-Pharm,Sanofi, SynAct Pharma, Synovate, Tonix and UCB.
+Ernest H. Choy1and Emma Dures2
+1CREATE Centre, Section of Rheumatology, Division of
+Infection and Immunity, Cardiff University, Cardiff and2Centre
+for Health and Clinical Research, University of the West of
+England, Bristol and Academic Rheumatology, Bristol Royal
+Infirmary, Bristol, UKAccepted 28 June 2019
+Correspondence to: Ernest H. Choy, CREATE Centre, Section
+of Rheumatology, Division of Infection and Immunity, CardiffUniversity School of Medicine, Cardiff University, CardiffCF14 4XN, UK. E-mail: choyeh@cardiff.ac.uk
+References
+1 Kirwan J, Heiberg T, Hewlett S. Outcomes from the patient
+perspective workshop at OMERACT 6. J Rheumatol2003;30:868 /C15072.
+2 Kirwan JR, Minnock P, Adebajo A et al. Patient perspec-
+tive: fatigue as a recommended patient centered outcome
+measure in rheumatoid arthritis. J Rheumatol2007;34:1174 /C1507.
+3 Hewlett S, Cockshott Z, Byron M et al. Patients’ percep-
+tions of fatigue in rheumatoid arthritis: overwhelming, un-controllable, ignored. Arthritis Rheum 2005;53:697 /C150702.4 Nicklin J, Cramp F, Kirwan J, Urban M, Hewlett S.
+Collaboration with patients in the design of patient-re-
+ported outcome measures: capturing the experience of
+fatigue in rheumatoid arthritis. Arthritis Care Res
+(Hoboken) 2010;62:1552 /C1508.
+5 van Hoogmoed D, Fransen J, Bleijenberg G, van Riel P.
+Physical and psychosocial correlates of severe fatigue in
+rheumatoid arthritis. Rheumatology (Oxford)2010;49:1294 /C150302.
+6 Rupp I, Boshuizen HC, Jacobi CE, Dinant HJ, van den Bos
+GA. Impact of fatigue on health-related quality of life in
+rheumatoid arthritis. Arthritis Rheum 2004;51:578 /C15085.
+7 Lacaille D, White MA, Backman CL, Gignac MA. Problems
+faced at work due to inflammatory arthritis: new insights
+gained from understanding patients’ perspective. Arthritis
+Rheum 2007;57:1269 /C15079.
+8 Pollard LC, Choy EH, Gonzalez J, Khoshaba B, Scott DL.
+Fatigue in rheumatoid arthritis reflects pain, not disease
+activity. Rheumatology (Oxford) 2006;45:885 /C1509.
+9 Hewlett S, Chalder T, Choy E et al. Fatigue in rheumatoid
+arthritis: time for a conceptual model. Rheumatology
+(Oxford) 2011;50:1004 /C1506.
+10 Almeida C, Choy EH, Hewlett S et al. Biologic interven-
+tions for fatigue in rheumatoid arthritis. Cochrane
+Database Syst Rev 2016;6:Cd008334.
+11 Cramp F, Hewlett S, Almeida C et al. Non-pharmaco-
+logical interventions for fatigue in rheumatoid arthritis.
+Cochrane Database Syst Rev 2013;8:Cd008322.
+12 Thomson CA, McColl A, Cavanagh J, Graham GJ.
+Peripheral inflammation is associated with remote global
+gene expression changes in the brain.
+J Neuroinflammation 2014;11:73.
+13 Nishioku T, Furusho K, Tomita A et al. Potential role for
+S100A4 in the disruption of the blood-brain barrier in col-
+lagen-induced arthritic mice, an animal model of
+rheumatoid arthritis. Neuroscience 2011;189:286 /C15092.
+14 Emmer BJ, van der Bijl AE, Huizinga TW et al. Brain in-
+volvement in rheumatoid arthritis: a magnetic resonance
+spectroscopy study. Arthritis Rheum 2009;60:3190 /C1505.
+15 Hewlett S, Almeida C, Ambler N et al. Reducing arthritis
+fatigue impact: two-year randomised controlled trial of
+cognitive behavioural approaches by rheumatology teams
+(RAFT). Ann Rheum Dis 2019;78:465.
+16 Nicklin J, Cramp F, Kirwan J et al. Measuring fatigue in
+rheumatoid arthritis: a cross-sectional study to evaluate
+the Bristol Rheumatoid Arthritis Fatigue Multi-Dimensional
+questionnaire, visual analog scales, and numerical ratingscales. Arthritis Care Res (Hoboken) 2010;62:1559 /C15068.
+v2 https://academic.oup.com/rheumatologyEditorialDownloaded from https://academic.oup.com/rheumatology/article/58/Supplement_5/v1/5611828 by guest on 07 November 2023
+
+
+ This is the end of the 19 text 
+

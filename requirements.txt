@@ -1,0 +1,16 @@
+openai
+pycryptodome==3.15.0
+#for working with pdf documents
+lanchain 
+unstructured
+chromadb
+
+# for telegram bot
+python-telegram-bot
+python-telegram-bot[job-queue]
+numexpr
+
+# excel
+gspread
+openpyxl
+oauth2client

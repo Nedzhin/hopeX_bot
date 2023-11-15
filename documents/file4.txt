@@ -1,0 +1,308 @@
+reviews
+ 57IMAJ • VOL 16 • JANUARY 2014
+Fatigue, the enduring sensation of weakness, lack of energy, 
+tiredness or exhaustion, is described by 40%–80% of patients with rheumatoid arthritis as their most disabling symptom 
+with wide-ranging consequences for quality of life. Little 
+attention has been paid to its multidimensional nature or to its reliability as a measure to evaluate progression of the disease. Low impact aerobic exercise affects the level of 
+fatigue, and this same level of fatigue influences the exercise 
+itself. We searched Medline, Cochrane Collaboration Register of Controlled Trials (CCRCT), Lilacs, PubMed and Scopus databases for randomized controlled trials (with appropriate description of methods, materials and results) on the 
+assessment of fatigue and exercise. Review articles, case 
+reports, letters to the editor and editorials were excluded. Of 121 references initially identified, 4  randomized controlled 
+trials met the inclusion criteria. Two studies used the MAF 
+scale (Multidimensional Assessment of Fatigue), one used 
+the MAC (Mental Adjustment to Cancer) fatigue scale, and all trials used POMS (Profile of Mood States) to assess fatigue. All four trials conducted a 12 week program of two to three times/week and different periods of follow-up. Two studies used low 
+impact aerobic exercise, one used dance-based exercise, and 
+another study followed a home cardiopulmonary conditioning program using a stationary bicycle. While fatigue appears to be a reliable outcome measure in the clinical management of 
+RA, especially when related to exercise prescription, further 
+research is needed to evaluate the correlation between exercise, fatigue and quality of life, using fatigue scales validated to explore the different components of fatigue and its wide-ranging consequences.
+  IMAJ  2014; 16: 57–60
+rheumatoid arthritis, fatigue, exercises, fitness, quality of lifeexercise and Fatigue in rheumatoid arthritis
+Sandor Balsamo MSc PhD1,2,3, Leonardo R. Diniz PT DO1,2,4, Leopoldo L. dos Santos-Neto MD PhD FACP1,2  
+and Licia M.H. da Mota MD PhD1,2
+1Graduate Program in Medical Sciences, School of Medicine, University of Brasília (UnB), Brasília, Brazil  
+2Rheumatology Service, University Hospital of Brasília (HUB) UnB, Brasília, Brazil  
+3Department of Physical Education, Central University UNIEURO, Brasília, Brazil  
+4Corpo Clinic of Physiotherapy and Osteopathy, Brasília, Brazil
+aBstract :
+KeY wOrds :
+Fatigue is the enduring sensation of weakness, lack of 
+energy, tiredness or exhaustion, reported by 40%–80% of 
+rheumatoid arthritis patients as their most disabling symptom [1-3]. Unlike normal tiredness, fatigue is chronic, typically not related to overexertion and poorly relieved by rest. It is often multifactorial and could be worsened by disease-related 
+components, including comorbid conditions, disease duration, 
+functional status, disease activity, lifestyle factors, level of activ-ity, and inadequate social support [1-3].
+Because it is regarded as an extra-articular symptom, little 
+attention has been paid to its multidimensional nature and 
+its wide-ranging effects on quality of life. Until recently, the 
+significance of fatigue for patients failed to capture the atten-tion of many clinicians, with patients reporting a lack of sup-
+port from health professionals who relate mainly to physical 
+problems and disease activity. Moreover, patients sometimes 
+believe nothing can be done and do not talk to their physician 
+about fatigue [4,5].
+Unlike pain and disability, fatigue is rarely addressed as 
+a treatment target in its own right and is seldom recom-mended as a main outcome for clinical trials. The OMERACT (Outcome Measures in Rheumatology) network of interna-
+tional researchers highlighted fatigue as a main outcome and 
+recommended that it be measured whenever possible [4].
+Fatigue was identified as a reliable distinguisher of 
+quality 
+of life between RA1 patients who are doing well and those who 
+are doing less well. According to Minnock et al. [6], fatigue is 
+a valid and reliable outcome measure in RA, ranking third for 
+relative sensitivity to change after pain and tender-joint count. 
+They also found fatigue to be an independent measure of out-
+come and recommended that it be considered for inclusion as a main outcome measure in RA [4,6].
+There are several scales to assess fatigue but only a few are val -
+idated as reliable tools. Hewlett and colleagues [7] conducted a 
+systematic review of the scales used to measure fatigue in RA and 
+the evidence for their validation. They found 23 fatigue scales 
+of which 17 had no data on validation or limited evidence. Six 
+scales showed reasonable evidence of validation: two are generic, namely POMS (Profile of Mood States) and SF-36 (Medical 
+Outcomes Study 36-item Form Health Survey), and four are spe-
+cific, MAF (Multidimensional Assessment of Fatigue), Ordinal Scales, V AS (Visual Analogue Scale) and FACIT-F (Functional 
+Assessment of Chronic Illness Therapy Fatigue) [7].
+RA = rheumatoid arthritisreviews
+58 IMAJ • VOL 16 • JANUARY 2014
+Historically, exercise in general was prescribed for pain 
+relief and improvement of joint mobility and flexibility. In 
+recent decades exercise has increasingly been directed towards 
+improving muscle strength and 
+aerobic capacity in order to enhance 
+functional ability and quality of life. Reduced function will result in 
+decreased ability to perform activities of daily living, decreased 
+independence, and adoption of a sedentary lifestyle with its resultant negative psychosocial impact and increased risk for 
+cardiovascular disease [8].
+The 2012 Brazilian consensus group for RA recommends 
+aerobic exercise such as cycling, walking, running and swim-ming. They advise exercise of 20 minutes or more at least 
+twice a week, but limited to 60% of the heart rate based on the 
+patient’s age [9]. It is currently accepted that regular exercise 
+can improve aerobic fitness, increase strength and alleviate pain in patients with autoimmune rheumatic diseases [2]. However, 
+fatigue is rarely assessed as an outcome measure [10-12].
+Given that fatigue in RA affects quality of life, functional 
+capacity and daily activity, and that exercise can reduce pain and fatigue levels, once the latter is evaluated as an outcome 
+measure to prescribe exercise (its type and/or duration), we reviewed the assessment of fatigue as an outcome measure and 
+a predictor of exercise in rheumatoid arthritis. For the period 
+August to October 2012, Medline (1985–2012), the Cochrane 
+Collaboration Register of Controlled Trials (CCRCT), Lilacs, 
+Pubmed (1985–2012), and Scopus databases were searched in Portuguese, English, Spanish, French and Italian. The key-
+words used in the search were rheumatoid arthritis, fatigue, 
+fitness, physical activity, and exercise. Inclusion criteria were 
+randomized controlled trials (with appropriate description of 
+methods, materials and results) on the assessment of fatigue and exercise. Review articles, case reports, letters to the editor 
+and editorials were excluded. 
+The title and abstract of the articles obtained in the initial 
+research were revised by two independent observers in order to identify those that met the inclusion criteria. The articles 
+selected were then revised, and their bibliographical references 
+were analyzed to identify additional sources.Of the selected 
+articles, the following data were examined: type of study, size of the sample, methods, statistical analysis, and results. The meth-
+odological quality of the papers was evaluated with the Jadad 
+scale, comprising three items quantifying the probability of bias in the trial according to the description of randomization, 
+masking, withdrawals and dropouts. Scores range from 1 to 5, 
+with studies scoring 1 or 2 considered of low quality and those 
+scoring 3 to 5 of high quality [12].
+Of the 121 references initially identified in the cited data-
+bases, 37 were duplicates and 69 were considered irrelevant. Of the remaining 15 references 11 were excluded because they did 
+not fulfill the inclusion criteria, leaving 4 randomized controlled trials that met the inclusion criteria. Figure 1 is a flow chart 
+of reference selection. Using the Jadad scale, evaluation of the 
+trials ranged from 2 to 5 (0–2 low quality, 3–5 high quality) 
+with an average quality score of 3.25. One of the selected papers scored 5 [13], another scored 4 [10] and two 
+studies scored 2 [14,15].
+ A total of 
+311 patients were evaluated in the trials, the mean number of patients in each trial was 77 (range 25–220), and the mean age 
+ranged from 39 to 55.5 years. Table 1 presents a description of 
+the patients.
+All four articles evaluated the effects of exercise intervention 
+on fatigue, assessing the latter as an outcome measure. Three scales were used to assess fatigue: the MAF
+2 [10,13] in two stud-
+ies, the MAC3 [15] in two, and the POMS4 in all [Table 2]. All 
+four trials conducted a 12 week program of 2 to 3 times/week and different periods of follow-up. Two studies involved low 
+impact aerobic exercise (with one foot always on the ground and 
+no running or jumping movements) [10,13], one used dance-
+based exercise [14], and one followed a home cardiopulmonary 
+MAF = Multidimensional Assessment of Fatigue
+MAC = Mental Adjustment to CancerPOMS = Profile of Mood StatesFatigue is a common complaint  
+in ra and has wide-ranging  
+consequences for quality of lifetable 1. Description of patients, by trial
+Patientsneuberger
+et al. [ 13]neuberger et al. [ 10]noreau et al. [ 12]daltroy et al. [ 15] total
+n (%) n (%) n (%) n (%) n (%)
+Sample size 220 25 29 37
+Male 38* (17%) 11 (44%) 9 (31%) 3* (7%) 61 (19%)**
+Female 182* (82%) 14 (56%) 20 (69%) 34* (93%) 250 (80%)**
+Age (yr) (mean) 55.5 55 49.4 39 50
+Duration of disease 
+(yr) (mean)8.0 9.8 9.5 NA 9
+§
+*Estimated values based on the percentage given by the authors
+**Number and percentage estimated
+§Mean value 
+NA = not availableFigure 1. Flow chart of reference selection
+Titles and abstracts initially found (n=121)
+Duplicates (n=37) and not randomized control trial papers (n=69)
+Papers excluded after full text evaluation and quality scoring (n=0 )Papers not fulfilling inclusion criteria (n=11)Papers selected for full text review (n=15)
+Papers for final analysis (n=4)Papers selected for full text evaluation and quality scoring (n=4)reviews
+ 59IMAJ • VOL 16 • JANUARY 2014
+[6]. It should be recognized that fatigue is a common complaint 
+in primary care, with a broad differential diagnosis – from phys-
+ical to psychological – rendering its approach complex and difficult 
+to treat [16].
+The present review aimed to 
+analyze trials assessing fatigue as an outcome measure and a pre-
+dictor of exercise in rheumatoid arthritis. The research yielded 
+four papers meeting the inclusion criteria. The results showed 
+reasonable evidence that the effects of exercise on fatigue are 
+dose-related, although not statistically significant. It also shows conditioning program using a stationary bicycle [14]. Table 3 describes the protocol and scales employed in each study.
+Neuberger et al. [13] and Daltroy et al. [15] established the 
+target heart rate as 60–80% of the maximal heart rate achieved 
+at baseline, while Noreau et al. [14] fixed the target heart rate 
+at 50% of the maximal heart rate for the first 3 weeks, and 70% of the maximal heart rate for the last 9 weeks. Neuberger et al. 
+[10] did not evaluate heart rate at baseline, nor did they affix a 
+specific value to it.
+Statistical analysis of change in the perception of fatigue in 
+all studies, using POMS, MAF and/or MAC scales, showed a decrease in fatigue levels. Although statistical significance was 
+not obtained (0.03 ≤ P ≤ 0.10), the results provide reasonable 
+evidence that fatigue could influence exercise prescription (type of exercise and/or duration) and that the effects of exercise on 
+fatigue are dose-related. 
+All trials were described as randomized, but only one study 
+explained how the subjects were randomly allocated. The initial status was documented, and a homogeneity test was performed 
+in all studies. Follow-up was completed in all studies, and sub-
+jects who were withdrawn from the study or who dropped out 
+were documented.
+ratiOnale
+Several studies have evaluated the effects of exercise on fatigue, but 
+only a few assessed it as an outcome measure. There are also 
+several instruments to assess fatigue; some are brief, quantita-
+tive and symptom-focused, while others are multidimensional. 
+However, only six scales show reasonable evidence of validation Further studies should compare the 
+available questionnaires and scales 
+with the current core set measures to 
+determine which better assesses fatigue 
+in its multidimensional aspectstable 2. Sample, protocol and scales used
+author Year sample Protocolscales 
+used
+Neuberger 
+et al. [13]2007 class* home ** control Low impact aerobic exercise:
+12 wk, 1  hr, 3  times/wkPOMS MAF68 79 73
+Neubergeret al. [10]1997 high
+§med ^ low° Low impact aerobic exercise: 12 wk, 1  hour, 3  times/wk
+15 wk follow-upPOMS MAF8 8 9
+Noreauet al. [14]1995 exercise c ontrol Dance-based exercise:12 wk, twice/wkcounseling session once/wk
+6 mo follow-upPOMS
+19 10
+Daltroy
+et al. [15]1995 exercise c ontrol Cardiopulmonary conditioning with stationary bicycle:
+12 wk, 3  times/wk
+12 wk follow-upPOMS, 
+MAC19 18
+*Classes at a fitness center, **classes at home using a videotape of the same exercise
+§31 to 36 exercise classes, ^25 to 30 exercise classes, °24 or fewer exercise classes
+POMS = Profile of Mood States, MAF = Multidimensional Assessment of Fatigue), MAC = Mental 
+Adjustment to Cancer
+table 3. Results and P values of each study
+authorscales 
+P values POms maF [10,13] / mac  [15]
+Neuberger 
+et al. [13]class * home ** control class * home ** control 0.04
+BL PT BL PT BL PT BL PT BL PT BL PT
+1.53 1.35 1.16 1.23 1.52 1.37 24.91 20.74 20.08 19.23 21.88 20.88
+Neuberger et al. [10]high
+§ med ^ low ° high§ med^ low ° 0.05 ≤ P ≤ 0.10
+BL PT BL PT BL PT BL PT BL PT BL PT
+1.23 1.05 1.39 0.83 1.13 1.36 19.79 17.1 18.5 13.7 17.5 19.4
+Noreau 
+et al. [14]exercise control – 0.06 ≤ P ≤ 0.08
+BL PT BL PT
+7.89 5.68 9.40 9.50
+Daltroy et al. [15]treatment control treatment control 0.03 ≤ 
+P ≤ 0.10
+BL PT BL PT BL PT BL PT
+12.4 7.6 11.4 10.3 18.1 16.5 20.4 18.9
+*Classes at a fitness center, **classes at home using a videotape of the same exercise
+§31 to 36 exercise classes, ^25 to 30 exercise classes, °24 or fewer exercise classes
+BL = baseline, PT = post-testreviews
+60 IMAJ • VOL 16 • JANUARY 2014
+Phys  2006; 49 (6): 385-8. 
+5. Rat A-C, Pouchot J, Fautrel B, Boumier P , Goupille P , Guillemin F. Factors 
+associated with fatigue in early arthritis: results from a multicenter national 
+French cohort study. Arthritis Care Res  2012; 64 (7): 1061-9. 
+6. Minnock P , Kirwan J, Bresnihan B. Fatigue is a reliable, sensitive and unique 
+outcome measure in rheumatoid arthritis. Rheumatology  2009; 48 (12): 1533-6.
+7. Hewlett S, Hehir M, Kirwan JR. Measuring fatigue in rheumatoid arthritis: 
+a systematic review of scales in use. Arthritis Care Res  2007; 57 (3): 429-39.
+8. Plasqui G. The role of physical activity in rheumatoid arthritis. Physiol Behav  
+2008; 94: 270-5.
+9. Mota LMH da, Cruz BA, Brenol CV , et al. 2012 Brazilian Society of Rheumatology Consensus for the treatment of rheumatoid arthritis. Rev Bras 
+Reumatol  2012; 52 (2): 152-74.
+10. Neuberger GB, Press AN, Lindsley HB, et al. Effects of exercise on fatigue, aerobic fitness, and disease activity measures in persons with rheumatoid 
+arthritis. Res Nursing Health  1997; 20 (3): 195-204. 
+11. Harkcom TM, Lampman RM, Banwell BF, Castor CW . Therapeutic value of 
+graded aerobic exercise training in rheumatoid arthritis. Arthritis Rheum  
+1985; 28 (1): 32-9.
+12. Jadad AR, Moore RA, Carroll D, et al. Assessing the quality of reports of 
+randomized clinical trials: is blinding necessary? Control Clin Trials 1996; 17: 1-12.
+13. Neuberger GB, Aaronson LS, Gajewski B, et al. Predictors of exercise and effects of exercise on symptoms, function, aerobic fitness, and disease outcomes of rheumatoid arthritis. Arthritis Rheum  2007; 57 (6): 943-52.
+14. Noreau L, Martineau H, Roy L, Belzile M. Effects of a modified dance-based 
+exercise on cardiorespiratory fitness, psychological state and health status of persons with rheumatoid arthritis. Am J Phys Med Rehabil 1995; 74 (1): 19-27.
+15. Daltroy LH, Robb-Nicholson C, Iversen MD, et al. Effectiveness of minimally 
+supervised home aerobic training in patients with systemic rheumatic disease.  
+Br J Rheumatol 1995; 34 (11): 1064-9.
+16. Kitai E, Blumberg G, Levy D, Golan-Cohen A, Vinker S. Fatigue as a first-time presenting symptom: management by family doctors and one year follow-up. IMAJ 2012; 14 (9): 555-9.
+17. Repping-Wuts H, Uitterhoeve R, van Riel P , van Achterberg T. Fatigue as experienced by patients with rheumatoid arthritis (RA): a qualitative study. 
+Int J Nursing Stud  2008; 45 (7): 995-1002.
+18. Häkkinen A, Sokka T, Kotaniemi A, Hannonen P . A randomized two-year 
+study of the effects of dynamic strength training on muscle strength, disease 
+activity, functional capacity, and bone mineral density in early rheumatoid 
+arthritis. Arthritis Rheum  2001; 44 (3): 515-22. 
+19. Mota LMH da, Cruz BA, Brenol CV , et al. 2011 Consensus of the Brazilian 
+Society of Rheumatology for diagnosis and early assessment of rheumatoid 
+arthritis. Rev Bras Reumatol 2011; 51 (3): 207-19.
+20. Mayoux-Benhamou M. Reconditioning in patients with rheumatoid arthritis. Ann Readapt Med Phys 2007; 50 (6): 382-5, 377-81.
+21. Pereira IA, Mota LMH da, Cruz BA et al. 2012 Consensus of the Brazilian Society of Rheumatology on comorbidities management in patients with rheumatoid arthritis. Rev Bras Reumatol 2012; 52 (4): 483-95.
+22. Rat A-C, Pouchot J, Fautrel B, Boumier P , Goupille P , Guillemin F. Factors associated with fatigue in early arthritis: results from a multicenter national French cohort study. Arthritis Care Res  2012; 64 (7): 1061-9. 
+23. Physical Activity Guidelines Advisory Committee. Physical activity guide-  
+lines advisory report. Washington (DC): Health and Human Services, 2008.
+24. Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Arthritis Rheum 2010; 62 (9): 2569-81.that fatigue affects exercise performance and is a reliable mea-
+sure for the prescription of physical activity. 
+On the other hand, the review shows a lack of studies with 
+rigorous random sampling selection and blinding (single or 
+double blinded), and the articles analyzed do not provide suffi-
+cient data to answer many questions with reliability. Future stud-ies should provide the missing data, such as the type of training 
+(i.e., strength training), as well as the average frequency, inten-
+sity and duration of the exercise intervention. Also required are more complete data on compliance with the exercise pro-
+tocol. The issue of dose response is important given the recent 
+recommendations from the Physical Activity Guidelines for 
+Americans calling for additional dose-response analyses [17]. 
+cOnclusiOns
+There is a lack of studies assessing fatigue as an outcome mea-
+sure of patients with RA doing exercise; but the articles ana-
+lyzed provide reasonable evidence that fatigue can be used both 
+as a main measure in RA and as a good predictor of physical 
+activity. Although there are several questionnaires and scales 
+available to evaluate fatigue, clinical trials should be conducted to compare these tools with the current core set measures to 
+determine which better assesses fatigue in its multidimensional 
+aspects. Finally, fatigue appears to be a reliable outcome mea-sure in the clinical management of RA, especially with regard 
+to exercise prescription. However, there is a need for further 
+research to evaluate the correlation between exercise, fatigue 
+and quality of life, using validated fatigue scales, such as those 
+described by Hewlett et al. [6] to explore the different compo-nents of fatigue and its wide-ranging consequences.
+corresponding author: 
+dr. s. Balsamo 
+Programa de Pós-graduação em Ciências Médicas, Faculdade de Medicina, 
+Universidade de Brasília (UnB), Brasília 70910-900, Brazil
+Phone: (55-61) 3107-1701
+Fax: (55-61) 3107-1907
+email: sandorbalsamo@gmail.com
+references
+1. Balsamo S, Santos-Neto LD. Fatigue in systemic lupus erythematosus: an 
+association with reduced physical fitness. Autoimmun Rev 2011; 10: 514-18.
+2. Perandini LA, Sa-Pinto AL, Roschel H, et al. Exercise as a therapeutic tool to counteract inflammation and clinical symptoms in autoimmune rheumatic 
+diseases. Autoimmun Rev 2012; 12: 218-24.
+3. Gendelman O, Amital H. Is it tiring to deal with fatigue? IMAJ 2012; 14 (9): 566-7.
+4. Mayoux-Benhamou M. Fatigue and rheumatoid arthritis. Ann Readapt Med 
+“Knowledge comes, but wisdom lingers”
+Lord Alfred Tennyson (1809- 1892), Poet Laureate of Great Britain and Ireland  during much of Queen Victoria ’s  
+reign and remains one of the most popular British poets 
+“the true test of a civilization is, not the census, nor the size of the cities, nor the crops – no, but 
+the kind of man the country turns out”
+Ralph Waldo Emerson (1803- 1882), American essayist 
+
+ This is the end of the 4 text 
+

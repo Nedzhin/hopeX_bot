@@ -1,0 +1,161 @@
+Scientific Abstracts    1113
+AB0173  FACTORS ASSOCIATED WITH FATIGUE AND 
+PERSISTENT FATIGUE IN RHEUMATOID ARTHRITIS
+A. Fazaa1, H. Boussaa1, K. Ouenniche1, S. Miladi1, M. Sellami1, L. Souabni1, 
+S. Chekili1, S. Kassab1, K. Ben Abdelghani1, A. Laatar1. 1Mongi Slim University 
+Hospital, Rheumatology, Sidi Daoud, T unisia
+Background: Fatigue is a common and debilitating symptom in patients with 
+rheumatoid arthritis (RA). Fatigue in RA is poorly understood and appears to 
+be multifactorial. Interactions between three factors were suggested: ‘personal’ , ‘disease processes’ , and ‘cognitive, behavioural’ .Objectives: The aim of this study was to determine factors associated with 
+fatigue and persistent fatigue in RA.Methods: We conducted a longitudinal study including patients with RA (ACR/
+EULAR 2010). Patients with other acute or chronic diseases that may induce fatigue (such as cancer, infection or depression) were excluded. Patients were evaluated at inclusion (T0) and 12 months later (T12). Demographic and dis-ease-related data were collected: age, gender, professional status, physical activity, disease duration, Rheumatoid Factor (RF), Anti-citrullinated peptides antibodies (ACPA), pain Visual Analog Scale (VAS), Erythrocyte Sedimentation Rate (ESR), C Protein Reactive (CRP), Disease Activity Score 28 (DAS28), and Health Assessment Questionnaire (HAQ). Fatigue was assessed using the Func-tional Assessment of Chronic Illness Therapy – Fatigue (FACIT -F) which is a short 13-item questionnaire validated in RA. The score FACIT -F ranges between 0 and 52. Fatigue was considered mild if the FACIT -F score was ≥40, moderate if 20≤FACIT -F<40 and severe if 0≤FACIT -F<20. We defined ‘persistent fatigue’ as reported fatigue at T0 and T12. A p value inferior to 0.05 was considered significant.Results: We included 100 patients (84 women and 16 men) with a mean age of 
+49.5±10 years old [18-65]. Among them, 25% were professionally active and 15% had a regular physical activity. At inclusion, the mean disease duration was 87 .3 months [1-360]. RF and ACPA were positive in 75% and 72.6% of cases respec-tively. The mean pain VAS was 49
+ cm [0-1
+00]. The mean levels of ESR and CRP 
+were 38.1
+ mm [1
+0-120] and 10.8
+ mg/l [2-61] r
+espectively. The mean DAS28 ESR 
+was 3.68 [1 .90-8.33] and the mean HAQ score was 0.90 [0-2.75].The mean FACIT -F score was 27 .1 [0-51] at T0. Fifty-seven percent of patients had moderate fatigue and 26% had severe fatigue. At T12, the mean FACIT -F score was 33.4 [5-50]. Persistent severe fatigue was noted in 17% of patients.A significant negative correlation was noted between FACIT -F score at T0 and the following variables: age (r=-0,258, p=0.01), pain VAS (r=-0,605, p<0.001), ESR (r=-0,621, p<0.001), DAS28 ESR (r=-0.744, p<0.001), and HAQ (r=-0.634, p<0.001).A significant negative correlation was noted between FACIT -F score at T12 and the following variables: age (r=-0,229, p=0.022), disease duration (r=-0,296, p=0.003), pain VAS (r=-0,754, p<0.001), ESR (r=-0,405, p<0.001), CRP (r=-0,468, p<0.001), DAS28 ESR (r=-0.744, p<0.001), and HAQ (r=-0.678, p<0.001).Fatigue and persistent fatigue were not associated with gender, professional sta-tus, physical activity, and immunological profile.Multivariable analysis showed that DAS28 ESR (OR=-0.157 , 95% CI [-4.614;-0.153], p=0.036) and HAQ (OR=-0.563, 95% CI [-6.916;-2.995], p<0.001) were independently associated with persistent fatigue.Conclusion: Fatigue is a frequent and complex symptom in RA. Higher disease 
+activity and greater disability are suggested as predictors of persistent fatigue.Disclosure of Interests: None declaredDOI: 10.1136/annrheumdis-2021-eular.3329
+AB0174  FATIGUE IN RHEUMATOID ARTHRITIS: A CASE-
+CONTROL STUDY
+A. Fazaa1, H. Boussaa1, K. Ouenniche1, S. Miladi1, M. Sellami1, L. Souabni1, 
+S. Kassab1, S. Chekili1, K. Ben Abdelghani1, A. Laatar1. 1Mongi Slim University 
+Hospital, Rheumatology, Sidi Daoud, T unisia
+Background: Fatigue is a common symptom in many chronic inflammatory 
+diseases, including rheumatoid arthritis (RA). It is considered one of the most 
+frustrating, uncontrollable, and overwhelming symptoms. However, most of rheu-matologists do not assess fatigue despite its clinical significance and its impact on patients’ lives.Objectives: The aims of this study were to determine whether RA patients 
+express more fatigue than healthy controls, and to analyze its correlation with disease activity.Methods: We conducted a cross-sectional study including patients with RA 
+(ACR/EULAR 2010) and healthy controls matched for sex and age. Patients with other acute or chronic diseases that may induce fatigue (such as cancer, infec-tion or depression) were excluded. Demographic data and the following clini-cal parameters were collected: pain Visual Analog Scale (VAS), Global Patient Assessment (GPA), tender joint count (TJC) and swollen joint count (SJC), Eryth-rocyte Sedimentation Rate (ESR), C Protein Reactive (CRP), Disease Activity Score 28 (DAS28), and Health Assessment Questionnaire (HAQ). Fatigue was assessed using the Functional Assessment of Chronic Illness Therapy – Fatigue (FACIT -F) which is a short 13-item questionnaire validated in RA. The score FAC-IT -F ranges between 0 and 52. Fatigue was considered mild if the FACIT -F score was ≥40, moderate if 20≤FACIT -F<40 and severe if 0≤FACIT -F<20. A p value inferior to 0.05 was considered significant.Results: We included 100 RA patients (84 women and 16 men) with a mean age 
+of 49.5±10 years old [18-65]. The mean disease duration was 87 .3 months [1-360]. The mean pain VAS was 49
+ cm [0-1
+00] and the mean GPA was 47 .8
+ cm [0-1
+00]. 
+The mean TJC and SJC were 5.3 [0-36] and 1 [0-9] respectively. The mean levels of ESR and CRP were 38.1
+ mm [1
+0-120] and 10.8
+ mg/l [2-61] r
+espectively. The mean 
+DAS28 ESR was 3.68 [1 .90-8.33] and the mean HAQ score was 0.90 [0-2.75].Thirty-nine healthy controls were enrolled including 35 women and 4 men with a mean age of 51 .2 years old [30-64].The mean FACIT -F score was 27 .1 [0-51] in RA patients versus 46.2 [0-52] in healthy controls (p<0.001). Among RA patients, 57% had moderate fatigue and 26% had severe fatigue.A significant negative correlation was noted between the FACIT -F score and the following parameters in RA patients: TJC (r=-0.568, p<0.001), SJC (r=-0.274, 
+p<0.001), pain VAS (r=-0.605, p<0.001), GPA (r=-0.658, p<0.001), ESR (r=-
+0.405, p<0.001), CRP (r=-0.149, p<0.001), DAS28 (r=-0.837 , p<0.001) and HAQ 
+(r=-0.634, p<0.001).Conclusion: Fatigue was significantly more observed in RA patients. This symp-
+tom was correlated with disease activity and disability. It is important to recognize and manage fatigue in order to improve patients’ quality of life.Disclosure of Interests: None declaredDOI: 10.1136/annrheumdis-2021-eular.3339
+AB0175  OPTIMAL ASSESSMENT OF FATIGUE IN RHEUMATOID 
+ARTHRITIS: VISUAL ANALOG SCALE VERSUS FUNCTIONAL ASSESSMENT OF CHRONIC ILLNESS THERAPY – FATIGUE
+A. Fazaa
+1, H. Boussaa1, K. Ouenniche1, S. Miladi1, M. Sellami1, L. Souabni1, 
+S. Kassab1, S. Chekili1, K. Ben Abdelghani1, A. Laatar1. 1Mongi Slim University 
+Hospital, Rheumatology, Sidi Daoud, T unisia
+Background: Fatigue is an important outcome for patients with rheumatoid 
+arthritis (RA). As recommended by the European League Against Rheumatism 
+(EULAR)/American College of Rheumatology (ACR) task force in 2008, fatigue should be measured in all RA clinical trials whenever possible. Despite these recommendations, it is largely ignored and rarely assessed in clinical practice.Objectives: The aim of this study was to compare the scales being used to 
+measure fatigue in RA.Methods: We conducted a cross-sectional study including patients with RA 
+(ACR/EULAR 2010). Patients with other acute or chronic diseases that may induce fatigue (such as cancer, infection or depression) were excluded. Demo-graphic and disease-related data were collected. Fatigue was assessed using two scores. The fatigue Visual Analog Scale (VAS) ranging between 0 and 100
+ cm.
+ Fatigue was considered mild if the fatigue VAS was <20
+ cm, moder
+ate 
+if 20≤VAS<50 and severe if VAS>50
+ cm.
+ The Functional Assessment of Chronic 
+Illness Therapy – Fatigue (FACIT -F) which is a short 13-item questionnaire vali-dated in RA. The score FACIT -F ranges between 0 and 52. Fatigue was consid-ered mild if the FACIT -F score was ≥40, moderate if 20≤FACIT -F<40 and severe if 0≤FACIT -F<20. We used Cohen’s kappa (κ) to determine the agreement between fatigue VAS and FACIT -F . The κ result was interpreted as follows: values ≤ 0 as 
+indicating no agreement and 0.01–0.20 as none to slight, 0.21–0.40 as fair, 0.41– 0.60 as moderate, 0.61–0.80 as substantial, and 0.81–1 .00 as almost perfect agreement. A p value inferior to 0.05 was considered significant.Results: We included 100 RA patients (84 women and 16 men) with a mean 
+age of 49.5±10 years old [18-65]. The mean disease duration was 87 .3 months [1-360]. RF and ACPA were positive in 75% and 72.6% of cases respectively. The mean pain VAS was 49
+ cm [0-1
+00]. The mean numbers of tender and swollen 
+joints were 5.3 [0-36] and 1 [0-9] respectively. The mean levels of ESR and CRP were 38.1
+ mm [1
+0-120] and 10.8
+ mg/l [2-61] r
+espectively. The mean DAS28 ESR 
+was 3.68 [1 .90-8.33].The mean fatigue VAS was 49.1
+ cm [5-1
+00]. Fatigue was mild in 9% of patients, 
+moderate in 31% of patients, and severe in 60% of patients.The mean FACIT -F score was 27 .1 [0-51]. Fatigue was mild in 26% of patients, moderate in 57% of patients and severe in 17% of patients.A fair agreement was noted between the two scores (κ=0.303, p<0.001).The fatigue VAS and FACIT -F were both correlated with the following variables: pain VAS (r=0.685, p<0.001 and r=-0.605, p<0.001), ESR (r=0.384, p<0.001 and r=-0.405, p<0.001), and DAS28 ESR (r=0.684, p<0.001 and r=-0.744, p<0.001). on November 7, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/annrheumdis-2021-eular.3346 on 19 May 2021. Downloaded from 1114    Scientif ic Abstracts
+Conclusion: The fatigue VAS and FACIT -F are easy, brief and valid measures 
+for monitoring this symptom and its effects on patients with RA. A fair agreement 
+was noted between the two scores.Disclosure of Interests: None declaredDOI: 10.1136/annrheumdis-2021-eular.3346
+AB0176  PATHOLOGICAL PHENOTYPES OF BODY 
+COMPOSITION IN PATIENTS WITH RHEUMATOID ARTHRITIS
+A. Feklistov
+1, N. Toroptsova1, O. Nikitinskaya1, A. Efremova1, N. Demin1. 1V. A. 
+Nasonova Research Institute of Rheumatology, Osteoporosis, Moscow, Russian 
+Federation
+Background: Inflammation, decreased physical activity, hormonal disorders, 
+and the use of glucocorticoids lead to changes in the composition of the body in 
+rheumatoid arthritis (RA). Various combinations of decreased muscle and bone mass and increased adipose tissue have led to the release of various pathologi-cal phenotypes of the composition of the body.Objectives: To determine the frequency of pathological phenotypes of body 
+composition in patients with RA.Methods: The study included 79 women with RA, with a median age of 60 y.o. 
+[55; 65]. 92% of the women were postmenopausal. The median duration of the disease was 9 years [3; 11]. Basic anti-inflammatory therapy was received by 81% of patients. Methotrexate was used most often as the basic therapy – in 52% of cases. 49% of patients were treated with glucocorticoid drugs. All patients underwent dual-energy X-ray absorptiometry. The mineral density of the tissues was determined in the standard measurement areas - the spine and the proximal thigh, and the content of muscle and adipose tissue was analyzed. We calculated appendicular muscle mass (AMM), which is the sum of upper and lower limb muscle mass and appendicular muscle index (AMI), the ratio of appendicular muscle mass to the square of height. AMM< 15
+ k
+g, AMI < 6
+ k
+g / m2 corresponds 
+to sarcopenia.Results: The average AMM was 17 .8±3.0
+ k
+g. 18% patients had AMM <15
+ k
+g / 
+m2. The average AMI was 6.8±1 .0
+ k
+g / m2. 25% patients had AMI < 6
+ k
+g/m2. 
+The average body mass index (BMI) was 27 .6±4.8
+ k
+g/m2. 37% patients were 
+overweight (25≤ BMI <29.9
+ k
+g/m2), 28% of women had a BMI corresponding 
+to obesity. The average fat content was 28.2
+ k
+g. 71% of women had an obesity, 
+according to X-ray absorptiometry, which is 2.5 times higher than the number of cases of obesity detected by BMI. A decrease a bone mineral density (BMD) was found in 73% of women, including osteoporosis in 25%. The most frequent phe-notype was osteopenic obesity (Table 1), which was detected in almost 40% of patients. Isolated osteoporosis (16.5%) and obesity (17 .7%) and osteosarcopenic obesity (16.5%) were found with approximately the same frequency. Osteosar -
+copenia was found in 9% of patients. In 4%, no changes in the compositional composition of the human body were detected.
+Table 1.  P athological phenotypes of body composition
+Pathological phenotypes of body composition n=79
+Osteoporosis, n (%) 13 (16,5)
+Obesity, n (%) 14 (17 ,7)
+Osteosarcopenia, n (%) 7 (8,9)
+Osteopenic obesity, n (%) 29 (36,7)
+Osteosarcopenic obesity, n (%) 13 (16,5)
+Conclusion: The overall frequency of pathological phenotypes of body compo-
+sition was high and amounted to 96.2% in women with RA. The most common pathological phenotype was an osteopenic obesity characterized by a decrease in BMD and an increase in fat mass.Disclosure of Interests: None declaredDOI: 10.1136/annrheumdis-2021-eular.3381
+AB0177  ANXIETY -DEPRESSIVE SPECTRUM IN PATIENTS 
+WITH RHEUMATOID ARTHRITIS AND ANKYLOSING SPONDILITIS
+M. Letaeva
+1, M. Koroleva1, J. Averkieva1, O. Malyshenko1, T. Raskina1. 
+1Kemerovo State Medical University, Department of Propedeutics of Internal 
+Medicine, Kemerovo, Russian Federation
+Objectives: to assess the frequency of occurrence of the anxiety-depressive 
+spectrum in patients with rheumatoid arthritis and ankylosing spondylitis.
+Methods: A survey was conducted of 44 patients aged from 21 to 57 years (aver -
+age age - 42.3 ± 6.7 years), who were treated at GAUZ KO OKGVV. All patients had a verified diagnosis of RA and AS according to the ACR criteria and received treatment with basic drugs. The control group consisted of 40 people comparable in age and sex, without concomitant pathology of RA and AS.The depression screening card, the subjective well-being scale, and the hospital anxiety and depression scale (HADS) were used to assess and detect anxie-ty-depressive syndrome. The assessment of the condition is carried out over the last 2 weeks, which corresponds to the temporary diagnostic criterion for depression.The Depression Screening Scale is a 35-item self-questionnaire that assesses 7 categories of signs: sleep and appetite disorders, anxiety, emotional instability, cognitive impairment, loss of self, guilt, and suicidal tendencies. A total score of 65 and above indicates a high likelihood of depression.The Subjective Well-Being Scale is a psychodiagnostic screening tool for meas-uring the emotional component of subjective well-being or emotional comfort.Hospital Anxiety and Depression Scale Zigmond A.S., Snaith R.P . was devel-oped for the primary detection of depression and anxiety in a general medical practice. The HADS scale consists of 14 statements with 4 possible answers and includes two parts: anxiety and depression. The sum of points of 8 or more is regarded as “subclinically expressed anxiety / depression” , 11 or more points - “clinically expressed anxiety / depression” .Results: According to the results of the depression screening questionnaire, 
+34 (77 .3%) patients with RA and AS showed signs of depression, while in the control group only 6 (15%) patients tested positive for the presence of depres-sive disorders. According to the data obtained when assessing the scale of well-being in the main group, 26 (59.1%) patients showed signs of emotional discomfort (the indicator was 80% or more), in the control group - in 6 (15%). Using the hospital scale of anxiety and depression HADS, anxiety-depressive syndrome was detected in 36 (81 .8%) patients with RA and AS: 16 (44.4%) patients had anxiety, 20 (55.6%) - depression, of them, subclinically expressed anxiety and depression were observed in 10 (27 .7%) and 12 (33.3%) people, respectively. Anxiety-depressive syndrome in the control group, according to the HADS questionnaire, was detected only in 8 (20%) patients, of whom 4 (10%) patients had subclinical anxiety and 4 (10%) had signs of depression. No clinically pronounced anxiety and depression were registered in the control group.Conclusion: In most patients with rheumatoid arthritis and ankylosing spondy -
+litis, anxiety-depressive disorders have been identified, which can directly affect both the course of the disease itself and the development of various complica-tions. Timely diagnosis of mental disorders and close cooperation of rheumatol-ogists, psychiatrists and psychologists in the selection of adequate therapy can improve the course and prognosis of the disease.Disclosure of Interests: None declaredDOI: 10.1136/annrheumdis-2021-eular.3444
+AB0178  COMORBIDITIES IN RHEUMATOID ARTHRITIS: DO 
+THEY INTERFERE WITH MYOCARDIAL FUNCTION?
+R. Dhahri1, W. Lahmar1, Y . Ben Abderrazek1, M. Slouma1, B. Louzir2, 
+L. Metoui1, I. Gharsallah1, H. Mahfoudhi3, C. Chourabi3, W. Fehri3. 1Military 
+Hospital of Instruction of T unis, Department of Rheumatology, T unis, T unisia; 
+2Military Hospital of Instruction of T unis, Department of Internal Medicine, T unis, 
+T unisia; 3Military Hospital of Instruction of T unis, Department of Cardiology, 
+T unis, T unisia
+Background: Patients with rheumatoid arthritis are at increased risk for car -
+diovascular disease (CVD).The early myocardial dysfunction in RA patients 
+may be detectable sooner using speckle-tracking echocariodgraphy to evalu-ate ventricular strain especially the global longitudinal strain (GLS), this has provided more comprehensive information on ventricular dysfunction in these patients.
+Objectives: In the present study, we evaluated comorbidities that interfered the 
+most with the GLS in rheumatoid arthritis patients.Methods: The study population was comprised of a case group (36 patients with 
+rheumatoid arthritis with no history of CVD and normal LVEF in the outpatient 
+population of the Rheumatology department in the military hospital of Tunis) and a matched control group (individuals without a history of rheumatoid arthritis or cardiac abnormalities referred for clinical check-ups). In both groups, 2D and 3D echocardiographic examinations were performed by a single cardiologist to assess cardiac functional parameters.
+Results: Anemia (36%) was found to be the most common comorbidity followed 
+by diabetes mellitus (25%), arterial hypertension (17%) and dyslipidemia (17%).Myocardial deformation study revealed that rheumatoid arthritis patients had a 
+significantly worse global longitudinal strain than healthy controls (18.99±2.81% vs 20.42±1 .33%; P=.015). Moreover, a third of the rheumatoid arthritis patients (and no healthy controls) exhibited subclinical left ventricular systolic dysfunction (GLS<18%).
+Anemia (r=−0.368, P=.027), Age (r=−0.365, P=.029), Diabetes mellitus 
+(r=−0.540, P=.001) and E/A (r=0.351, P=.036) were significantly correlated with  on November 7, 2023 by guest. Protected by copyright. http://ard.bmj.com/ Ann Rheum Dis: first published as 10.1136/annrheumdis-2021-eular.3346 on 19 May 2021. Downloaded from 
+
+ This is the end of the 13 text 
+
