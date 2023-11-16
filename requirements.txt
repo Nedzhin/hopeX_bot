@@ -1,11 +1,13 @@
 openai
 pycryptodome==3.15.0
 #for working with pdf documents
-lanchain 
+langchain 
 unstructured
 chromadb
+tiktoken
 
 # for telegram bot
+telegram
 python-telegram-bot
 python-telegram-bot[job-queue]
 numexpr

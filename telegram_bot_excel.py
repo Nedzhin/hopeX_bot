@@ -51,7 +51,7 @@ index = VectorstoreIndexCreator().from_loaders([loader])
 def get_spreadsheet():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     credentials = ServiceAccountCredentials.from_json_keyfile_name(
-        'hopex.json', scope
+        'hopeX.json', scope
     )
     gc = gspread.authorize(credentials)
     spreadsheet = gc.open("HopeX")  # Replace with your spreadsheet name
@@ -183,7 +183,7 @@ def main() -> None:
 
     
     application.job_queue.run_repeating(
-        check_spreadsheet_changes, interval=450, first=0
+        check_spreadsheet_changes, interval=15, first=0
     )
     # Run the bot until the user presses Ctrl-C
     application.run_polling()
